@@ -4,7 +4,9 @@
 * nodes.csv                            ：知识库所有文件列表
 * space_list.csv                       ：知识库列表
 * visited_folders.csv                  ：云盘已扫描过的文件夹token列表，是云盘扫描脚本的一个中间文件
-2. 目前在进行第一轮的文件下载和上传minio，速度较慢
+2. 目前在进行第一轮的文件下载和上传minio，速度较慢。上传路径如下：
+* 云盘文档：minio.middleware.dev.motiong.net/raw-knowledge/MotionG/CloudDriveFiles
+* 知识库文档：minio.middleware.dev.motiong.net/raw-knowledge/MotionG/SpacesFiles
 3. 各脚本功能如下：
 * cloud_drive_downloader.py            ：根据云盘文件列表下载并上传文件
 * cloud_drive_metadata_scanner.py      ：扫描所有云盘，将所有文件的metadata存入csv
