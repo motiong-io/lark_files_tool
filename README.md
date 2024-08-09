@@ -14,3 +14,9 @@
 * lark_access_token.py                 ：管理授权token的刷新
 * lark_cloud_document.py               ：函数库，一些通用函数在这里
 * refresh_token.txt                    ：保存最新token的文件
+4. 使用方法：
+  以下4个脚本为可执行脚本，直接运行即可，无需参数
+* cloud_drive_downloader.py            
+* cloud_drive_metadata_scanner.py      
+* wiki_downloader.py                  
+* wiki_metadate_scanner.py             
