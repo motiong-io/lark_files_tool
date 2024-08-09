@@ -7,6 +7,7 @@
 2. 目前在进行第一轮的文件下载和上传minio，速度较慢。上传路径如下：
 * 云盘文档：minio.middleware.dev.motiong.net/raw-knowledge/MotionG/CloudDriveFiles
 * 知识库文档：minio.middleware.dev.motiong.net/raw-knowledge/MotionG/SpacesFiles
+* 销售会议记录：minio.middleware.dev.motiong.net/raw-knowledge/MotionG/Sales Meetings （注：当前为手动完成妙记 视频和文本的备份）
 3. 各脚本功能如下：
 * cloud_drive_downloader.py            ：根据云盘文件列表下载并上传文件
 * cloud_drive_metadata_scanner.py      ：扫描所有云盘，将所有文件的metadata存入csv
