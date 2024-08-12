@@ -1,0 +1,683 @@
+2024-08-09 20:10:49,926 ERROR client.drive.v1.file.download failed, code: None, msg: None, log_id: 20240809200808BA334353B67DC3913B00
+2024-08-10 11:09:41,094 ERROR client.drive.v1.file.download failed, code: None, msg: None, log_id: 202408101106590A1D96FA0CFD803AC96F
+2024-08-10 12:30:10,500 ERROR client.drive.v1.file.download failed, code: None, msg: None, log_id: 20240810122729B5AA1DE756FA8139E67E
+2024-08-10 13:17:53,053 ERROR Failed to download item: \u200b行动元智能项目管理看板-22Q2\u200b (bitable), token: bascnlS5jWJvGFRCcqACmCQ4R7t
+2024-08-10 14:02:43,147 ERROR Failed to download item: 集成测试组每周沟通小会会议纪要 (docx), token: KVDDdTIDmoKJjzx9BOLcg8vLnMc
+2024-08-10 14:34:13,751 ERROR client.drive.v1.file.download failed, code: None, msg: None, log_id: 202408101431324A6F665AEDE8FB65582F
+2024-08-10 15:44:32,073 ERROR client.drive.v1.file.download failed, code: None, msg: None, log_id: 20240810154150617A8E03D0636E40761D
+2024-08-10 15:50:40,879 ERROR client.drive.v1.file.download failed, code: None, msg: None, log_id: None
+2024-08-10 16:18:01,230 ERROR client.drive.v1.file.download failed, code: None, msg: None, log_id: 20240810161519E37DBE25E005056E8132
+2024-08-10 16:19:39,506 ERROR client.drive.v1.file.download failed, code: None, msg: None, log_id: 202408101616583F9135B38A0AD563D30C
+2024-08-10 16:20:56,861 ERROR client.drive.v1.file.download failed, code: None, msg: None, log_id: 20240810161751DBCECCB56EC2903C5211
+2024-08-10 16:22:46,964 ERROR client.drive.v1.file.download failed, code: None, msg: None, log_id: 2024081016200563FC637D9D344D6CEF0F
+2024-08-10 16:22:46,965 ERROR Failed to download item: SI_2.0_en.pptx (file), token: FfOZb3tRDoFcyKx0gWkckcFQnNh
+2024-08-10 16:24:53,303 ERROR client.drive.v1.file.download failed, code: None, msg: None, log_id: 2024081016221110D433DAC14B254A154F
+2024-08-10 16:24:53,304 ERROR Failed to download item: 京东物流-顶升旋转AGV解决方案端到端项目产品规格确认书 20230530.pdf (file), token: XnVzbeNoEo7Lq3x9lVCctrl9nFf
+2024-08-10 17:14:52,735 ERROR Failed to download item: MBD开发任务清单 副本 (bitable), token: L92SbWTHEaLKvYsKIDQcFzPInpd
+2024-08-10 17:14:53,024 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101712113450301CC3CECB4ABD05
+2024-08-10 17:14:53,024 ERROR Failed to download item: 2024 BSC Action Plan I6.pptx (file), token: TnqPbqRyWorJGVxBmjBcnz8pngh
+2024-08-10 17:14:53,379 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 2024081017121216B52FFAAB257C4E0206
+2024-08-10 17:14:53,379 ERROR Failed to download item: 2024 BSC Action Plan I5.pptx (file), token: O8ynbShMYob6ZJxO66hcWVeXnOf
+2024-08-10 17:14:59,591 ERROR Failed to download item: 智能测试中心项目管理 (bitable), token: NSxabHtgSahSkaso8x7cDst9nQf
+2024-08-10 17:15:05,901 ERROR client.drive.v1.export_task.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810171224DC5F4507F8CF1D68CD6E
+2024-08-10 17:17:54,815 ERROR Failed to download item: 集成方案测试框架初步规划 (docx), token: Ymxid6Pfeo0jGoxcoKScuLScnsc
+2024-08-10 17:18:00,119 ERROR Failed to download item: 工作交接模板 ---XXX（交接人员） (docx), token: F7JBd8kkro0MbPxAia5cmUcinsf
+2024-08-10 17:18:01,829 ERROR Failed to download item: 工作交接流程 (docx), token: HrzpdYVxio2YDgxsk6Xcurh2nqe
+2024-08-10 17:26:40,577 ERROR Failed to download item: 字典定义 (bitable), token: VcQBbSuIJazx5vscZ4OczLlWnof
+2024-08-10 17:26:49,781 ERROR Failed to download item: 小视频 (docx), token: XLAodlbWpofCOAxxGvdcBLnenFg
+2024-08-10 17:26:51,678 ERROR Failed to download item: 安全注意事项 (docx), token: SKsWdwJTPocHuoxPj2wcuHdyncc
+2024-08-10 17:27:08,303 ERROR Failed to download item: 固件6.1.14Rev1 && 上位机 3.0.4.2 Rev1 (docx), token: IJGSdsE6Aommyex5UFmcrzQDnSp
+2024-08-10 17:27:10,044 ERROR Failed to download item: MD1直流旋转伺服电机 用户手册 (docx), token: D1B7dKmV5oZEMsxkcelckXFSnvd
+2024-08-10 17:27:22,994 ERROR Failed to download item: 零配件选型参考 (docx), token: RIXKdaa7doRPHYxND7JcqFRHnT5
+2024-08-10 17:27:24,632 ERROR Failed to download item: CM电容模块规格书_V1.00.01_20221212 (docx), token: ORm9dj8k8oCX9uxWMG6clsGmnDh
+2024-08-10 17:27:26,207 ERROR Failed to download item: RM泄放模块规格书_V1.00.01_20221212 (docx), token: Iur5dvqe5ohK0LxtiqLc7EvJnld
+2024-08-10 17:27:27,786 ERROR Failed to download item: EtherCAT XML文件 (docx), token: JIS3dW1WSoXWhqxPjhbciTkon8c
+2024-08-10 17:27:33,229 ERROR Failed to download item: 串口驱动 (docx), token: Kxk3dl0SNo2idaxXFq5cNwc9n1m
+2024-08-10 17:27:46,241 ERROR Failed to download item: 402协议专题说明 (docx), token: BK5NdfggEoURtZxo9r9cku9jnJk
+2024-08-10 17:27:55,908 ERROR Failed to download item: Modbus应用 (docx), token: PacId6P1nor30nxpQqNcDFAin6f
+2024-08-10 17:27:57,554 ERROR Failed to download item: CANopen设置 (docx), token: BUUtdhvBFo200Fx5rgicoZzDnqb
+2024-08-10 17:27:59,178 ERROR Failed to download item: EtherCAT通讯主站适配操作 (docx), token: APJLdde5UoVeN1xoKadc2saPnVL
+2024-08-10 17:28:00,786 ERROR Failed to download item: EtherCAT设置 (docx), token: FtxJdc5Ogo6VU0xHbDscPLJjnkd
+2024-08-10 17:28:06,898 ERROR Failed to download item: 离线分析功能 (docx), token: DhNJdTQ6yojxPjxyvsqcw55fnRU
+2024-08-10 17:28:21,176 ERROR Failed to download item: 本地升级 (docx), token: V9CEdo5Huo5yW3xyVhbcGLMrnYi
+2024-08-10 17:28:22,810 ERROR Failed to download item: 错误日志功能 (docx), token: AWv1dLPqYoveeAxRxxIcIDBznLg
+2024-08-10 17:28:24,432 ERROR Failed to download item: 辨识参数设置 (docx), token: S16AdtzT4o2nMFx8COIcpEmVnme
+2024-08-10 17:29:01,470 ERROR Failed to download item: 过载保护 (docx), token: R2ggdaAFJojGnpx55T4cknHNnxc
+2024-08-10 17:29:15,851 ERROR Failed to download item: 数字IO功能 (docx), token: BSlrdgN1JoMkcOx3QNvcBIxRnwf
+2024-08-10 17:29:32,677 ERROR Failed to download item: 轮廓位置模式(PPM） (docx), token: GuYfdzOSyoRZk7xtYIdcJn4Rncd
+2024-08-10 17:29:38,784 ERROR Failed to download item: 转矩脉动辨识 (docx), token: Xa4udoKTxoPyXQxmPDKcCNQbncf
+2024-08-10 17:29:40,402 ERROR Failed to download item: 压力控制模式（FC） (docx), token: Y1rmd9SmLolfbbx6gV4cMBh7nrf
+2024-08-10 17:29:41,939 ERROR Failed to download item: 模拟量控速度模式 (docx), token: TCi2d3Nb4o65Bvx8KtbcCjd0nqh
+2024-08-10 17:29:43,552 ERROR Failed to download item: 模拟量控力矩模式 (docx), token: XXTLdys16oTAFZxH0SgcgP3pnwb
+2024-08-10 17:29:45,155 ERROR Failed to download item: 脉宽调制转矩模式（PWMT）（暂不支持） (docx), token: XX8qdhXh3op9i3xf5NMcxiOMnCh
+2024-08-10 17:29:46,757 ERROR Failed to download item: 脉宽调制位置模式（PWMP）（暂不支持） (docx), token: QslYdpkH2ollwfxGeaJcfrg9nE6
+2024-08-10 17:29:48,366 ERROR Failed to download item: 脉宽调制速度模式（PWMV） (docx), token: EvJrdjXrroyIXoxlCuZcexYhnEh
+2024-08-10 17:29:53,910 ERROR Failed to download item: 轮廓转矩（力矩）模式（TPM） (docx), token: QoAmdCQEHoEm3oxwCn0cy5oynGe
+2024-08-10 17:29:55,518 ERROR Failed to download item: 轮廓速度模式（PVM） (docx), token: ZPZ2dZ9h7oeNV8xhh98cRhgtnLh
+2024-08-10 17:29:57,171 ERROR Failed to download item: 机械特性辨识 (docx), token: ZMsvdh9wpoJ9ubx2Ah5cGOuCnid
+2024-08-10 17:29:58,861 ERROR Failed to download item: 机械辨识 (docx), token: SukqdJICVolATsxH8XXcVtoqn1b
+2024-08-10 17:30:00,459 ERROR Failed to download item: 极对数辨识 (docx), token: Hmaid4cUzoV6qlxZfJpcCJSenBb
+2024-08-10 17:30:02,179 ERROR Failed to download item: 回零控制模式（HM (docx), token: CRLydUFIconKLixie43cpKvhnhd
+2024-08-10 17:30:03,898 ERROR Failed to download item: 霍尔辨识 (docx), token: CjRBdZg4noW9RbxrBrrc5IGonng
+2024-08-10 17:30:05,553 ERROR Failed to download item: 方向辨识 (docx), token: C8fZdvgygoPpA3xtAp8czebxngh
+2024-08-10 17:30:07,186 ERROR Failed to download item: 点位编程模式 (docx), token: JJSddRWxfowgXixHxJtcmogmnzf
+2024-08-10 17:30:08,846 ERROR Failed to download item: 电气辨识 (docx), token: DgTSdJoXLoTzP5xHgTectCSqnZd
+2024-08-10 17:30:10,444 ERROR Failed to download item: 电角度辨识 (docx), token: Imf1dtYxoodPsqxIuR5c7gYcnJe
+2024-08-10 17:30:12,079 ERROR Failed to download item: 参考信号模式 (docx), token: F9aSdrcNUoXsJuxBhE0cboEGnYg
+2024-08-10 17:30:13,680 ERROR Failed to download item: Z相辨识 (docx), token: Rev1d2E6Ao4SE7xa8F5cVbSTnje
+2024-08-10 17:30:30,631 ERROR Failed to download item: 通讯XML、EDS文件 (docx), token: BB5idb2otoXS7rxEgGucQRkxn84
+2024-08-10 17:30:32,221 ERROR Failed to download item: 认证 (docx), token: VjMadOGxhoFd5PxHixRcbFRNnNg
+2024-08-10 17:30:33,870 ERROR Failed to download item: 产品系列型号与铭牌说明 (docx), token: AR6mdllXPoIF4oxhim5cEJnJnub
+2024-08-10 17:30:35,540 ERROR Failed to download item: Flex-Pulse（UF-48VxxAPDN）接线引导与规范 (docx), token: C633dByxPooCOdx0lm4cSEq5nkb
+2024-08-10 17:30:37,391 ERROR Failed to download item: Flex-Modbus（UF-48VxxAMDN）接线引导与规范 (docx), token: WpWMdbgyBo3Mg7xrzIicul2cnHf
+2024-08-10 17:30:39,044 ERROR Failed to download item: Flex-EtherCAT（UF-48VxxAEDx）接线引导与规范 (docx), token: N97pddbsBoVaeaxy35wc28tTnih
+2024-08-10 17:30:40,678 ERROR Failed to download item: Flex-CANopen（UF-48VxxACDN）接线引导与规范 (docx), token: Xxzwd9cs4o71SBxxTxYcpsENnwd
+2024-08-10 17:30:51,360 ERROR Failed to download item: 行动元Uservo-Flex系列EtherCAT通讯型 快速连接指南-V02.02 (docx), token: FTHkdWVe8orwKixwBLVcjv1vnKR
+2024-08-10 17:30:52,974 ERROR Failed to download item: 行动元Uservo-Flex系列CANopen or Modbus通讯型 快速连接指南-V02.02 (docx), token: AbYUdUog6oeW9exJlE7c6meonxr
+2024-08-10 17:31:05,643 ERROR Failed to download item: Pulse 脉冲型 (docx), token: ZdZEd3zZAoXCYmxTXCecLvbCnlh
+2024-08-10 17:31:07,276 ERROR Failed to download item: Modbus 通讯型 (docx), token: InFRdN6droA2fAxPRehcvOLfnE1
+2024-08-10 17:31:13,005 ERROR Failed to download item: CANopen 通讯型 (docx), token: WHSadRqSHoYYHJxFQMlcLerOnic
+2024-08-10 17:31:14,621 ERROR Failed to download item: 认证 (docx), token: AizwdaGHuoyZmNxHmhrcthomnxB
+2024-08-10 17:31:16,292 ERROR Failed to download item: 通讯XML文件 (docx), token: MB0fdDF6HodSRfx4iDmcLkIbnTy
+2024-08-10 17:31:27,492 ERROR Failed to download item: 产品系列型号与铭牌说明 (docx), token: LmDrdErpcosms4xXVbGcKgMTnPe
+2024-08-10 17:31:29,096 ERROR Failed to download item: Dservo-脉冲型 接线引导与规范 (docx), token: HVNRdP7choU3maxcsyBcH32PnXc
+2024-08-10 17:31:30,671 ERROR Failed to download item: Dservo-EtherCAT通讯型 接线引导与规范 (docx), token: ZTWDdM7CNoCz1zxYjkscuxvUnBb
+2024-08-10 17:31:48,084 ERROR Failed to download item: 产品系列型号与铭牌说明 (docx), token: FPzQdKsu3oFbnIx87YUcmkNmnWd
+2024-08-10 17:31:53,692 ERROR Failed to download item: DM1-G60xxW 双轴 General常规型（CANopen & Modbus & Pulse）接线引导与规范 (docx), token: KFEmd1R98oHxvnxKzuZcBZTfn7g
+2024-08-10 17:31:55,346 ERROR Failed to download item: 通讯EDS文件 (docx), token: NYXQdE6Ffoi9WzxyGbZcTqt9nIf
+2024-08-10 17:32:06,717 ERROR Failed to download item: 产品系列型号与铭牌说明 (docx), token: K1N1dcVE3ow2vKxJctfc8RO0nJe
+2024-08-10 17:32:13,182 ERROR Failed to download item: 接线引导与规范 (docx), token: FQKmdhSiRotTGKx3YGhc4Q1Nnsd
+2024-08-10 17:32:19,847 ERROR Failed to download item: 通讯XML文件 (docx), token: GgG0dWrxSo9Fo4xN3TacjCxknuc
+2024-08-10 17:32:21,494 ERROR Failed to download item: 尺寸、3D文件 (docx), token: Mpr0dSQAaoO4KYxEnrNcSxRgneg
+2024-08-10 17:32:27,475 ERROR Failed to download item: 接线指导 (docx), token: CwaMdBrcBov2yexGOtOctleYnwf
+2024-08-10 17:32:29,180 ERROR Failed to download item: 产品系列型号与铭牌说明 (docx), token: G7QPdOGuso2GV1xmf28cpTCmnUd
+2024-08-10 17:32:34,562 ERROR Failed to download item: 通讯XML、EDS文件 (docx), token: IcXwdBiGpoD6WXxnHe0cwxain1f
+2024-08-10 17:32:36,159 ERROR Failed to download item: 认证 (docx), token: WNlldncC4oVHdBxEprCcJIgJnYe
+2024-08-10 17:32:37,744 ERROR Failed to download item: 尺寸、3D文件 (docx), token: D8Aqd4JdZoxqoUxi65Ic631mnJd
+2024-08-10 17:32:39,396 ERROR Failed to download item: 产品系列型号与铭牌说明 (docx), token: EFymdpAbRoW7CSx26qNcF8OWn1c
+2024-08-10 17:32:41,078 ERROR Failed to download item: DP2-G48xxNDD-x General常规型（CANopen or Modbus）接线引导与规范 (docx), token: L0qydM8ArotSiNxS22XcaHVfnzc
+2024-08-10 17:32:42,972 ERROR Failed to download item: DP2-E48xxxDD EtherCAT通讯型 接线引导与规范 (docx), token: AoYgd4MbioWYjhxXE3jcvjiCnT9
+2024-08-10 17:32:44,627 ERROR Failed to download item: DP1-E48xxxDD EtherCAT通讯型 接线引导与规范 (docx), token: CGVRdEwpKoHJ9lxYOaXcdA8vnCf
+2024-08-10 17:33:00,751 ERROR Failed to download item: DP2-E48xxxDD EtherCAT通讯型 (docx), token: U2SKdhcWfo1XXAxaOO9c1lrTnMd
+2024-08-10 17:33:06,379 ERROR Failed to download item: 通讯XML、EDS文件 (docx), token: SeZMdZFL1oJqVuxJXRhcgTvKnWd
+2024-08-10 17:33:08,015 ERROR Failed to download item: 认证 (docx), token: OlxRdGf9XoMSQ2xMqyMc8mWtnEb
+2024-08-10 17:33:09,640 ERROR Failed to download item: 尺寸、3D文件 (docx), token: NcXidC3Wgo5CKexVs6Zcc2hDnjg
+2024-08-10 17:33:11,260 ERROR Failed to download item: 产品系列型号与铭牌说明 (docx), token: Ta5Fd7rUjohxJ6xBCZdc3P1Vnnh
+2024-08-10 17:33:13,822 ERROR Failed to download item: DG1-E48xxx EtherCAT通讯型 接线引导与规范 (docx), token: GUPZdK5VvoMC5gxgT6bcOpC8n7c
+2024-08-10 17:33:15,852 ERROR Failed to download item: DG1-G48xxx-x General常规型（CANopen or Modbus or Pulse）接线引导与规范 (docx), token: Ox6qdtotmozEqBxpV6Yc2TZpnnf
+2024-08-10 17:33:17,463 ERROR Failed to download item: DG3-G72xxxDD General常规型（CANopen or Modbus or Pulse） (docx), token: IQ8sdAL0JocqItxp9BAc2rv6nec
+2024-08-10 17:33:19,117 ERROR Failed to download item: DG2-G48xxxDA-x General常规型（CANopen or Modbus or Pulse）接线引导与规范 (docx), token: D6W8dDinYoncExxVDbfcE3zxnRl
+2024-08-10 17:33:20,735 ERROR Failed to download item: DG2-G48xxNDD-x General常规型（CANopen or Modbus）接线引导与规范 (docx), token: Zaoldt7ibosndIxfvgEcBoj7nvc
+2024-08-10 17:33:22,369 ERROR Failed to download item: DG2-E48xxxDD EtherCAT通讯型 接线引导与规范 (docx), token: ODnYdnPlNo1UK9x3pnYcqt3Yn8f
+2024-08-10 17:33:28,704 ERROR Failed to download item: DG3-G72xxxDD General常规型（CANopen or Modbus or Pulse） (docx), token: Yr4tdbNKYoEbjYxeeTMcWhITnw2
+2024-08-10 17:34:01,317 ERROR Failed to download item: DG1-E48xxx EtherCAT通讯型 (docx), token: HNfadG2qWo5E6RxsoKacmen5nzh
+2024-08-10 17:34:06,817 ERROR Failed to download item: 通讯EDS文件 (docx), token: XcEhdTCB7oIoBExRKPgc2EvVnYb
+2024-08-10 17:34:08,367 ERROR Failed to download item: 尺寸、3D文件 (docx), token: PzRrd05jwo7yTPxsxpNcKhtRngb
+2024-08-10 17:34:10,339 ERROR Failed to download item: 产品系列型号与铭牌说明 (docx), token: SFgudIfjSoMyWZxn5sjc6hX1nmg
+2024-08-10 17:34:16,695 ERROR Failed to download item: DS1-G48xxN-x  General常规型（CANopen or Modbus）接线引导与规范 (docx), token: IkvhdWzC1oSeRExnAz5c3BTonof
+2024-08-10 17:34:18,318 ERROR Failed to download item: DS1-G48xxM-x  General常规型（CANopen or Modbus）接线引导与规范 (docx), token: TcU6doIrIoRHYkxLNtUcny2vn9c
+2024-08-10 17:34:27,520 ERROR Failed to download item: 通讯XML、EDS文件 (docx), token: P8zKdaaN3oVde7xs2R9cqLDDnFf
+2024-08-10 17:34:33,596 ERROR Failed to download item: 产品系列型号与铭牌说明 (docx), token: XFVXd3V9Yo7vbPxbEYLcquOznAI
+2024-08-10 17:34:35,392 ERROR Failed to download item: UF2-E48xxxDD EtherCAT通讯型 接线引导与规范 (docx), token: PbUBddhjtoU7ubxppv8cMHUpnnc
+2024-08-10 17:34:37,051 ERROR Failed to download item: UF2-G48xxNDD-x General常规型（CANopen or Modbus）接线引导与规范 (docx), token: E9FFdcvjGoXVtzxDssfczQTJnXb
+2024-08-10 17:34:53,944 ERROR Failed to download item: 再生制动专题说明 (docx), token: Mf6pdyQSNo8OmKxYuN6cfGdnnTe
+2024-08-10 17:35:25,779 ERROR Failed to download item: 会议行程管理 (bitable), token: XnA5bZdLYaeqtXsjNB1ciu2Nnog
+2024-08-10 17:35:34,738 ERROR Failed to download item: 回零模式----1 副本 (docx), token: D9midpUt5omih4xICsLcwJ1qnHb
+2024-08-10 17:35:36,479 ERROR Failed to download item: 回零模式----1 副本 (docx), token: IC9GdgXGIofOW6xa4sXcdt4On9f
+2024-08-10 17:35:48,410 ERROR Failed to download item: SSI绝对值编码器 (docx), token: YnaIdn0sCo9jZqxo24DckQzxnAb
+2024-08-10 17:36:06,011 ERROR Failed to download item: 伺服控制系统竞品比较 (docx), token: OSNyd7Fctoi6w5xg2o0c5cjLnVe
+2024-08-10 17:36:07,671 ERROR Failed to download item: 伺服系统组成 (docx), token: QULhdAHDgo3FQgxjSXDcHzC8n6b
+2024-08-10 17:42:34,263 ERROR Failed to download item: 永合瑞-终端-苏州钧舵机器人有限公司2024-04-02调试记录 (docx), token: SXpSdcUE7o1xwWxnNdRc4810nIh
+2024-08-10 17:45:57,681 ERROR Failed to download item: 沈阳新松机器人自动化股份有限公司2023-08-23调试记录 (docx), token: AIR6dUukiomfU4xenskc23bQnwy
+2024-08-10 17:54:46,375 ERROR Failed to download item: 敬科机器人2023-06-07调试记录 (docx), token: WA0wdecnCoYYbuxWSUAcIcrFnJd
+2024-08-10 17:57:05,287 ERROR Failed to download item: 武汉普诺瑞达自动控制有限公司2023-05-22调试记录 (docx), token: WgahdnaIHoIUhqxDpuScOgF6nVc
+2024-08-10 17:58:07,516 ERROR Failed to download item: 昆山市淞瑞工控有限公司2023-05-12调试记录 (docx), token: GjdCdyta0om9E7x1n37cGQ0fn7c
+2024-08-10 18:00:53,982 ERROR Failed to download item: 商飞2022-09-23调试记录 (docx), token: MoF4d8c7soP2yGxGP5BcMrdrnAh
+2024-08-10 18:01:29,499 ERROR Failed to download item: 钧舵现场问题复盘总结-3.6 (docx), token: L1ZwdBd0loS6EAx2w6OcsAVQnOf
+2024-08-10 18:02:09,275 ERROR Failed to download item: 深圳市盟力特科技有限公司2023-02-17调试记录 (docx), token: F6REdpXrZoWxpKxnSAycipNPn4b
+2024-08-10 18:02:25,143 ERROR Failed to download item: 东莞市泰莱自动化科技有限公司2023-02-13调试记录 (docx), token: Mi8rdaY1Voi2ksxUEswcD64dnJg
+2024-08-10 18:02:30,261 ERROR Failed to download item: 万福达2023-02-11调试记录 (docx), token: DCI0dTE8koitNlxIS8kcnAb1nif
+2024-08-10 18:03:40,236 ERROR Failed to download item: 武汉红星杨2023-01-09调试记录 (docx), token: SrTkd66oGoOTwXxQQUDcAbx5nrd
+2024-08-10 18:04:05,931 ERROR Failed to download item: 银光2023-01-04调试记录 (docx), token: RJ47dgotyos52Ox567EccT9FnNU
+2024-08-10 18:04:11,159 ERROR Failed to download item: 广州市昊志机电股份公司2023-01-03调试记录 (docx), token: H8yAd03Bdo4w2px6iuZc9srhnMb
+2024-08-10 18:04:42,618 ERROR Failed to download item: 昆山市淞瑞工控有限公司2022-12-09调试记录 (docx), token: VtVBd7l4BoXQooxrSTzcd7OhnGe
+2024-08-10 18:06:11,124 ERROR Failed to download item: 深圳市华科星科技有限公司2022-11-28调试记录 (docx), token: ORfLdNSIwoifq5xO0HJcAyQonxc
+2024-08-10 18:06:12,746 ERROR Failed to download item: 深圳市华科星科技有限公司2022-11-28调试记录 (docx), token: MZoXdM5fvoatIrxzdYZc0nU5njh
+2024-08-10 18:06:26,481 ERROR Failed to download item: 深圳市艾而特科技有限公司2022-11-15调试记录 (docx), token: OmxddXc0roeFR9xBhQCcKLjinMg
+2024-08-10 18:06:39,339 ERROR Failed to download item: 深圳市大族思特科技有限公司2022-11-22调试记录 (docx), token: CqW1dxOpdoyNOoxGzcFcLN6rngf
+2024-08-10 18:06:49,892 ERROR Failed to download item: 深圳市中图仪器有限公司2022-11-11调试记录 (docx), token: ZBtxdZzxdoHs2nxPBI4cgLlNnzn
+2024-08-10 18:07:51,502 ERROR Failed to download item: 客户服务数据统计 (bitable), token: bascnRGGRu8vRSAMVDE20gTwuWb
+2024-08-10 18:08:04,467 ERROR Failed to download item: \U0001f340 客户服务工单系统需求说明文档 (docx), token: doxcnMgL6ZC7ORtzl9r6OIXpFBe
+2024-08-10 18:08:17,553 ERROR Failed to download item: 2021年客户调试问题整理 (sheet), token: shtcnB0Lo9BKZicQlxBqI0RL6lf
+2024-08-10 18:08:40,820 ERROR Failed to download item: 上海派启自动化科技有限公司2024-08-05调试记录 (docx), token: ZxhmdILwWo90WSx4djfcu59Bn1d
+2024-08-10 18:09:05,549 ERROR Failed to download item: 深圳市盟力特科技有限公司2024-07-31调试记录 (docx), token: IF3YdnaCqoqSx6x1LAHcvByan5f
+2024-08-10 18:09:07,184 ERROR Failed to download item: 深圳市艾而特科技有限公司2024-07-31调试记录 (docx), token: QU3xdULaeo8ZPLxuEJzcXNkFntf
+2024-08-10 18:09:08,859 ERROR Failed to download item: 永合瑞-终端-苏州钧舵机器人有限公司2024-07-23调试记录 (docx), token: Jm6qdw92Fo6vHJx5exJcW8YZnyf
+2024-08-10 18:09:10,487 ERROR Failed to download item: 天津罗升2024-07-23调试记录 (docx), token: GAN3dhJCPoHSgQxhFvWcJ8rlnbe
+2024-08-10 18:09:34,508 ERROR Failed to download item: 深圳市华科星科技有限公司2024-07-18调试记录 (docx), token: OlHGdfhY9o9RoNxRo4Wc7ZcDnAb
+2024-08-10 18:09:39,685 ERROR Failed to download item: 苏州士脉-终端-苏州英诺智能2024-07-17调试记录 (docx), token: VUO3dXQ1boN2PAxVAILcFhytnVd
+2024-08-10 18:11:04,827 ERROR Failed to download item: 深圳市艾而特科技有限公司2024-06-28调试记录 (docx), token: Y6xmdOg5Yo1IUSxy3PycMHJZnDg
+2024-08-10 18:11:09,962 ERROR Failed to download item: 北京高控科技有限公司2024-06-14调试记录 (docx), token: Qa3ydTZL5o0myPx6lnGcfAFYnSd
+2024-08-10 18:11:40,067 ERROR Failed to download item: 深圳市华科星科技有限公司2024-06-14调试记录 (docx), token: YN0zdIesCoG8KCxPj5nc2pCfnmb
+2024-08-10 18:11:46,853 ERROR Failed to download item: 深圳市艾而特科技有限公司2024-06-17调试记录 (docx), token: B2KidCQw4orxH9xOQAscSdAlnXe
+2024-08-10 18:11:59,850 ERROR Failed to download item: 梦飞-终端-XYZ20232024-06-07调试记录 (docx), token: RBurdxMt4o0xfkxRO0ZcUdUGnAg
+2024-08-10 18:13:13,413 ERROR Failed to download item: 高控-终端-北京航天军创技术有限公司2024-05-27调试记录 (docx), token: T6MhdbGMXouUttx67H3cWpCmnGd
+2024-08-10 18:13:19,295 ERROR Failed to download item: 北京德罗巴科技有限公司2024-05-22调试记录 (docx), token: As3WdVz7dojfpyxXxUccbPsPnCc
+2024-08-10 18:13:20,910 ERROR Failed to download item: 深圳市科力尔电机有限公司2024-05-22调试记录 (docx), token: Ssuwdrs87oK9UWxKWHGcweXBnnd
+2024-08-10 18:13:26,113 ERROR Failed to download item: 永合瑞-终端-苏州钧舵机器人有限公司2024-05-21调试记录 (docx), token: WJtcdKnV2oyS3lxC2H0cTSMSnyh
+2024-08-10 18:13:27,746 ERROR Failed to download item: 北京高控科技有限公司2024-05-16调试记录 (docx), token: OhmXdUTWCo2yhex9P9NcRr5Tneb
+2024-08-10 18:13:58,174 ERROR Failed to download item: 广州梦飞电子科技有限公司2024-05-10调试记录 (docx), token: GHfSdapHQoPPU8xikfxcA1qvnZ9
+2024-08-10 18:14:06,825 ERROR Failed to download item: 苏州华兴源创科技股份有限公司2024-05-06调试记录 (docx), token: Df84d57XoodzuOxvf2Vcfp3jnah
+2024-08-10 18:14:08,435 ERROR Failed to download item: 华科星-终端-金动力智能科技2024-04-30调试记录 (docx), token: Rav8dgIHaojeQPxi9Xmc2Al5ndb
+2024-08-10 18:14:10,136 ERROR Failed to download item: 深圳市艾而特科技有限公司2024-04-19调试记录 (docx), token: H4FsdrfYsoYfJ7xo6ARcjDg4nqd
+2024-08-10 18:14:19,628 ERROR Failed to download item: 万至达电机2024-04-10调试记录 (docx), token: IR1WdOEueoNJ7DxWIeIcXMRNnvb
+2024-08-10 18:14:47,289 ERROR Failed to download item: 永合瑞-终端-苏州钧舵机器人有限公司2024-03-21调试记录 (docx), token: Ued6dNZZdoaU7dxyC6WcGgS2nmg
+2024-08-10 18:15:04,548 ERROR Failed to download item: 微创手术机器人2024-03-13调试记录 (docx), token: TG4idj8zUoRyCoxbmL7cx3lcnab
+2024-08-10 18:16:19,830 ERROR Failed to download item: 深圳市华科星科技有限公司2024-01-10调试记录 (docx), token: E5BKda09UoZ5trxsLHlcuSqUnTc
+2024-08-10 18:16:21,457 ERROR Failed to download item: 上海派启自动化科技有限公司2024-01-09调试记录 (docx), token: HO9XdF3m3oZ8OfxT12KcqzmKnDd
+2024-08-10 18:16:35,504 ERROR Failed to download item: 云芯机器人（深圳）有限公司2023-11-23调试记录 (docx), token: GMJydNp0FoJvooxMVeNcCsi7nmg
+2024-08-10 18:16:49,318 ERROR Failed to download item: 永合瑞-终端-苏州钧舵机器人有限公司2023-12-12调试记录 (docx), token: VFCkdaFvmoKoxcx2mT9cbHPOnde
+2024-08-10 18:16:58,289 ERROR Failed to download item: 苏州迈为科技股份有限公司2023-12-04调试记录 (docx), token: L6TaduhovoMOtzxwWQrcuf2ZnLJ
+2024-08-10 18:17:11,595 ERROR Failed to download item: 横川机器人（深圳）有限公司2023-10-13调试记录 (docx), token: F6sAdQPfno8ULBxeDGIc9HqhnXb
+2024-08-10 18:17:16,801 ERROR Failed to download item: 正远2023-11-16调试记录 (docx), token: Oa6udQgBAojgrXxnFnmcq56rnqb
+2024-08-10 18:17:18,378 ERROR Failed to download item: 北京高控科技有限公司2023-11-15调试记录 (docx), token: Cyy6diCo7ojsHKxcUzEcIfh3nRe
+2024-08-10 18:17:20,053 ERROR Failed to download item: 北京高控科技有限公司2023-11-16调试记录 (docx), token: AGRDdkKxboOApNx7Bc1cYyEXnYf
+2024-08-10 18:17:28,715 ERROR Failed to download item: 亚辉龙Z轴测试-20230113 (docx), token: K7Mwd07SZosWNhxsEBfcS5BunTb
+2024-08-10 18:17:54,656 ERROR Failed to download item: 东莞方为自动化2023-11-08调试记录 (docx), token: J8AldTEACoSpV3xwjSucUPIYnUf
+2024-08-10 18:17:56,430 ERROR Failed to download item: 北京高控科技有限公司2023-11-06调试记录 (docx), token: Z65qdB6ZyoC6YoxUM8AcEoQ0n1d
+2024-08-10 18:18:25,619 ERROR Failed to download item: 上海珺芯-终端-上海原能生物低温设备有限公司2023-10-24调试记录 (docx), token: EwDkd93dNoPRhhx4j3NcZzyfndb
+2024-08-10 18:19:01,868 ERROR Failed to download item: 深圳市华科星科技有限公司2023-10-13调试记录 (docx), token: J03gdNlzVogn5IxpIdrcW7EpnNh
+2024-08-10 18:19:03,470 ERROR Failed to download item: 上海派启自动化科技有限公司2023-10-10调试记录 (docx), token: Dx3ndq26yoATHtxfZIPcrm2fnve
+2024-08-10 18:19:33,262 ERROR Failed to download item: 上海森龙2023-09-19调试记录 (docx), token: P2H8dWBe9o1uo1xN4WqcoCqtnwb
+2024-08-10 18:19:34,867 ERROR Failed to download item: 上海点滨2023-09-18调试记录 (docx), token: NKOid5eecokZR2xDQjzcSoxEn2W
+2024-08-10 18:19:47,377 ERROR Failed to download item: 沈阳新松机器人自动化股份有限公司2023-08-23调试记录 (docx), token: ByiUdueRFokBufxze6WcBoaInVg
+2024-08-10 18:19:59,580 ERROR Failed to download item: 深圳市华科星科技有限公司2023-09-15调试记录 (docx), token: Qb3Cd1vC0oDq3RxX07ccdm9HnRb
+2024-08-10 18:20:44,335 ERROR Failed to download item: 广东云驰时代技术有限公司2023-08-28调试记录 (docx), token: WErAdXARvoWAxrxUry6cYDD4nth
+2024-08-10 18:21:32,735 ERROR Failed to download item: 永合瑞-终端-苏州华兴源创2023-06-29调试记录 (docx), token: WiSudQZX3ougn2xBQawcHifFnkf
+2024-08-10 18:21:37,959 ERROR Failed to download item: 永合瑞-终端-德康威尔2023-08-08调试记录 (docx), token: NoX7ddqJpoxBOqxk2B2cXOw9nNf
+2024-08-10 18:21:43,812 ERROR Failed to download item: 精卓信（北京）科技有限公司2023-08-03调试记录 (docx), token: YhU1d9N7WoNK48xGdhcc5pDGnWg
+2024-08-10 18:21:52,248 ERROR Failed to download item: 深圳矽谷半导体2023-07-31调试记录 (docx), token: YaxIdBhW7oJ0rRxYOtFcraVCnKe
+2024-08-10 18:21:53,929 ERROR Failed to download item: 北京高控-终端-北京智川2023-08-02调试记录 (docx), token: N5KMd3Mh2oYIcRxPgo5cFuhrnde
+2024-08-10 18:22:11,205 ERROR Failed to download item: 苏州格尔博自动化技术有限公司2023-07-31调试记录 (docx), token: VnX8dPVWsoIgRAxPGdZceFHPnvh
+2024-08-10 18:22:27,056 ERROR Failed to download item: 沈阳新松机器人自动化股份有限公司2023-07-25调试记录 (docx), token: P7eBddF8ioh9BLxu66TcZQG2nVb
+2024-08-10 18:22:36,676 ERROR Failed to download item: 北京高控-终端-北京智川2023-07-10调试记录 (docx), token: Df49dfBfooM5ZgxWl5EcYvXPnug
+2024-08-10 18:22:57,657 ERROR Failed to download item: 北京高控科技有限公司2023-07-14调试记录 (docx), token: A3XEdtt60oOmsCxAKtpc8I4En3c
+2024-08-10 18:22:59,255 ERROR Failed to download item: 永合瑞-终端-苏州钧舵机器人有限公司2023-07-10调试记录 (docx), token: Km9FdndMaonHSMxDZrWcRYJGnUh
+2024-08-10 18:23:35,236 ERROR Failed to download item: 磁稳科技2023-06-30调试记录 (docx), token: AwWedodlzobOFAxB8OkcB7gJnkU
+2024-08-10 18:23:43,979 ERROR Failed to download item: 上海协开-上海金矢机器人科技有限公司2023-06-21调试记录 (docx), token: V3Qkd9glyoreUcxbyWIcO5l4nta
+2024-08-10 18:23:45,589 ERROR Failed to download item: 国科天成2023-06-19调试记录 (docx), token: Wevpd0ZjqoW87GxEKUncg30GnKd
+2024-08-10 18:24:25,669 ERROR Failed to download item: 沈阳新松机器人自动化股份有限公司2023-06-12调试记录 (docx), token: G4jMdoTp5oVdyyxfqPgcgqumnJe
+2024-08-10 18:24:27,269 ERROR Failed to download item: 沈阳新松机器人自动化股份有限公司2023-06-12调试记录 (docx), token: KBr3dEb5NoKDiSxnNancsUqanJc
+2024-08-10 18:24:36,628 ERROR Failed to download item: 上海派启自动化科技有限公司2023-06-12调试记录 (docx), token: XqaxdNOYjo4Rl4xZtqGcPJIMnod
+2024-08-10 18:24:44,041 ERROR Failed to download item: 深圳市艾而特科技有限公司2022-09-29调试记录 (docx), token: GB2ZdAKouoytIAxDiojcVw0bnHh
+2024-08-10 18:24:49,696 ERROR Failed to download item: 西安信宜工贸有限公司2023-06-08调试记录 (docx), token: PBHMdkTyEoLyObxPNggcHJojnSg
+2024-08-10 18:24:51,306 ERROR Failed to download item: 西安摩森2023-06-08调试记录 (docx), token: PlyodTZeAo6axBxzxGEcgezrnwc
+2024-08-10 18:25:30,527 ERROR Failed to download item: 美高-终端-大连翼龙2023-06-06调试记录 (docx), token: Qq6tdI52EouEwqxrwCecArtNnDf
+2024-08-10 18:26:16,031 ERROR Failed to download item: 深圳市华科星科技有限公司2023-05-12调试记录 (docx), token: UBazd8DR5odv9Hxok7Ac94jWn3f
+2024-08-10 18:26:17,888 ERROR Failed to download item: 沈阳新松机器人自动化股份有限公司2023-05-23调试记录 (docx), token: Fghbd6LdroTvoZxiEmKcWsGxnHb
+2024-08-10 18:26:19,803 ERROR Failed to download item: 承寰-终端-深圳市微组半导体科技有限公司2023-05-26调试记录 (docx), token: EvCVdwflsoOIEzxbeI7c7C2Inke
+2024-08-10 18:26:21,450 ERROR Failed to download item: 北京高控科技有限公司2023-05-22调试记录 (docx), token: ZCMSdMs3coQj9ExLjpIcDDiAnAe
+2024-08-10 18:26:44,593 ERROR Failed to download item: 中科芯微2023-02-14调试记录 (docx), token: RKpqd2oiBoWVOTxh5SRc1j4gn6e
+2024-08-10 18:26:57,303 ERROR Failed to download item: 深圳市兰星琪科技有限公司2023-05-15调试记录 (docx), token: PlFCdb8b8oFk34xg2LEcgmPLnRf
+2024-08-10 18:27:18,418 ERROR Failed to download item: 昆山市淞瑞工控有限公司2023-05-12调试记录 (docx), token: Xy30dNk11oCEwcxo7EDcIvJHnVd
+2024-08-10 18:27:39,360 ERROR Failed to download item: 协开-终端-碧绿威自动化（苏州）有限公司2023-04-03调试记录 (docx), token: KjHUdHIpPod1FRxgnYAcj3TYnCe
+2024-08-10 18:28:03,306 ERROR Failed to download item: 万福达2023-02-11调试记录 (docx), token: RGy3drjIvoVUy8xcUf4clfTxnHe
+2024-08-10 18:28:04,915 ERROR Failed to download item: 深圳市盟力特科技有限公司2023-05-10调试记录 (docx), token: Zz7Ed822yowHe5xrEVkclb5znhb
+2024-08-10 18:28:10,075 ERROR Failed to download item: 深圳市盟力特科技有限公司2023-04-14调试记录 (docx), token: KwxEdFB1CoT8UixNCwScYXHanEh
+2024-08-10 18:28:46,272 ERROR Failed to download item: 北京中安吉泰科技有限公司2023-04-11调试记录 (docx), token: DPJWdYAtXowfIFx4jB6cxmSXnTd
+2024-08-10 18:28:47,900 ERROR Failed to download item: 东莞华越半导体2023-02-17调试记录 (docx), token: FXLFdVAIboiaivxWnH2co0Cen6f
+2024-08-10 18:28:54,166 ERROR Failed to download item: 广州诺顶智能2023-04-07调试记录 (docx), token: FerCdE9exoyXoLxUI2Ycj46dn8g
+2024-08-10 18:29:12,250 ERROR Failed to download item: 苏州威森特2023-03-13调试记录 (docx), token: ZxmNdilMgoVQ2jxqDpJcTnOOneb
+2024-08-10 18:29:18,562 ERROR Failed to download item: 佳峰2023-03-04调试记录 (docx), token: S2TZdvughoPdoWxBckHcGNBbnLc
+2024-08-10 18:29:27,594 ERROR Failed to download item: 德瑞精工（深圳）有限公司2023-02-28调试记录 (docx), token: PYWXdlSlYoYvRkxygLyckfuynwf
+2024-08-10 18:29:29,201 ERROR Failed to download item: 正远2023-02-27调试记录 (docx), token: TLBBdenCNovJF3xftuDcrp1Mn9b
+2024-08-10 18:29:38,786 ERROR Failed to download item: 深圳市景颢智造自动化科技有限公司2023-02-20调试记录 (docx), token: CZtkdN1fGoqciNxDZlDcBV1CnnX
+2024-08-10 18:29:47,962 ERROR Failed to download item: 速动智能拧紧技术（广东）有限公司2023-02-15调试记录 (docx), token: LB1udRyPEoV5ybx1wfCc4unQn6f
+2024-08-10 18:29:49,615 ERROR Failed to download item: 亚辉龙Y轴测试-20230213 (docx), token: Ss0WdbUb5orxHzxsOTjcQCzdnLb
+2024-08-10 18:29:58,858 ERROR Failed to download item: 深圳市华科星科技有限公司2023-02-10调试记录 (docx), token: LontdCWHMoVssQxirx3cO3Qfnhe
+2024-08-10 18:30:38,985 ERROR Failed to download item: 深圳市艾而特科技有限公司深圳市艾而特科技有限公司——东莞台达电子终端插件机项目背景说明文档 (docx), token: NP72dENXhoxOLxxAWLCcXTv3nPf
+2024-08-10 18:30:40,578 ERROR Failed to download item: 天津罗升芯片-点胶项目背景说明文档 (docx), token: K6A6dQA8Ho12GBxJZ0rc8rT8n8g
+2024-08-10 18:30:46,148 ERROR Failed to download item: 深圳市艾而特科技有限公司艾而特终端-誉正-富通固晶机项目项目背景说明文档 (docx), token: JDvRdviM5oatFcxibKkcUexPnId
+2024-08-10 18:31:19,132 ERROR Failed to download item: 施迈特自动化高铁检测项目项目背景说明文档 (docx), token: MrH9d5XjHoAldfxXU6jc6nvPnYg
+2024-08-10 18:31:43,921 ERROR Failed to download item: 北京高控科技有限公司电主轴控制项目背景说明文档 (docx), token: RGA1ddvM6oeCVBxPepvcWIs5nYe
+2024-08-10 18:32:01,159 ERROR Failed to download item: 北京高控科技有限公司小电感电机温升测试项目背景说明文档 (docx), token: JJdTdGNF1o9AuGxTYCicGYVXnBf
+2024-08-10 18:32:07,330 ERROR Failed to download item: 北京高控科技有限公司安纳金客户力控调试项目背景说明文档 (docx), token: SsZYdgcCzoH4iAxYMImcGEiQnjg
+2024-08-10 18:32:08,979 ERROR Failed to download item: 北京高控科技有限公司高控终端-安纳金项目背景说明文档 (docx), token: Bq6YdnkB3odABfxaH8VcknVanng
+2024-08-10 18:33:16,339 ERROR Failed to download item: 深圳市华科星科技有限公司华科星-终端-慧灵科技ZR调试项目背景说明文档 (docx), token: OLiadozeeoGveMxclJKc9h1gnsd
+2024-08-10 18:33:49,409 ERROR Failed to download item: 永合瑞-终端-苏州钧舵机器人有限公司钧舵客户-伟德泰-终端郑州富士康出差现场ZR问题调试 (docx), token: T5tddmmmhoKE49x3TpfcwkdSnHb
+2024-08-10 18:34:11,664 ERROR Failed to download item: 成都机场物流成都物流线can通讯和定制功能测试测试项目背景说明文档 (docx), token: SoyudHhyNouGMSxeF1ZcWIHdnCe
+2024-08-10 18:34:52,883 ERROR Failed to download item: 深圳市华科星科技有限公司华科星终端金动力项目背景说明文档 (docx), token: JU8Id2EqeoL2snxzardcgZmNnyg
+2024-08-10 18:34:54,507 ERROR Failed to download item: 永合瑞-终端-苏州钧舵机器人有限公司钧舵终端-金龙东创ZR轴问题调试项目背景说明文档 (docx), token: T0aqdFfikoiZc1xGgoFczMYBnsf
+2024-08-10 18:35:25,847 ERROR Failed to download item: 永合瑞-终端-苏州钧舵机器人有限公司深圳富士康终端调试项目背景说明文档 (docx), token: Br8GdW0S6oqiXSxvDq7cVvFknzz
+2024-08-10 18:35:27,428 ERROR Failed to download item: 永合瑞-终端-苏州钧舵机器人有限公司均舵终端-恒力天 ZR模组调试项目背景说明文档 (docx), token: MH02dIqrXoB1WBxc9TOccYjxnif
+2024-08-10 18:35:29,055 ERROR Failed to download item: 北京高控科技有限公司高控-进和项目项目背景说明文档 (docx), token: JWf5d5xmHow82nxRj4Wc1gqXndb
+2024-08-10 18:35:30,734 ERROR Failed to download item: 微创手术机器人深圳微创项目背景说明文档 (docx), token: Fyj8dHGUko5GQzxdu1Gc59yrnUe
+2024-08-10 18:35:32,390 ERROR Failed to download item: 卡美纳客户项目信息同步 (docx), token: ZFMRdaLY1opZVTxWfshcyXGAnhb
+2024-08-10 18:35:38,710 ERROR Failed to download item: 上海微创医疗机器人(集团)股份有限公司旋转项目背景说明文档 (docx), token: RqyRdHezjonuadx9CNtc1ZmLnAg
+2024-08-10 18:35:43,937 ERROR Failed to download item: 怡合达怡合达终端X200A替换工作项目背景说明文档 (docx), token: BFBHd6L7GooMP9x6S6mcdyWPnph
+2024-08-10 18:36:10,525 ERROR Failed to download item: 横川机器人（深圳）有限公司东莞领益双工位音圈电机项目背景说明文档 (docx), token: JoYedUxS2o6BuYxVcV1cLrrMn1f
+2024-08-10 18:36:12,280 ERROR Failed to download item: 横川机器人（深圳）有限公司横川东莞领益终端音圈电机项目背景说明文档 (docx), token: DTX7d69wnoIgbLxK494cJrpknQd
+2024-08-10 18:36:23,716 ERROR Failed to download item: 华科星-终端-深圳市爱博医疗机器人有限公司批量驱动器报警硬件短路保护项目背景说明文档 (docx), token: RuacdZOIKo5axqxPESXcFO8inLb
+2024-08-10 18:36:25,358 ERROR Failed to download item: 伯朗特机器人股份有限公司调试更换伯朗特编码器后设备运行效果项目背景说明文档 (docx), token: A7nMdjb1coVQoyx2S08c0VBXnVx
+2024-08-10 18:36:26,972 ERROR Failed to download item: 北京中安吉泰科技有限公司增量ABZ+霍尔项目背景说明文档 (docx), token: H05XdxdCNo7kSPxoDewc9Is4nnb
+2024-08-10 18:36:32,060 ERROR Failed to download item: 深圳市华科星科技有限公司华科星关节电机模组项目背景说明文档 (docx), token: SA30ditDKoUoOax30aZcbWS1nDq
+2024-08-10 18:36:33,927 ERROR Failed to download item: 横川机器人（深圳）有限公司横川机器人终端鴻福泽音圈电机调试项目背景说明文档 (docx), token: Me8ddEng0og9XzxDjDocsLrynDh
+2024-08-10 18:36:51,133 ERROR Failed to download item: 永合瑞-终端-苏州钧舵机器人有限公司带弹簧音圈-比亚迪厂商项目背景说明文档 (docx), token: NyM2dCuXBowHqNx9cuWcZ1OJndg
+2024-08-10 18:36:56,312 ERROR Failed to download item: 华科星-终端-深圳市微组半导体科技有限公司直线电机模组项目背景说明文档 (docx), token: XbI0dDtdXoO5yOxGMxmcoNYBnUd
+2024-08-10 18:37:12,845 ERROR Failed to download item: 大连佳峰自动化股份有限公司省线式编码器项目背景说明文档 (docx), token: ZEXadRTAEosFSJxyxMPcyjMrn7f
+2024-08-10 18:37:14,405 ERROR Failed to download item: 云芯机器人（深圳）有限公司云芯机器人项目背景说明文档 (docx), token: VbRPds2cZoRscuxPWCUc9LX5nFc
+2024-08-10 18:37:58,333 ERROR Failed to download item: 昆山市淞瑞工控有限公司同步带旋转电机项目背景说明文档 (docx), token: XEDwdnbWxopZHsxjFr8cWwhpnyb
+2024-08-10 18:38:04,586 ERROR Failed to download item: 上海派启自动化科技有限公司南京牧雷激光——高低温一体项目背景说明文档 (docx), token: Bn5pdIYgqo653cxjM5ncGpylnrc
+2024-08-10 18:38:18,247 ERROR Failed to download item: 上海珺芯-终端-上海原能生物低温设备有限公司原能生物-直线电机项目背景说明文档 (docx), token: Iz4FdHGTrosJCLxhJttcDRVAnXb
+2024-08-10 18:38:19,894 ERROR Failed to download item: 梦飞-终端-深圳市千维庞克科技有限公司3D打印项目项目背景说明文档 (docx), token: GQ2pdUtRro7RwMxNWzcc1LXJnUg
+2024-08-10 18:38:29,423 ERROR Failed to download item: 苏州智驱机电科技有限公司阿尔伯特-龙门同步项目背景说明文档 (docx), token: Q8J3dm827ocVMdx6HpAcrkAanpe
+2024-08-10 18:38:41,509 ERROR Failed to download item: 深圳市华科星科技有限公司CANOPENcsp模式位置规划值异常项目背景说明文档 (docx), token: VaT6dzWb2ohKcaxspmAc4ouDnNc
+2024-08-10 18:38:43,112 ERROR Failed to download item: 上海派启自动化科技有限公司大力矩电机调试项目背景说明文档 (docx), token: M2LBddy3GoLwC0xxYSTcYpR4ndb
+2024-08-10 18:38:56,249 ERROR Failed to download item: 上海森龙晶铸-直线电机项目背景说明文档 (docx), token: F3mkdJFgHoAtwPxQWbkc8E3onTS
+2024-08-10 18:39:34,783 ERROR Failed to download item: 横川机器人（深圳）有限公司华为音圈电机方案项目背景说明文档 (docx), token: BThIdHJgVoueg8xaRaTcqW3UnMg
+2024-08-10 18:39:47,201 ERROR Failed to download item: 上海满花国际贸易有限公司满花-华章物流重载AGV项目项目背景说明文档 (docx), token: IWj4d9qY6ohMrsxIn0wcHIWanHc
+2024-08-10 18:39:48,806 ERROR Failed to download item: 南京智赫自动化工程有限公司终端江苏正和军工雷达翻转装置项目背景说明文档 (docx), token: Ur2jdA5MXoviNbx4muOcR0vsnIe
+2024-08-10 18:39:50,410 ERROR Failed to download item: 上海点滨点滨-上舜驱动器40KG负载调试项目背景说明文档 (docx), token: IlRWdwH6bowM3IxBNR9cwscwnuh
+2024-08-10 18:40:10,769 ERROR Failed to download item: 广东云驰时代技术有限公司云驰时代直线模组项目背景说明文档 (docx), token: HKJwdxIhno5om0xg2eecxAb6n43
+2024-08-10 18:40:28,447 ERROR Failed to download item: 苏州华兴源创科技股份有限公司华兴源创转塔凸轮终端客户测试项目背景说明文档 (docx), token: GXbAdUlZmobrkjxJBeAc1rYVnLb
+2024-08-10 18:40:30,075 ERROR Failed to download item: 深圳市义聚科技有限公司义聚-歌尔ZR模组测试项目背景说明文档 (docx), token: KcYfdpfH6oX3FIxDHGjcjeo0nO4
+2024-08-10 18:40:40,580 ERROR Failed to download item: 深圳市艾而特科技有限公司艾而特终端深科达项目背景说明文档 (docx), token: HAWcdVBTooB3xIxoOUkcTedTnJd
+2024-08-10 18:40:50,281 ERROR Failed to download item: 深圳市创鑫激光股份有限公司创鑫激光旋转电机测试项目背景说明文档 (docx), token: JveIdpeP8olqbqxt3lcctyLenya
+2024-08-10 18:41:00,948 ERROR Failed to download item: 苏州华兴源创科技股份有限公司华兴源创转塔凸轮项目项目背景说明文档 (docx), token: NjO4d9GB2obXXfxMWPncBBtGn7b
+2024-08-10 18:41:02,721 ERROR Failed to download item: 深圳市金盛艺科技有限公司直线电机驱动器替换项目背景说明文档 (docx), token: HjNNd40J8oRVbSxl4NxcTEOvnLf
+2024-08-10 18:41:21,144 ERROR Failed to download item: 苏州格尔博自动化技术有限公司格尔博电机测试项目背景说明文档 (docx), token: Ct3RdHr6yoFpubxKybWcTERNnOf
+2024-08-10 18:41:30,097 ERROR Failed to download item: 深圳竞实科技有限公司终端鑫三力驱动器替代项目背景说明文档 (docx), token: MeOgdaLtGoTjFwxxDKacMpf2nLe
+2024-08-10 18:41:31,724 ERROR Failed to download item: 苏州格尔博自动化技术有限公司格尔博电机编码器异常项目背景说明文档 (docx), token: NA4hdF0VcoABhqxqpiXcKD6hn2d
+2024-08-10 18:41:33,368 ERROR Failed to download item: 上海点滨上海点浜上舜科技项目背景说明文档 (docx), token: LIvpdFLgOo7y64x0mavcI1wynRh
+2024-08-10 18:41:34,980 ERROR Failed to download item: 沈阳新松机器人自动化股份有限公司晶圆校准设备（Aligner）项目背景说明文档 (docx), token: GwyhdVMxBoTXLXxXX0fc1GjRn2e
+2024-08-10 18:42:05,124 ERROR Failed to download item: 北京高控-终端-北京智川河北科美意环保机械制造有限公司100M CAN通讯项目项目背景说明文档 (docx), token: JWamdKS7soWg9rxt4EacpoJLnLd
+2024-08-10 18:42:14,686 ERROR Failed to download item: 深圳矽谷半导体音圈电机力控项目背景说明文档 (docx), token: AefgdNxVgoYBhoxkU1lciTTNnl3
+2024-08-10 18:42:16,367 ERROR Failed to download item: 东莞市大研自动化设备有限公司大研机器人协作机器人项目背景说明文档 (docx), token: AfxgdOKwwomTlcxVJXscCz18nQc
+2024-08-10 18:42:22,016 ERROR Failed to download item: 北京高控科技有限公司西安粼粼光电单旋变编码器项目背景说明文档 (docx), token: DtAHdEJbKopjTJxwtnkcuEKbnUh
+2024-08-10 18:42:23,639 ERROR Failed to download item: 磁稳科技直线电机速度波动测试项目背景说明文档 (docx), token: OiyydZi31oqhPXxEjgucZrW9nYc
+2024-08-10 18:42:44,415 ERROR Failed to download item: 国科天成两轴机器人SSI编码器项目背景说明文档 (docx), token: JeMpdM3ctos30Sx1gzPcUAulnHh
+2024-08-10 18:42:49,463 ERROR Failed to download item: 辽宁亚辉机械设备有限公司沈阳煤科院旋转电机项目背景说明文档 (docx), token: GDa2dW08OoTTsXxxNaXc2UwHn7f
+2024-08-10 18:42:51,098 ERROR Failed to download item: 上海点滨点滨—上舜驱动器调测项目背景说明文档 (docx), token: FgA0deBMBo6X4TxWon2ch9F8nrh
+2024-08-10 18:43:07,680 ERROR Failed to download item: 柯锐视（深圳）科技有限公司科锐视项目背景说明文档 (docx), token: GBI1dTmL9oTeClxmB04cTlFhnhc
+2024-08-10 18:43:09,252 ERROR Failed to download item: 北京高控科技有限公司东北大学直线电机项目背景说明文档 (docx), token: XZMEd6i5boYPioxxRcpcGPkYnBb
+2024-08-10 18:43:30,665 ERROR Failed to download item: 深圳市艾而特科技有限公司旋转电机带凸轮传动项目背景说明文档 (docx), token: Dn0Odo7Naoo2msxyyBqcx7FRnlh
+2024-08-10 18:43:51,873 ERROR Failed to download item: 西安信宜工贸有限公司直流有刷空心杯电机调试项目背景说明文档 (docx), token: Qe1Ddhe05o2uVzxr0sdcKLXMnqe
+2024-08-10 18:43:53,503 ERROR Failed to download item: 西安摩森西安森灏——天线雷达项目背景说明文档 (docx), token: TsLhdv8d6ozYEux1n9Xcyudbned
+2024-08-10 18:44:13,844 ERROR Failed to download item: 美高-终端-大连翼龙贴片机应用项目背景说明文档 (docx), token: Rh1ad0b9doYqIfx96aOcGnVdnTe
+2024-08-10 18:44:15,501 ERROR Failed to download item: 高控-终端-北京航空航天大学手术机器人项目背景说明文档 (docx), token: UCQRdFz2eoejcHxDoKGccD2FnIb
+2024-08-10 18:44:17,251 ERROR Failed to download item: 高控-特莱泽（终端）-中国卫通（终端）两轴机械臂项目背景说明文档 (docx), token: RDi4doMijo1quZxahnwcA0rhnNe
+2024-08-10 18:44:33,415 ERROR Failed to download item: 沈阳新松机器人自动化股份有限公司晶圆搬运设备项目背景说明文档 (docx), token: OHdSdLk7boDpuRx1x6McXoxJnhc
+2024-08-10 18:44:38,844 ERROR Failed to download item: 武汉普诺瑞达自动控制有限公司正运动匹配flexR 驱动器项目背景说明文档 (docx), token: FqgDdRinwolpasx4YNgcs0QKnJR
+2024-08-10 18:44:48,916 ERROR Failed to download item: 速程精密ZR模组力控调试项目背景说明文档 (docx), token: IWVpdACUUogwgdxYAFxcnBHPn8b
+2024-08-10 18:44:50,535 ERROR Failed to download item: 承寰-终端-深圳市微组半导体科技有限公司音圈电机力控测试项目背景说明文档 (docx), token: Sv1tdkaOZoEpGEx4mSJcMTmBn3f
+2024-08-10 18:45:12,482 ERROR Failed to download item: 永合瑞-终端-苏州青士智能苏州青士 常压直线电机空载调试项目背景说明文档 (docx), token: BYdfdBpzJoVWC5xCr5Rc5RExnwd
+2024-08-10 18:45:14,083 ERROR Failed to download item: 昆山市淞瑞工控有限公司力控调试项目背景说明文档 (docx), token: UgBVdjKMgo7g62xSdqVcc0dYn7g
+2024-08-10 18:45:15,696 ERROR Failed to download item: 昆山市淞瑞工控有限公司力控调试项目背景说明文档 (docx), token: QZw7dGGnkozwowxcZoVclH5ungg
+2024-08-10 18:45:17,784 ERROR Failed to download item: 科创机电-终端-深圳市大族光伏装备有限公司光伏板上料辊轴电机项目背景说明文档 (docx), token: EnaPdc9OAouZaTxl36ZcQ5NsnUh
+2024-08-10 18:46:09,327 ERROR Failed to download item: 诚创意音圈电机项目背景说明文档 (doc), token: doccnwjjapeMv3FAgOdSjJfS6Vb
+2024-08-10 18:46:18,835 ERROR Failed to download item: 深圳市盟力特科技有限公司多摩川电机性能测试项目背景说明文档 (docx), token: RThAdxW2uoYKhcxkFxLcvCypnog
+2024-08-10 18:46:27,874 ERROR Failed to download item: 普诺瑞达-终端-品信凯卓品信生物电机空载性能测试项目背景说明文档 (docx), token: WmdldAGD4ojvDTxwtIZc42KAnfe
+2024-08-10 18:46:33,400 ERROR Failed to download item: 苏州威森特医疗机械臂项目背景说明文档 (docx), token: DUnVdxQ9DonW15xaEUYcavx6nld
+2024-08-10 18:47:13,295 ERROR Failed to download item: 速动智能拧紧技术（广东）有限公司速动开环力控项目背景说明文档 (docx), token: I7Gidkdmjo2zaqxeakBcyUHyn4e
+2024-08-10 18:47:14,967 ERROR Failed to download item: 东莞市泰莱自动化科技有限公司泰来终端展扬自动化项目背景说明文档 (docx), token: EgMrdwgttohplFxynTkcfEsUnvg
+2024-08-10 18:47:16,560 ERROR Failed to download item: 长园长园项目背景说明文档 (docx), token: PveWd8oFioKnWZxof68cpQMXn5c
+2024-08-10 18:47:22,264 ERROR Failed to download item: 艾美迦三协艾美珈直线电机调试项目背景说明文档 (docx), token: RwLbdxH3moltSixQMYWcJrRynWb
+2024-08-10 18:47:34,450 ERROR Failed to download item: 承寰-终端-深圳市微组半导体科技有限公司XY轴直线电机测试项目背景说明文档 (docx), token: UFagdf9l3oAcABxFsSQcViRCnMe
+2024-08-10 18:47:39,701 ERROR Failed to download item: 上海协开自动化科技有限公司SMD元件测试封装设备上料电机测试项目背景说明文档 (docx), token: D2SwdlZjAoSJ1kxPi3kc0pjbnzf
+2024-08-10 18:47:45,372 ERROR Failed to download item: 上海敏动机电有限公司敏动终端 苏州融萃机器人项目背景说明文档 (docx), token: Y3XVdvdp2oZe32xfO8qcZK8Fnu1
+2024-08-10 18:47:51,134 ERROR Failed to download item: 精卓信（北京）科技有限公司精卓信终端天津扬天机器人项目背景说明文档 (docx), token: JVaGdqYsZo2IDzxHstzcAff7nhh
+2024-08-10 18:47:52,743 ERROR Failed to download item: 武汉红星杨电机测试项目背景说明文档 (docx), token: YbKBdp9ULoWqtux3plUcnJXWn2g
+2024-08-10 18:48:05,567 ERROR Failed to download item: 中安佰特（武汉）智能设备有限公司通用项目背景说明文档 (docx), token: GB5idJd4oosdqUxraHCcHQGvnKg
+2024-08-10 18:48:12,148 ERROR Failed to download item: 布法罗机器人科技成都有限公司布法罗机械臂项目项目背景说明文档 (docx), token: OjR6dDw9yo0IJqxNzENc48CAnnh
+2024-08-10 18:48:13,844 ERROR Failed to download item: 深圳市谱诺自动化有限公司交流伺服驱动竞品替换项目背景说明文档 (docx), token: Ns8GdSYo9o5fJKxQx6AcRb9mnPc
+2024-08-10 18:48:15,437 ERROR Failed to download item: 深圳市谱诺自动化有限公司交流伺服竞品替换项目背景说明文档 (docx), token: UU3rdmNiDoOmoExTnOAcmAb4n9g
+2024-08-10 18:48:23,267 ERROR Failed to download item: 正远正远音圈电机调试项目背景说明文档 (docx), token: Gv8Vdmolfo0dq6xyR6ycGUgFnxh
+2024-08-10 18:48:24,928 ERROR Failed to download item: 深圳市华科星科技有限公司华科星终端T型丝杆项目项目背景说明文档 (docx), token: NA3EddSDKoejyWxlJfWcsgcNnFc
+2024-08-10 18:48:45,352 ERROR Failed to download item: 深圳伺峰科技有限公司（盛泰奇）盛泰奇XYQ平台测试项目背景说明文档 (docx), token: KXmDdDQHLoOTCmxABiecHDbUnsf
+2024-08-10 18:48:51,822 ERROR Failed to download item: 上海义瀚自动化科技有限公司工具测试4项目背景说明文档 (docx), token: NP4edwAsZo6G2jxkusfcawyInZ3
+2024-08-10 18:49:07,713 ERROR Failed to download item: 艾德迈科技（深圳）有限公司客户音圈电机初次使用项目背景说明文档 (docx), token: XqEsdcOHkoWpmExEg9qcBzi1n3e
+2024-08-10 18:49:51,406 ERROR Failed to download item: 深圳竞实科技有限公司焊丝机项目项目背景说明文档 (docx), token: Mhu0dq0JdoSFjbxJb2xckj2NnVd
+2024-08-10 18:50:10,398 ERROR Failed to download item: 速动智能拧紧技术（广东）有限公司速动闭环力控项目背景说明文档 (docx), token: FjekdcUIHolbCyxfiK2cIOjhn5g
+2024-08-10 18:50:12,080 ERROR Failed to download item: 速动智能拧紧技术（广东）有限公司速动闭环力控项目背景说明文档 (docx), token: BcB4dlM1qoS8IlxUzHrcWtJwnAg
+2024-08-10 18:50:13,728 ERROR Failed to download item: 速动智能拧紧技术（广东）有限公司苏动闭环力控测试项目背景说明文档 (docx), token: OkbDdTUkXowMTTxQHuDcAqDnn1d
+2024-08-10 18:50:21,281 ERROR Failed to download item: 速动智能拧紧技术（广东）有限公司速动闭环力控项目背景说明文档 (docx), token: HIuZd5wQ2oepp3x3NgscDKvHnkg
+2024-08-10 18:50:31,335 ERROR Failed to download item: 速动智能拧紧技术（广东）有限公司速动闭环力控项目背景说明文档 (docx), token: WpuPd3tVmokpL9xvKg5chkKZnDd
+2024-08-10 18:50:32,918 ERROR Failed to download item: 深圳伺峰科技有限公司（盛泰奇）GKG固晶机摆臂调试项目背景说明文档 (docx), token: LNOqdsV9EopjYLxTg7KciIJmnxc
+2024-08-10 18:50:47,160 ERROR Failed to download item: 深圳市华科星科技有限公司华科星终端V登元caopen使用问题项目背景说明文档 (docx), token: TMVbdsdnzo2wefxiaq7c2ocPnBg
+2024-08-10 18:50:48,805 ERROR Failed to download item: 深圳市大族思特科技有限公司大族震镜电机项目项目背景说明文档 (docx), token: DBvDdZbHYo1gccxPLdbcE4z7nbd
+2024-08-10 18:51:01,242 ERROR Failed to download item: 芯鹏项目背景说明 (doc), token: doccnhr0N7vncFhEpqkV6ZiF5Gh
+2024-08-10 18:51:09,671 ERROR Failed to download item: 深圳市中图仪器有限公司项目背景说明文档 (docx), token: KLrSdhjOooPUZxxqyn5cKHT0nag
+2024-08-10 18:51:11,344 ERROR Failed to download item: 轴心项目背景说明 (doc), token: doccneAp9nFJS1pGzqe7o9mLske
+2024-08-10 18:51:16,594 ERROR Failed to download item: 艾德迈科技（深圳）有限公司U型直线电机到位整定时间调试项目背景说明文档 (docx), token: CT2zdCGzHoIBZNxH2H0cJaYOnzd
+2024-08-10 18:51:18,223 ERROR Failed to download item:       华越半导体项目背景说明 (doc), token: doccnVtbkdjcIdfkLf4LzKWt29b
+2024-08-10 18:52:05,880 ERROR Failed to download item: 苏州华兴源创科技股份有限公司华兴源创音圈电机测试项目背景说明文档 (docx), token: ZkEDdzVXuogkbYx4jdIcU4K2nIg
+2024-08-10 18:52:11,848 ERROR Failed to download item: 苏州华兴源创科技股份有限公司华兴源创音圈电机测试项目背景说明文档 (docx), token: AZ9xdKqF6o4UzOxCrHfc9eFKnWb
+2024-08-10 18:52:13,433 ERROR Failed to download item: 苏州华兴源创科技股份有限公司华兴原创音圈电机测试项目项目背景说明文档 (docx), token: VNFCdpAqcot6hsxwlc2cBRRmnjU
+2024-08-10 18:52:24,455 ERROR Failed to download item: 深圳市盟力特一体化关节项目背景说明文档 (doc), token: doccn5PxgCK2df5LoihPbAZxhSG
+2024-08-10 18:53:11,253 ERROR Failed to download item: 小象电动60V 驱动器项目背景说明文档 (doc), token: doccn5kxk1EMPgfybxc8v5PT0yP
+2024-08-10 18:53:52,221 ERROR Failed to download item: 昆山淞瑞-高节拍电机调试-项目背景  (doc), token: doccnTa9A9b1tsp4E6yEQUcSuzg
+2024-08-10 18:54:41,316 ERROR Failed to download item: 佳峰2022-11-29调试记录 (docx), token: GP2Ddfdx1oQYb1xu9DZc4Fy8nHg
+2024-08-10 18:54:42,947 ERROR Failed to download item: 触点智能科技客户调试记录 (doc), token: doccn8xTF36Nwq09yhwSITgKfGb
+2024-08-10 18:54:44,687 ERROR Failed to download item: 国奥科技调试记录 (doc), token: doccn3j5ptvYaw6I4q0pdVrDXdf
+2024-08-10 18:54:49,973 ERROR Failed to download item: 艾美佳增量式编码器报错（已解决） (doc), token: doccnanTQFJbSmBtnDNe7thYNgf
+2024-08-10 18:54:51,905 ERROR Failed to download item: 中科芯微-编码器错误问题 (doc), token: doccnrawEBxQYNtQfqvoA9HZv9c
+2024-08-10 18:54:58,784 ERROR Failed to download item: 昊志环形驱动器六轴机器人项目专题 (docx), token: BYQodfbyBoeq2wxEzVMcxYA8nXf
+2024-08-10 18:55:42,462 ERROR Failed to download item: 大寰机器人音圈电机位置抖动问题（未解决）-20220420 (doc), token: doccnOG4UgalqxE4b3kCeDU2Jfd
+2024-08-10 18:55:44,089 ERROR Failed to download item: 普诺瑞达-终端-品信凯卓2023-03-20调试记录 (docx), token: W6gqdWRNzoS2x6xmPLzcWOGhnjh
+2024-08-10 18:55:49,804 ERROR Failed to download item: 爱博医疗机器人2023-01-28调试记录 (docx), token: AbUJdXXLRonLyMxB8n4c5Q7snte
+2024-08-10 18:55:51,460 ERROR Failed to download item: 深圳市景颢光电科技有限公司调试记录 (docx), token: Jr8gdRKmYorfo8xddGpcAgaanyh
+2024-08-10 18:56:00,744 ERROR Failed to download item: 东莞市泰莱自动化科技有限公司2023-02-13调试记录 (docx), token: JmOMdezYmoeKfbxnJU1ccQN5nLh
+2024-08-10 18:56:55,476 ERROR Failed to download item: 广州市昊志机电股份公司2023-01-28调试记录 (docx), token: LZwkd77A5oW39oxFYAdc34OznGh
+2024-08-10 18:56:57,055 ERROR Failed to download item: 西安摩森2023-01-13调试记录 (docx), token: UF3WdlbUkogz0lxpxCtczg8Dnsb
+2024-08-10 18:56:58,794 ERROR Failed to download item: 武汉红星杨2023-01-09调试记录 (docx), token: Hz3PdbopNouRtTx3FAWc6qc9nOe
+2024-08-10 18:57:09,536 ERROR Failed to download item: 亚辉龙XY+Z轴测试-20220705 (doc), token: doccn6z75K13LCzsZz4fqWhGKBg
+2024-08-10 18:57:11,201 ERROR Failed to download item: 精卓信（北京）科技有限公司2023-01-11调试记录 (docx), token: LJhkdwTzvoCna4x88x7cO9NFnEg
+2024-08-10 18:57:12,819 ERROR Failed to download item: 昊志测试1-10 (docx), token: P8pCdYf33oekMZxf78IcvYwSnkd
+2024-08-10 18:57:21,774 ERROR Failed to download item: V登元（华科星终端）—调试记录（未解决） (doc), token: doccnvpX3bPOJA2NI3XPt4H4xmg
+2024-08-10 18:57:27,352 ERROR Failed to download item: 昊志环形驱动器六轴测试连线 (docx), token: USsXd2uKRoa7owxGe7jcE3I1ngb
+2024-08-10 18:57:28,994 ERROR Failed to download item: 东莞华越半导体2023-01-06调试记录 (docx), token: LaxLdEPaBo8UHhxXm6jco25Anxc
+2024-08-10 18:57:30,630 ERROR Failed to download item: 中科芯微2022-12-01调试记录（R） (docx), token: RMGkdZSHwoTr7YxvFT4c7uJMnHc
+2024-08-10 18:57:49,796 ERROR Failed to download item: 中安佰特（武汉）智能设备有限公司2022-12-31调试记录 (docx), token: Zla3dX10kohAgUxndhvcxJhgnBe
+2024-08-10 18:57:51,413 ERROR Failed to download item: 上海交大2022-12-20调试记录 (docx), token: TKAXdU2fyoApX6xeYL6clIjRnSb
+2024-08-10 18:58:09,724 ERROR Failed to download item: 深圳市华科星科技有限公司2022-12-12调试记录 (docx), token: WLETdD7a7oPrazxEkpUc7gbLnLb
+2024-08-10 18:58:26,186 ERROR Failed to download item: 深圳伺峰科技有限公司（盛泰奇）2022-12-09调试记录 (docx), token: DNm6dl0Cfod10AxyGilcO68anxb
+2024-08-10 18:58:31,239 ERROR Failed to download item: 艾德迈科技（深圳）有限公司2022-12-08调试记录 (docx), token: X9pSdC6QkoHYiQxqQojcB2xsnFe
+2024-08-10 18:58:46,262 ERROR Failed to download item: 深圳一清创新科技有限公司2022-12-08调试记录 (docx), token: P9IXdfBiYo874OxYGeEcYoKrnC3
+2024-08-10 18:58:47,841 ERROR Failed to download item: 南方科技大学2022-12-06调试记录 (docx), token: JnytdvalOoeksrxKhtMcrZEFnPd
+2024-08-10 18:58:54,003 ERROR Failed to download item: 佳峰2022-12-06调试记录 (docx), token: ZSEZdGETVoes6yx43Eqc1sCCn4c
+2024-08-10 18:59:04,944 ERROR Failed to download item: 中科芯微2022-12-01调试记录 (docx), token: F9dudhWh1on5qHx4xBYcRfAFnJc
+2024-08-10 18:59:06,743 ERROR Failed to download item: 深圳市艾而特科技有限公司2022-12-01调试记录 (docx), token: GWosd7AXOo6WKFx1T9icrfUVnvL
+2024-08-10 18:59:20,961 ERROR Failed to download item: 深圳伺峰科技有限公司（盛泰奇）2022-12-01调试记录 (docx), token: MIB2d7rH7omHCdx6OqncXvvmnic
+2024-08-10 18:59:22,562 ERROR Failed to download item: 横川机器人（深圳）有限公司2022-12-01调试记录 (docx), token: OSozdaxkPo6STax4J6ecaoztnBg
+2024-08-10 18:59:24,205 ERROR Failed to download item: 速动智能拧紧技术（广东）有限公司2022-11-25调试记录 (docx), token: G2smd8H6doyfTzxqVahcglcjn5b
+2024-08-10 19:00:08,210 ERROR Failed to download item: 京磁智能技术（广东）有限公司2022-11-26调试记录 (docx), token: JqqUdFOUGo7xzKxMJF3czcYYnbd
+2024-08-10 19:00:26,869 ERROR Failed to download item: 深圳市艾而特科技有限公司2022-11-21调试记录 (docx), token: LttPdXVRXoHL6jxmj1Hcb1itnOT
+2024-08-10 19:00:49,977 ERROR Failed to download item: 东莞华越半导体2022-11-16调试记录 (docx), token: NeXzdJaH5oEhe4xV62OcS0hXnRz
+2024-08-10 19:01:04,481 ERROR Failed to download item: 上海镁伽智能科技有限公司2022-11-09调试记录 (docx), token: TI7QdL0bwog9G3xgI2ucpmVJngf
+2024-08-10 19:01:17,505 ERROR Failed to download item: 北京中安吉泰科技有限公司2022-11-10调试记录 (docx), token: MqNfdUPvIoUuazxeguwcuw47nMf
+2024-08-10 19:01:54,393 WARNING Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002A2DCC915E0>, 'Connection to storage.minio.middleware.dev.motiong.net timed out. (connect timeout=300)')': /raw-knowledge?location=
+2024-08-10 19:02:03,957 ERROR Failed to download item: 苏州华兴源创科技股份有限公司2022-11-08调试记录 (docx), token: UMrsd7eOiodZspxF8wJcAmNnn4b
+2024-08-10 19:02:34,666 ERROR Failed to download item: 艾而特公司调试记录 (docx), token: KKRVdCWe4o2evTxW6ZXcvlNonOd
+2024-08-10 19:02:36,259 ERROR Failed to download item: 艾尔特公司调试记录 (docx), token: YPN3dMkaaoVIuTxoFgrc1E2bnPe
+2024-08-10 19:02:37,877 ERROR Failed to download item: 昌富详公司调试记录 (docx), token: LEo1duKpHoPfVixfwB0cQ8Qgnhg
+2024-08-10 19:02:39,876 ERROR Failed to download item: 广州诺顶智能公司调试记录 (docx), token: Sd8WdBwwcowAqKxBNyqcafbmnRf
+2024-08-10 19:02:45,410 ERROR Failed to download item: 北京精卓信公司调试记录 (docx), token: HQxEdCZ2loHkPdxg0fGcg1ppnR7
+2024-08-10 19:02:47,043 ERROR Failed to download item: 创想三维公司调试记录 (docx), token: WJlQdCthmon5xoxJR6MceU9snrb
+2024-08-10 19:02:48,728 ERROR Failed to download item:                 精卓信远程调试记录（未解决，后续进） (doc), token: doccnZLrKhoVjTFISiZ6JtPpQag
+2024-08-10 19:02:50,373 ERROR Failed to download item: 景灏贴片机项目调试记录 (doc), token: doccn1tF0QqfFDY2823smJDKqzd
+2024-08-10 19:03:09,061 ERROR Failed to download item: 小象电动公司调试记录 (docx), token: doxcngvBpRBiMxt892RkL619wuh
+2024-08-10 19:03:10,660 ERROR Failed to download item: 大族机器人公司调试记录 (docx), token: KrvXdR4RVoC0OCxzdQ9cwa9hn5c
+2024-08-10 19:03:12,302 ERROR Failed to download item: 艾而特电动螺丝刀项目调试记录 (docx), token: doxcnSGKIA6u2IBz41Cqyg60hGc
+2024-08-10 19:03:14,076 ERROR Failed to download item: 深圳福瑞特调试记录 (doc), token: doccnPpDIFLJ1BmkEIoJ99ujJfd
+2024-08-10 19:03:25,184 ERROR Failed to download item: 东方锅炉调试记录-8-29 (doc), token: doccnxdGsSQ8q4TJpPTaBOB7kId
+2024-08-10 19:03:41,136 ERROR Failed to download item: 迈为-X200-双编码器步进电机调试记录 (doc), token: doccnnCP3Jl3iMVuE6SbZNItrCb
+2024-08-10 19:03:42,746 ERROR Failed to download item: 佳峰公司调试记录 (docx), token: doxcnj73oM37H9jIst5iCZ7cVYf
+2024-08-10 19:03:44,432 ERROR Failed to download item: 盛泰奇终端（联得）项目调试记录 (docx), token: doxcnqUwgPegq82rWpwTnYCGwbg
+2024-08-10 19:04:18,709 ERROR Failed to download item: 商飞终端客户公司调试记录 (docx), token: doxcngbDslvmgl24dzzj5bX1Oge
+2024-08-10 19:04:20,310 ERROR Failed to download item: 昆山淞瑞公司调试记录 (docx), token: doxcnaIrYjEtx7HFi7IaJ9M1R5d
+2024-08-10 19:04:32,527 ERROR Failed to download item: 景业杭州公司调试记录 (docx), token: doxcnupaoIEASzngU4eCZXPAuAf
+2024-08-10 19:04:38,444 ERROR Failed to download item: 深圳快造科技调试记录 (docx), token: doxcn3UacLZi33oAmcSCokZMW0b
+2024-08-10 19:04:47,326 ERROR Failed to download item: 快造科技客户调试记录（未解决 后续要求跟进） (doc), token: doccnx9T82yBpMnk0eViLYu0q7g
+2024-08-10 19:04:48,929 ERROR Failed to download item: 智驱 携进交流-2022-9-19 (doc), token: doccnTDP304buq3uG7hzOj7iLTc
+2024-08-10 19:04:59,093 ERROR Failed to download item: 关闭电压死区补偿后电机运行正常，不关闭则不正常 (doc), token: doccnMKsvLioLF2awNQOb4GPire
+2024-08-10 19:05:00,722 ERROR Failed to download item: 盛泰奇终端客户6-5 位置误差规律跳动 (doc), token: doccn62au112pCxzdutLPE8XRWc
+2024-08-10 19:05:02,374 ERROR Failed to download item: 深圳唯川科技有限公司客户调试记录（未解决） (doc), token: doccn1Ilf06Ncaza0nXAZ6IvxRb
+2024-08-10 19:05:04,179 ERROR Failed to download item: 华科星——客户调试记录(已解决) (doc), token: doccnNUrQkaDJvip9GBnNmoHjjf
+2024-08-10 19:05:05,799 ERROR Failed to download item: 核动医疗调试记录 (doc), token: doccnDm1gYc1WkhSaDpdxIBm8he
+2024-08-10 19:05:07,483 ERROR Failed to download item: 日东科技（终端中科）50g目标力力控调试-20220426 (doc), token: doccnJordqcUJ3V08CtLo5GB6Fc
+2024-08-10 19:05:09,148 ERROR Failed to download item: 清能德创-终端蓝思机器人-六轴机器人调试记录-6-8  (doc), token: doccnd7Aw2PLpxMCOAaK7zYQqBf
+2024-08-10 19:05:10,760 ERROR Failed to download item: 慕藤光-调试记录-20220713 (doc), token: doccn5yVnAaXruIhtmgK9vAwfdc
+2024-08-10 19:05:16,289 ERROR Failed to download item: 佳丰调试记录 (doc), token: doccnf9X1Ax0mNgWmnw364UNPOM
+2024-08-10 19:05:17,925 ERROR Failed to download item: 佳峰-直线电机音圈电机调试 (docx), token: doxcnBIYpGhtrokZZ2NUYH88TWe
+2024-08-10 19:05:19,545 ERROR Failed to download item: 张力科技调试记录 (docx), token: YlTQdUHHLoPvMlxW7zyc8nxRnLh
+2024-08-10 19:05:21,265 ERROR Failed to download item: 大族电机力控调试记录 (doc), token: doccn3ngBpyazOa4heVm4AaTKKf
+2024-08-10 19:05:32,248 ERROR Failed to download item: 艾德迈科技（深圳）有限公司调试记录 (doc), token: doccngN06SNpbdlrsDJgsoq4D5c
+2024-08-10 19:05:42,459 ERROR Failed to download item: 徽硕实业(上海)-空心杯电机调试记录  (doc), token: doccnSydnIvyUEG18gFe3qcWLyd
+2024-08-10 19:05:47,926 ERROR Failed to download item: 东莞台工客户调试记录 (doc), token: doccnX2kDHBFnr6pE88hQgmTTop
+2024-08-10 19:05:49,616 ERROR Failed to download item: 微组XYQ轴测试记录-20220714 (doc), token: doccnGx8tQdcSNPTuoy0brqt1De
+2024-08-10 19:05:51,254 ERROR Failed to download item: 日东（终端中科）音圈电机力控调试记录-20220422 (doc), token: doccnINTOmopSjtkzBY7F0kmQBd
+2024-08-10 19:06:06,884 ERROR Failed to download item: 华科星终端客户问题反馈-2022-8-30 (sheet), token: shtcnEPfgkN7GN84WWRAb0AozIe
+2024-08-10 19:06:12,993 ERROR Failed to download item:                        南科大调试记录 (doc), token: doccnQpqyQdQaZ2f5IlpGwYor3n
+2024-08-10 19:06:18,194 ERROR Failed to download item: 大寰音圈电机测试记录-2022-8-15 (docx), token: doxcnGHbRiLwglT9StWXeI1elWf
+2024-08-10 19:06:19,935 ERROR Failed to download item: 大寰旋转电机测试记录-2022-8-13 (docx), token: doxcnyePktMdDZdQV40EcBmtIrc
+2024-08-10 19:06:21,691 ERROR Failed to download item: 秦汉自动化客户调试记录（已解决，已结束） (doc), token: doccnAyTPmwCQHD56Awv7cWJVcb
+2024-08-10 19:06:23,302 ERROR Failed to download item: 大寰直线电机测试记录-2022-8-9 (docx), token: doxcnm0VsWRxBFZkZNMPieYa4Fb
+2024-08-10 19:06:28,424 ERROR Failed to download item: 大寰旋转电机测试记录-2022-8-5 (docx), token: doxcnaEid1Z0TXT7szFU1fDl1gh
+2024-08-10 19:06:30,031 ERROR Failed to download item: 大寰机器人直线电机测试记录-20220803 (doc), token: doccnW3F0hRyFfA3P54pJkwbqif
+2024-08-10 19:06:31,650 ERROR Failed to download item: 大寰机器人音圈电机测试记录-20220802 (doc), token: doccnTDCrMcYfZ59e1CkND7RH2f
+2024-08-10 19:06:39,700 ERROR Failed to download item: 艾尔特调试记录 (doc), token: doccnBhhkkJm3v1emQTs9aRNAGe
+2024-08-10 19:06:50,693 ERROR Failed to download item: 慕藤光测试-20220706 (doc), token: doccnUHRugJX5rChjkVAjpUekee
+2024-08-10 19:06:56,206 ERROR Failed to download item: 霍尔电机发热测试记录 (doc), token: doccngS71ZmTXB5JZaU0s30up3e
+2024-08-10 19:07:02,174 ERROR Failed to download item: 怡合达音圈电机调试 (doc), token: doccnmHKkfj4QDjA3zQA2agyCci
+2024-08-10 19:07:03,809 ERROR Failed to download item: 宏隽技术沟调试记录 (doc), token: doccnS7BDk0aoAs4OTtevPghbub
+2024-08-10 19:07:05,491 ERROR Failed to download item: 清能德创调试记录-6-2 (doc), token: doccnzmdCsMudNumCyVe3uFggdd
+2024-08-10 19:07:07,302 ERROR Failed to download item: 科力尔 024BX4 电机测试 (doc), token: doccn4eSNGGKK55CZsOKaadVo9c
+2024-08-10 19:07:15,616 ERROR Failed to download item: 安克调试记录-2022-5-16  (doc), token: doccnJgAvYaN4TWufl90R0lkHKh
+2024-08-10 19:07:17,279 ERROR Failed to download item: 泰莱终端客户比亚迪现场调试记录（已解决） (doc), token: doccn5WNHHXdAkg5sijJHuAQ85n
+2024-08-10 19:07:18,931 ERROR Failed to download item: 基石红外客户调试记录 (doc), token: doccnupgbj9F9tCV43WrJ2gZAFh
+2024-08-10 19:07:28,212 ERROR Failed to download item: 盛泰奇调试记录回零19跟随误差过大问题-4-15 (doc), token: doccnYjGH6uQqBX9IuhfISkpkjd
+2024-08-10 19:07:33,367 ERROR Failed to download item: 盛泰奇探针应用客户调试记录 (doc), token: doccn1spRrrnu2lnsUMP6wdd5fj
+2024-08-10 19:07:43,017 ERROR Failed to download item: 盛泰奇终端——ZR平台——调试记录（已结束但是未解决） (doc), token: doccnCL4Xn0wpJOr45uZfcZFkYd
+2024-08-10 19:07:44,648 ERROR Failed to download item: 精卓信——客户调试记录（已解决） (doc), token: doccnZLtjj5DGukhwQBSxGRhMMb
+2024-08-10 19:07:55,934 ERROR Failed to download item: 盛泰奇-喷绘机项目-调试记录-2022-2-28 (doc), token: doccngASKTwrCcesnmr0GKLZgwd
+2024-08-10 19:16:51,181 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191410A554120A52A1C6508CD5
+2024-08-10 19:16:51,182 ERROR Failed to download item: 华大制造基因测序测试报告-0305-钟志强.doc (file), token: boxcn4DjAM2YLd6SppvGde3OIqd
+2024-08-10 19:16:51,436 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191410F6098F6DEE4F3E503FC1
+2024-08-10 19:16:51,436 ERROR Failed to download item: 华兴源创调试记录-2021-12-22-黄诚.docx (file), token: boxcndYEC4LRLPEeStgsQDNsu4B
+2024-08-10 19:16:51,736 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 2024081019141045A2C7A0343A2747D790
+2024-08-10 19:16:51,736 ERROR Failed to download item: 华大制造基因测序测试报告.doc (file), token: boxcnuj7EYunn11nj8YMq6S3rrb
+2024-08-10 19:16:52,027 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914103800724B1EFC9A544566
+2024-08-10 19:16:52,028 ERROR Failed to download item: 集萃U-48V10AEIO _ Salesforce - Professional Edition.pdf (file), token: boxcnG33eh3ufwJpcLUmgaX5b5c
+2024-08-10 19:16:52,232 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914113D0D747D926B5B628B37
+2024-08-10 19:16:52,233 ERROR Failed to download item: 华卓精科直线平台测试报告-0624-于欣源.doc (file), token: boxcndusrDWXKRiZABykBrYrCSb
+2024-08-10 19:16:52,493 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914112ADFE2D7CCA8014C5723
+2024-08-10 19:16:52,493 ERROR Failed to download item: 国科天成调试记录-2021-12-10-黄诚.docx (file), token: boxcnTQ6jJM0ZqpvnIyUdVNN8qf
+2024-08-10 19:16:52,742 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191411576A0E67EE85205626B2
+2024-08-10 19:16:52,743 ERROR Failed to download item: 江苏雷利基于无感的开关磁阻测试报告-0518-包晓霖、钟志强.doc (file), token: boxcn57stZISzyyvh4BCwemdXbN
+2024-08-10 19:16:52,925 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914117F5C5BF1400451800F45
+2024-08-10 19:16:52,925 ERROR Failed to download item: 华星源创测试报告-20210301-钟志强.docx (file), token: boxcn75DEgPLtOYpRqajQoiaLQh
+2024-08-10 19:16:53,187 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191412F1D8540F190ECA51AB74
+2024-08-10 19:16:53,187 ERROR Failed to download item: 国奥测试报告-黄静-20211110.xlsx (file), token: boxcnMl8IWlc0MNg81Num2UCbUh
+2024-08-10 19:16:53,448 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 2024081019141259CDC5847C0C334C34D0
+2024-08-10 19:16:53,449 ERROR Failed to download item: 福瑞特测试报告（内部）-黄静-20210813.docx (file), token: boxcnPq7UyNpUvSx2rcWzKGo6He
+2024-08-10 19:16:53,710 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191412C3A70FF82EA58B4EB6FD
+2024-08-10 19:16:53,710 ERROR Failed to download item: 国奥测试报告-黄静-20210203.docx (file), token: boxcnLWzCE55O9sAryiBe1Oqaah
+2024-08-10 19:16:53,983 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914128B526A0290346E79126B
+2024-08-10 19:16:53,983 ERROR Failed to download item: 国奥测试报告-20210203-黄静.docx (file), token: boxcncIJywfeto8h4WdbNtuy3ze
+2024-08-10 19:16:54,237 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191413129A540C0612E8575191
+2024-08-10 19:16:54,238 ERROR Failed to download item: 光速2022-1-1-黄诚.docx (file), token: boxcn6eWhF4wxG7WXFxu5iRgigf
+2024-08-10 19:16:54,477 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 2024081019141323B3708786296E6B55A7
+2024-08-10 19:16:54,478 ERROR Failed to download item: 光速视觉测试报告-于欣源_211020.docx (file), token: boxcn4ldTeYo9ZEbbLEKT0kFyFb
+2024-08-10 19:16:54,748 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914133F6B40FF7C39A450BE7F
+2024-08-10 19:16:54,748 ERROR Failed to download item: 富士康测试报告11-10.docx (file), token: boxcnncLE9kw1Qr1Zz1IavguxNg
+2024-08-10 19:16:55,084 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191413FE8F6480D39EF342BBEB
+2024-08-10 19:16:55,084 ERROR Failed to download item: 国奥测试报告.docx (file), token: boxcnUtLn0XMEbYCjm5amJ4JZ1d
+2024-08-10 19:16:55,344 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914148EF89B25438EA450F502
+2024-08-10 19:16:55,352 ERROR Failed to download item: 光速视觉测试报告-于欣源_210908.docx (file), token: boxcnL58YJwcz7elYc02eXbCgvb
+2024-08-10 19:16:55,551 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191414AF9AAF299984274A8BBA
+2024-08-10 19:16:55,552 ERROR Failed to download item: 富士康测试报告-20210329-钟志强.docx (file), token: boxcn7LSVsDZLy9pCzleiFlS4If
+2024-08-10 19:16:55,744 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191414903B3B07E84B3B4C5738
+2024-08-10 19:16:55,745 ERROR Failed to download item: 高控_音圈电机开环力控测试报告-于欣源_210917.docx (file), token: boxcnareodnfgZhIrGurNYQSPpd
+2024-08-10 19:16:56,236 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191415F65FD8C10431224BC23D
+2024-08-10 19:16:56,236 ERROR Failed to download item: 福瑞特测量平台测试报告（Y轴）.pdf (file), token: boxcn32C0EFN9wE0CeC5LRisEgd
+2024-08-10 19:16:56,479 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191415667E22204326224CEA9E
+2024-08-10 19:16:56,479 ERROR Failed to download item: 福瑞特-DD马达测试报告-1211-钟志强.docx (file), token: boxcnN8WikB876sPJuSLQe6HxJd
+2024-08-10 19:16:56,726 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914159266FF2313A76E4BAFEC
+2024-08-10 19:16:56,726 ERROR Failed to download item: 丰智谷测试报告-黄静-20211201.xlsx (file), token: boxcnEy4yNglKe3vkncpsfnPBKc
+2024-08-10 19:16:56,962 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191415D4A2C2F98007C049375F
+2024-08-10 19:16:56,963 ERROR Failed to download item: 凤凰动力PH210舵轮测试报告-于欣源_210910.docx (file), token: boxcnBYduqESp2i0QrQoZRqSSqf
+2024-08-10 19:16:57,246 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191416E022E5976187995427BC
+2024-08-10 19:16:57,246 ERROR Failed to download item: 菲格斯测试报告-黄静-20210922.docx (file), token: boxcn5putqTfskCpYoOI9nuzKhg
+2024-08-10 19:16:57,504 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 2024081019141603EDF7A2063D4B5385C5
+2024-08-10 19:16:57,504 ERROR Failed to download item: 菲格斯测试报告-黄静-20210317.doc (file), token: boxcnExRO3tuZoEvWtnc2G4rvie
+2024-08-10 19:16:57,789 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914161220ADCF419E21511499
+2024-08-10 19:16:57,790 ERROR Failed to download item: 福瑞特测试报告（内部）-20210813-黄静.docx (file), token: boxcn4Oqp8QNPj1Jf0Js6rYyUGg
+2024-08-10 19:16:58,144 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 2024081019141733E02D5973A6214CFC77
+2024-08-10 19:16:58,145 ERROR Failed to download item: 福瑞特-测量平台测试报告-12-22-钟志强.docx (file), token: boxcnbIb4BSewvgXh6GCjFOzpHe
+2024-08-10 19:16:58,412 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 2024081019141700203C6F16FA5A4D3AA0
+2024-08-10 19:16:58,412 ERROR Failed to download item: 凤凰动力PH210舵轮测试报告_于欣源-210813.docx (file), token: boxcnVAZLKHnIGuIUEdRCOSPleh
+2024-08-10 19:16:58,651 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914173A708A7DB313E24B0B36
+2024-08-10 19:16:58,651 ERROR Failed to download item: 凤凰动力PH210舵轮测试报告_于欣源-210727.docx (file), token: boxcnZucwNF7Ja5trb90JImFmEd
+2024-08-10 19:16:58,883 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191417C0EB73444BCE5C720CCC
+2024-08-10 19:16:58,884 ERROR Failed to download item: 菲格斯测试报告-20210317-黄静.doc (file), token: boxcnrNo6fOolBbUpvIPzTK4Nce
+2024-08-10 19:16:59,142 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914188BFC2FFA808A95879039
+2024-08-10 19:16:59,142 ERROR Failed to download item: 迪巨-小象电动科技测试报告20211109唐定东.docx (file), token: boxcnnfZvXk2hiaWUJceuosUxKf
+2024-08-10 19:16:59,404 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191418BD339DC56E1F604EB157
+2024-08-10 19:16:59,409 ERROR Failed to download item: 德玛特测试报告-20210928-黄静.docx (file), token: boxcnMtjEyzLrsiFfA90gwKG9yg
+2024-08-10 19:16:59,658 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191418C5DE30520C6ECE76AA07
+2024-08-10 19:16:59,658 ERROR Failed to download item: 德玛特调试记录-2021-11-10-陈健.docx (file), token: boxcnZaXDQZ8jXjbtG0fjVpuZxf
+2024-08-10 19:17:00,432 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 2024081019141905492A687109164C3105
+2024-08-10 19:17:00,432 ERROR Failed to download item: 德玛特测试报告-2021102-唐定东.docx (file), token: boxcnTKjLBmkt2dajCIVxSfMc1b
+2024-08-10 19:17:00,675 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914197EAF153D80F6CB82391A
+2024-08-10 19:17:00,675 ERROR Failed to download item: 电王智焊测试报告-210820-于欣源.doc (file), token: boxcnHRayfhi7XoYnLUbLPoNHIe
+2024-08-10 19:17:00,930 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191419F31D75F6A7881E4B2518
+2024-08-10 19:17:00,930 ERROR Failed to download item: 迪巨-卓兴测试报告20210814唐定东.docx (file), token: boxcnWkkMsImd5hwLsb5n9eqIge
+2024-08-10 19:17:01,172 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191420AA92452AB8A30B4FE0FA
+2024-08-10 19:17:01,173 ERROR Failed to download item: 德玛特测试报告-20210909-黄静.docx (file), token: boxcn1kuKMfm0mj6njw7T3oDxKc
+2024-08-10 19:17:01,423 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914206EF0573D19A52B4CFDC0
+2024-08-10 19:17:01,424 ERROR Failed to download item: 迪巨-福瑞特测试报告-20210813-黄静.docx (file), token: boxcnCd3XdLIoAgTjNvS9e9EyGc
+2024-08-10 19:17:01,697 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 2024081019142020C655871AD3124B3166
+2024-08-10 19:17:01,698 ERROR Failed to download item: 德瑞精工测试报告-2021.09.26-唐定东.xlsx (file), token: boxcnrVSeUum9Z6MYmOzrEeIbEh
+2024-08-10 19:17:01,956 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191420272EE5CB2B97674CDA3A
+2024-08-10 19:17:01,959 ERROR Failed to download item: 大族富创得-半导体搬运测试报告-20210702-黄静.docx (file), token: boxcn6qEbNS6FzCR8KgNWaGq2Ud
+2024-08-10 19:17:02,200 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914212E169E7BCA1B74505194
+2024-08-10 19:17:02,200 ERROR Failed to download item: 德马克测试报告-黄静-20210830.docx (file), token: boxcnIKdleGD4nWVVqXzwKFiiOc
+2024-08-10 19:17:02,486 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191421891C7792D1A759557860
+2024-08-10 19:17:02,495 ERROR Failed to download item: 大族富创得测试大纲.xlsx (file), token: boxcnEIq0CKGcKd6GY0sB4EB8Qh
+2024-08-10 19:17:02,772 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191421A6D649AA775445709686
+2024-08-10 19:17:02,772 ERROR Failed to download item: 大族富创得-测试报告（内部使用）-0608-黄静.doc (file), token: boxcnOFtxXPckjpQUse2sLUVoWc
+2024-08-10 19:17:03,031 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914219B29B40210B77E5C49B0
+2024-08-10 19:17:03,031 ERROR Failed to download item: 大族电机-到位整定时间较长调试记录-20211214.docx (file), token: boxcnNY3Yp7mYnTp9lr3gjElV2d
+2024-08-10 19:17:03,270 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191422EB407FE625350646DBEE
+2024-08-10 19:17:03,270 ERROR Failed to download item: 大族电机测试报告-黄静-20211022.xlsx (file), token: boxcnnBmHnBSe5PvRUiQAFtVkih
+2024-08-10 19:17:03,571 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191422C0F0D848B414B675DDA2
+2024-08-10 19:17:03,571 ERROR Failed to download item: 触点音圈电机老化测试报告-黄静-20211030.docx (file), token: boxcnH6yCZ9ycTWydVxIlZIvaDd
+2024-08-10 19:17:03,816 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914228CCD580D7171AF4B87E8
+2024-08-10 19:17:03,817 ERROR Failed to download item: 触点测试报告-黄静-20210915.docx (file), token: boxcnuZ3eQNHuv3BJLFqgzzMV6d
+2024-08-10 19:17:04,096 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914229CCF37746A9E6646A76B
+2024-08-10 19:17:04,097 ERROR Failed to download item: 北科天绘测绘转台测试报告_于欣源-210729.docx (file), token: boxcnmM3veP416GGoJclG6T0huh
+2024-08-10 19:17:04,520 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914232FB07E44925F884AFC2A
+2024-08-10 19:17:04,521 ERROR Failed to download item: 北京光速测试报告-0416-钟志强.doc (file), token: boxcnliHNupwYITDuG0e0lciMwd
+2024-08-10 19:17:04,846 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914236B46B063011AF8842CA5
+2024-08-10 19:17:04,846 ERROR Failed to download item: 柏理通-测试报告-黄静-20210831.docx (file), token: boxcncqgsQxqvfP0dxJJRWCGNgf
+2024-08-10 19:17:05,097 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 2024081019142337524E2E56C31C46A160
+2024-08-10 19:17:05,098 ERROR Failed to download item: 柏理通测试报告20211111-唐定东.docx (file), token: boxcn9P5AwOFGVepoRZoj6VA67g
+2024-08-10 19:17:05,473 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191424BC4B684FFEC7F46F19BD
+2024-08-10 19:17:05,474 ERROR Failed to download item: 安达20210126.doc (file), token: boxcnSn4zTj2HCGPDNtji8IDK8g
+2024-08-10 19:17:05,698 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191424C487247DCB0A19634789
+2024-08-10 19:17:05,698 ERROR Failed to download item: 埃尔森测试报告-210628-于欣源.doc (file), token: boxcn65O7YCEDzWQgr7B3Wk89Cg
+2024-08-10 19:17:06,003 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914247D29FCC0F70081842DDE
+2024-08-10 19:17:06,004 ERROR Failed to download item: Meeting Summary-KA-宁波智能装备研究院.docx (file), token: boxcnrbWrxCwzr4i3eKFXAMWZfq
+2024-08-10 19:17:06,278 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 2024081019142514959F636EEBEE53C18C
+2024-08-10 19:17:06,278 ERROR Failed to download item: AnKer现场测试报告-20211109-包晓霖.docx (file), token: boxcn7ANEG6ytpVrwfG8dnjBOzb
+2024-08-10 19:17:06,525 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191425B5B907554E8C8255B2F8
+2024-08-10 19:17:06,526 ERROR Failed to download item: 20210607X200科力尔测试结果.xlsx (file), token: boxcndfWFEBnbqqo5dp1RkgACCd
+2024-08-10 19:17:06,792 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914258CED76E613E116807AE0
+2024-08-10 19:17:06,792 ERROR Failed to download item: 埃尔森测试报告-210830-于欣源.doc (file), token: boxcnxuKhiQaezwJdtaS6cihafd
+2024-08-10 19:17:07,046 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 202408101914254AC1C02396A31146215A
+2024-08-10 19:17:07,046 ERROR Failed to download item: 2021-01-22线马测试报告.docx (file), token: boxcnaxdJ6I2PqzeVWgfnhXH3Hd
+2024-08-10 19:17:07,347 ERROR client.drive.v1.file.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191426FED41493D67ED356D858
+2024-08-10 19:17:07,347 ERROR Failed to download item: 2021-01-07优必选舵机测试报告.doc (file), token: boxcnGNMsP4obHeahC9bID6qT0s
+2024-08-10 19:17:13,659 ERROR client.drive.v1.export_task.download failed, code: 99991668, msg: Invalid access token for authorization. Please make a request with token attached., log_id: 20240810191432A17484AEE36F79799731
+2024-08-10 19:50:26,339 ERROR Failed to download item: 华兴源创客户调试记录  (doc), token: doccnyee4UbdTtxmc1MUM9a96Mb
+2024-08-10 19:50:28,044 ERROR Failed to download item: 力控功能说明文档（外部） (docx), token: LXaddU2EboI14KxzwFVcNG67n3g
+2024-08-10 19:50:29,847 ERROR Failed to download item: 行动元产品型号大全 (bitable), token: bascnptnXMY84D8apvwWvdCCSHh
+2024-08-10 19:50:31,509 ERROR Failed to download item: 客户服务数据统计 (bitable), token: bascnRGGRu8vRSAMVDE20gTwuWb
+2024-08-10 19:50:36,417 ERROR Failed to download item: 华东客户技术需求管理 (sheet), token: shtcn6T1Ysa42v9UrGZuUw2M69f
+2024-08-10 19:50:38,037 ERROR Failed to download item: 歌尔力控问题总结 (docx), token: MZ7cduG9vo4xYrx9S4hcMzB7nwe
+2024-08-10 19:51:08,986 ERROR Failed to download item: 客户培训提纲——基础篇 (docx), token: doxcnVrMdv5Bt4h7Fcj8VS2IDue
+2024-08-10 19:51:10,617 ERROR Failed to download item: nan (docx), token: EKxEdjzHnosXzaxIYmBcgGhAn1e
+2024-08-10 19:51:12,183 ERROR Failed to download item: nan (docx), token: PYxtd8320oGjr4xkoFZcvH5znle
+2024-08-10 19:51:13,756 ERROR Failed to download item: 钧舵工作事宜 (docx), token: GJ0ZdZzGRocjXHx5zvqcGhIznDd
+2024-08-10 19:51:15,370 ERROR Failed to download item: AGV行业调研 (docx), token: YZS6dmPyWojrkaxENV6ccjZQnWf
+2024-08-10 19:51:16,983 ERROR Failed to download item: 客户安排 (docx), token: AYRJdMBPaoOKorxdasTcHAKln8b
+2024-08-10 19:51:18,646 ERROR Failed to download item: 2023.0206-2023.0210华东客户项目进展 (docx), token: KT8UdmjkPoZ8OgxSiewcerKdnbg
+2024-08-10 19:51:20,245 ERROR Failed to download item: 通用流程图 (docx), token: QezZdW3GrorLoixd91xcTmZ5n3g
+2024-08-10 19:51:25,982 ERROR Failed to download item: 11.14 华东客户技术支持复盘 (docx), token: KZpDddDBxoNsCLxlB16cc9YGnid
+2024-08-10 19:51:27,604 ERROR Failed to download item: 华东线缆需求 (sheet), token: shtcnqX38L0za6zEfZsaIWUhekf
+2024-08-10 19:51:29,254 ERROR Failed to download item: 上海钧舵技术问题沟通 (docx), token: Lu8ndslT0oXATKxGLrVc54bVnWf
+2024-08-10 19:51:41,210 ERROR Failed to download item: 微创产品资料需求 (docx), token: HtFmdzq9woY5JRx4HcocU9Agnvg
+2024-08-10 19:51:42,801 ERROR Failed to download item: 怡合达-创源电子音圈电机测试报告-20210714-黄静 (docx), token: ZucFdoeNKoNE17x07cRcMLfvnZb
+2024-08-10 19:51:44,459 ERROR Failed to download item: 怡合达-创源电子音圈电机测试大纲 (sheet), token: shtcn8KYbFQYZjHtykvOTOiF5uc
+2024-08-10 19:51:53,340 ERROR Failed to download item: 华东客户问题汇总 (docx), token: SVYbdhl1WoamQfx0kvscRvwfnob
+2024-08-10 19:51:58,497 ERROR Failed to download item: 纳博旺公司调试记录 (docx), token: SPT2d9ylHo4WWAxuI2Tc69windd
+2024-08-10 19:52:03,744 ERROR Failed to download item: 太仓摩力伺服技术有限公司调试记录 (docx), token: doxcn897JkButnz0fitXAYyqGWd
+2024-08-10 19:52:09,079 ERROR Failed to download item: XXX公司调试记录 (docx), token: doxcn7rZVwGs6E9s2PEKRwVD4Bc
+2024-08-10 19:52:10,763 ERROR Failed to download item: 非原材料请购单管理控制程序 (docx), token: doxcnqvoe1laGBFktJjTUJq1DVe
+2024-08-10 19:52:23,367 ERROR Failed to download item: 去FAE项目 (doc), token: doccn5qxmt3LufpENFyw2PaddXb
+2024-08-10 19:52:25,047 ERROR Failed to download item: 客户帮助中心 副本 (docx), token: JgkDdbQrioHvXmxrfm3cSlUAn0g
+2024-08-10 19:52:30,399 ERROR Failed to download item: Logo替换 (docx), token: JyVPdwteBoXBhBxso6Ec1BCAnRd
+2024-08-10 19:52:32,032 ERROR Failed to download item: 调试前Checklist 副本 (docx), token: T7NgdJVCzob6CaxKJ5fcHEfknrh
+2024-08-10 19:52:33,764 ERROR Failed to download item: Flex-EtherCAT（UF-48VxxAEDx）接线引导与规范 副本 (docx), token: KbH8dQ3n5ognvExy88ucNIEOnEs
+2024-08-10 19:52:35,553 ERROR Failed to download item: DG2-G48xxxDA General常规型（CANopen or Modbus or Pulse）接线引导与规范 (docx), token: L8lLdMPMioB8bsxaIxncrCVpnse
+2024-08-10 19:52:37,163 ERROR Failed to download item: 整理 (docx), token: KAi2dGqueoQo4AxgvGAcoq0cnhc
+2024-08-10 19:52:38,772 ERROR Failed to download item: 上位机调试软件使用手册 副本 (docx), token: BSM7dhEt4oM38HxtzAFcBS5Snad
+2024-08-10 19:52:40,393 ERROR Failed to download item: Flex-Pulse（UF-48VxxAPDN）接线引导与规范 (docx), token: ROJ4dWCQso8LEAxjiiJcHDKHnUb
+2024-08-10 19:52:42,056 ERROR Failed to download item: MotorHost Software User Manual  (docx), token: V7mDd7I1ToQujAx6yEWcvw99nXe
+2024-08-10 19:52:43,863 ERROR Failed to download item: 电机使用  (docx), token: TElydBm7BoSzhRxiB6rckr3dned
+2024-08-10 19:53:45,538 ERROR Failed to download item: UF2-G48xxNDD General常规型（CANopen or Modbus）接线引导与规范 副本 (docx), token: QEyHdfxdWo7vxhxRed1cMoyGnHj
+2024-08-10 19:53:47,166 ERROR Failed to download item: UF2-E48xxxDD EtherCAT通讯型 接线引导与规范 副本 (docx), token: KFTFd9u8foZKAjxyYNRclgmVnNd
+2024-08-10 19:53:48,788 ERROR Failed to download item: DP1-E48xxxDD EtherCAT通讯型 接线引导与规范  (docx), token: KpludoPrkoBcCFx8alEcH4pUneg
+2024-08-10 19:53:50,484 ERROR Failed to download item: Dservo-脉冲型 接线引导与规范 副本 (docx), token: ZpT7d1ldooqM38xeqUCcyvJRncc
+2024-08-10 19:53:52,189 ERROR Failed to download item: Dservo-EtherCAT通讯型 接线引导与规范 副本 (docx), token: HzXvd6qfXo4p6Mx5kjhcSv5ynUc
+2024-08-10 19:53:54,003 ERROR Failed to download item: DM1-G60xxQ 四轴 General常规型（CANopen & Modbus & Pulse）接线引导与规范 副本 (docx), token: Wbt9dpEdmo8qyDxE8egcUMHvnVh
+2024-08-10 19:53:55,649 ERROR Failed to download item: DM1-G60xxW 双轴 General常规型（CANopen & Modbus & Pulse）接线引导与规范 副本 (docx), token: D8aadZ5n4oDpzhxkqJfcsEOBnle
+2024-08-10 19:53:57,597 ERROR Failed to download item: 接线引导与规范 副本 (docx), token: RemadD47LoyXjIxjMmqcTnQinjf
+2024-08-10 19:53:59,258 ERROR Failed to download item: 接线引导与规范 副本 (docx), token: FxsndgcOUoiO2Qx0xPGc0pBRn6f
+2024-08-10 19:54:01,168 ERROR Failed to download item: 接线指导 副本 (docx), token: VFwudvedSoklbnx7a6Oc4Bh9n3g
+2024-08-10 19:54:02,825 ERROR Failed to download item: DP2-G48xxNDD General常规型（CANopen or Modbus）接线引导与规范 (docx), token: AFZvdlTJKo1je7xaHxjcJDHqnxd
+2024-08-10 19:54:04,412 ERROR Failed to download item: DP2-E48xxxDD EtherCAT通讯型 接线引导与规范  (docx), token: RF7YdNYMgoyiXtxrgVAcJfPTn2d
+2024-08-10 19:54:06,252 ERROR Failed to download item: DG2-G48xxNDD General常规型（CANopen or Modbus）接线引导与规范 (docx), token: IIy5dB6UJonkl8xQd05czcfQn3d
+2024-08-10 19:54:08,020 ERROR Failed to download item: DG2-E48xxxDD EtherCAT通讯型 接线引导与规范  (docx), token: P0xKdtWDUoFf3rxJv5PcDgx8nXe
+2024-08-10 19:54:09,781 ERROR Failed to download item: DG1-E48xxx EtherCAT通讯型 接线引导与规范 副本 (docx), token: Ae5OdlT7QobcHexjAkEcH9Lunxh
+2024-08-10 19:54:11,615 ERROR Failed to download item: DG1-G48xxx General常规型（CANopen or Modbus or Pulse）接线引导与规范 副本 (docx), token: DQdzdS3cZoFPo8xkRjCcYHd4nwd
+2024-08-10 19:54:13,224 ERROR Failed to download item: DS1-G48xxN  General常规型（CANopen or Modbus）接线引导与规范 副本 (docx), token: Z8wgdrEBmoxcLTxYV2kcCotpnNd
+2024-08-10 19:54:14,854 ERROR Failed to download item: DS1-G48xxM  General常规型（CANopen or Modbus）接线引导与规范 (docx), token: Daozd8klLo4v9Xx4N8uc8gSUn8g
+2024-08-10 19:54:16,459 ERROR Failed to download item: DS1-G48xxM  General常规型（CANopen or Modbus）接线引导与规范 副本 (docx), token: OjmpdPMjRo5Ze6xKjnCcZ0fsnZe
+2024-08-10 19:54:18,095 ERROR Failed to download item: DS1-G48xxN  General常规型（CANopen or Modbus）接线引导与规范 (docx), token: F2PudRUf3orWpHxk98Acy8xTnPc
+2024-08-10 19:54:19,683 ERROR Failed to download item: 客户帮助中心 (docx), token: SzPkdqb0OoVyghxRgeKci3KDnyh
+2024-08-10 19:54:21,284 ERROR Failed to download item: Flex-Modbus（UF-48VxxAMDN）接线引导与规范 副本 (docx), token: JiGldfgqOonoJlxlM1jceDV1nCf
+2024-08-10 19:54:22,860 ERROR Failed to download item: Flex-CANopen（UF-48VxxACDN）接线引导与规范 (docx), token: TV4GdPwwpo5koqxo3ipc57WZnue
+2024-08-10 19:54:24,513 ERROR Failed to download item: Flex-Modbus（UF-48VxxAMDN）接线引导与规范 副本 (docx), token: TGfsd9ltPoogYexw70KcAFrInqd
+2024-08-10 19:54:26,146 ERROR Failed to download item: 收集表 副本 (bitable), token: bascnQ6ma5XyebEZ1Dmigd5Rg7d
+2024-08-10 19:54:35,351 ERROR Failed to download item: 客户帮助中心 副本 (docx), token: V4zMd0TweoOjKaxzA4Lc8vk6nOf
+2024-08-10 19:54:36,940 ERROR Failed to download item: 客户帮助中心 (docx), token: HhKHdwZhbojuntxVoTTcLj8Nnhc
+2024-08-10 19:54:38,714 ERROR Failed to download item: 客户帮助中心 (docx), token: OqDHdwI4por37Fx195UcTbRDnOf
+2024-08-10 19:54:40,331 ERROR Failed to download item: Modbus应用 副本 (docx), token: IcBkdM6ZlorOrEximNVcoqzSn2b
+2024-08-10 19:54:41,980 ERROR Failed to download item: 固件6.1.14Rev1 && 上位机 3.0.4.2 Rev1 副本 (docx), token: WIDxdQKeQoC1s1xHnGfcxWIXnFZ
+2024-08-10 19:54:43,767 ERROR Failed to download item: 力控应用 副本 (docx), token: StrudyZ83oY0vNxYrarcg0mQnne
+2024-08-10 19:54:45,407 ERROR Failed to download item: 上位机调试软件使用手册 副本 (docx), token: TVGqdO0BhoXwn1xELoPcxUaAnve
+2024-08-10 19:54:47,020 ERROR Failed to download item: 固件更新工具应用单独使用说明 副本 (docx), token: SVEcdoeuoo6gJNxKHmYcuNaUnjc
+2024-08-10 19:54:48,851 ERROR Failed to download item: 本地升级步骤 副本 (docx), token: ACtZdxXtwoXSkFx1SI9cP75hn4b
+2024-08-10 19:54:50,432 ERROR Failed to download item: 在线升级步骤 副本 (docx), token: I1SAdEp4LoBUdXx0ioWcvImenzg
+2024-08-10 19:54:52,140 ERROR Failed to download item: 强制本地升级步骤 副本 (docx), token: BwARd3dTWoAIxJxF3qCcNb5DnEd
+2024-08-10 19:54:53,724 ERROR Failed to download item: 调试网页 副本 (docx), token: SGRBdItppo77qBxNZAccvl5tnkg
+2024-08-10 19:54:55,396 ERROR Failed to download item: 性能调试专题详解 副本 (docx), token: QSyYdVLvtoEwxMxir5ncb1grn6f
+2024-08-10 19:54:57,048 ERROR Failed to download item: 调试前Checklist 副本 (docx), token: Wuw1dPVN1o3CJYxWFlkc9DPrnIg
+2024-08-10 19:54:58,672 ERROR Failed to download item: 硬件外设 (docx), token: QfH7dQYMeoJtHSxzhCKcuQbsnve
+2024-08-10 19:55:03,818 ERROR Failed to download item: 上位机调试软件使用手册 （翻译图片版） (docx), token: Bqhxdv3zWogbY2xhTkDcLumYnye
+2024-08-10 19:55:05,683 ERROR Failed to download item: MotorHost Software User Manual  (docx), token: V7mDd7I1ToQujAx6yEWcvw99nXe
+2024-08-10 19:55:07,271 ERROR Failed to download item: 电机使用  (docx), token: TElydBm7BoSzhRxiB6rckr3dned
+2024-08-10 19:55:17,050 ERROR Failed to download item: 培训申 (docx), token: S2lJdvQcTolOWuxkt47cBMOwnqg
+2024-08-10 19:55:26,055 ERROR Failed to download item: 柔性上位机开发计划V1 (doc), token: doccnHA9cjLQC8zcQ0On5EkKLFh
+2024-08-10 19:55:28,111 ERROR Failed to download item: 新架构设计与规划 (doc), token: doccnYrKEur2R3VcDGtjCHRO3Re
+2024-08-10 19:55:30,094 ERROR Failed to download item: 柔性&赋能OKR (bitable), token: bascn7O4OjoUtnhgOjdaycSigKf
+2024-08-10 19:55:31,812 ERROR Failed to download item: 柔性流水线上位机需求 (doc), token: doccnsAjRkrB9sCKPTZxTMK49Gg
+2024-08-10 19:55:33,500 ERROR Failed to download item: 柔性流水线调度系统项目文档 (doc), token: doccnBFJ3nRp7u8pr2cmCCap8NL
+2024-08-10 19:55:50,884 ERROR Failed to download item: 力控上位机使用说明 (doc), token: doccn2jJw2R5A9GXNF12NH0tmzh
+2024-08-10 19:55:56,261 ERROR Failed to download item: 人机交互实现目标 (doc), token: doccndlwrS7gDWd5pMjxgLgPPzc
+2024-08-10 19:56:19,420 ERROR Failed to download item: 使用向导 (doc), token: doccnwMHG6NCzmuf92OszaxNGLc
+2024-08-10 19:56:19,837 ERROR Failed to download item: 费用报销流程指引 (docx), token: EtogdJZrDoRhcJxobeFcicCwnZc
+2024-08-10 19:56:21,621 ERROR Failed to download item: Flex-EtherCAT（UF-48VxxAEDx）接线引导与规范 副本 (docx), token: INLddvSDTorRfex1pKCc5UmQnYJ
+2024-08-10 19:56:23,320 ERROR Failed to download item: Flex-CANopen（UF-48VxxACDN）接线引导与规范 副本 (docx), token: LIUAdAWYCoo3RnxJAl0cCX9Znuf
+2024-08-10 19:56:24,938 ERROR Failed to download item: Flex-Modbus（UF-48VxxAMDN）接线引导与规范 副本 (docx), token: HH40dbFP1oUsRfxTzvKcs7d6nmb
+2024-08-10 19:56:26,589 ERROR Failed to download item: Flex-Pulse（UF-48VxxAPDN）接线引导与规范 副本 (docx), token: DiTLdQTy5ofAP3xyQwkc4RGInmb
+2024-08-10 19:56:28,326 ERROR Failed to download item: 客户服务FAQ筛选 (sheet), token: J4Nrs5ttXhBznqtgmvYcexevnNf
+2024-08-10 19:56:33,359 ERROR Failed to download item: 小视频修改 (docx), token: TNZIdKijUokgLux5jFPc77vnnyd
+2024-08-10 19:56:35,123 ERROR Failed to download item: 京东物流项目定义更新 (docx), token: GZjfdanVIoARuTxVX9Cce7ffnpf
+2024-08-10 19:56:40,446 ERROR Failed to download item: 知识内容需优化项 (docx), token: S9GTdyf0GofJFIxL61tcHL9yncg
+2024-08-10 19:56:45,685 ERROR Failed to download item: 软件使用手册添加字典模版 (docx), token: NoPndjUhxo32OSxldsrcgb8OnBe
+2024-08-10 19:56:47,341 ERROR Failed to download item: 硬件使用手册添加词典模版 (docx), token: JnH6dfLEhoZ0wSxB3wOcPEJOnNg
+2024-08-10 19:56:48,981 ERROR Failed to download item: 知识内容需优化整理 (sheet), token: Zs2SsbUpQhGWjMtLOM8czr5Un4b
+2024-08-10 21:43:35,488 WARNING Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002844A713530>, 'Connection to storage.minio.middleware.dev.motiong.net timed out. (connect timeout=300)')': /raw-knowledge?location=
+2024-08-11 14:18:32,967 ERROR Failed to download item: PrcSbrAD0oNfgHxTDhPcioqtnpb.png (file), token: Eon2bznACoBOKjxlMvDc7Nllnbg

@@ -1,5 +1,7 @@
 import requests
 import json
+from requests.exceptions import RequestException
+import logging
 
 #读取当前refresh_token和user_token
 def read_refresh_token(file_path):
@@ -48,10 +50,20 @@ def get_new_tokens(old_refresh_token, app_token):
         'Content-Type': 'application/json',
         'Authorization': f'Bearer {app_token}'
     }
-    response = requests.post(url, headers=headers, data=payload)
-    response.raise_for_status()
-    data = response.json()['data']
-    return data['refresh_token'], data['access_token']
+
+
+    for attempt in range(1,  3):
+        try:
+            response = requests.post(url, headers=headers, data=payload)
+            response.raise_for_status()
+            if 'data' in  response.json():
+                data = response.json()['data']
+                return data['refresh_token'], data['access_token']
+            else:
+                print(f'refresh token attempt {attempt} failed: {response.code} - {response.msg}')
+        except RequestException as e:
+            print(f'Attempt {attempt} raised exception: {e}')
+            
 #一个刷新token的完整调用函数
 def renew_token(file_path):
     """Renews the token and writes the new refresh token to the file."""
