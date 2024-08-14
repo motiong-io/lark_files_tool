@@ -1848,3 +1848,356 @@
 2024-08-12 04:58:12,535 ERROR Failed to download item: ��������������� (docx), token: R8Drd8qPvorhrtxAIb1cHGxtncg
 {"name": "电机仿真结果对比", "token": "UhVddjtzqo8xUXxT1X4croFKncd", "type": "docx", "ticket": "7401988442149191683", "file_token": null}
 2024-08-12 04:58:18,671 ERROR Failed to download item: ����������Ա� (docx), token: UhVddjtzqo8xUXxT1X4croFKncd
+{"name": "首批潜在客户沟通_231201", "token": "ZQlhdRX37oebOXxKWdXcLMPAnzf", "type": "docx", "ticket": "7402545917558554627", "file_token": null}
+{"name": "销售效率提升", "token": "CUyTd5hw2onMOBx1Xh3ccZ91n6o", "type": "docx", "ticket": "7402546376959524868", "file_token": null}
+{"name": "数据分析思维导图", "token": "QRuDdCU0UoY9jHx30cZcXsCun1d", "type": "docx", "ticket": "7402546465765867524", "file_token": null}
+{"name": "上海赢朔电子科技股份有限公司永合瑞-终端-赢朔力控项目评估", "token": "MIulbWzIQaucUssXZL6c9v8infh", "type": "bitable", "ticket": "7402551513094914051", "file_token": null}
+{"name": "苏州格尔博自动化技术有限公司格尔博电机测试项目", "token": "ZRz5bo4WuaO5SestaymcQak4nme", "type": "bitable", "ticket": "7402552343668342787", "file_token": null}
+{"name": "测试方案", "token": "Ftc4dhqwBoOmt8xZSEgcy24snCd", "type": "docx", "ticket": "7402554530766307332", "file_token": null}
+{"name": "开发工作时间分配比例", "token": "E3mgdPN04oaWMAxjfXdc8YEinbf", "type": "docx", "ticket": "7402556177705451524", "file_token": null}
+{"name": "柔性状态信息保存", "token": "AwLHdGKFNorK50xZp0Ycv3FQnBf", "type": "docx", "ticket": "7402556260984487939", "file_token": null}
+{"name": "多维表格-表单视图-API", "token": "doxcnMqKghP9TGKCnSb9yJJ4Fxd", "type": "docx", "ticket": "7402557717923053572", "file_token": null}
+{"name": "FAE数据统计工具开发计划安排", "token": "Cgc6dRVaKoxRHOxnZTbcsAusndM", "type": "docx", "ticket": "7402559921319034884", "file_token": null}
+{"name": NaN, "token": "bascnxTZ1BJ9UG8aJvbs4KbXtwd", "type": "bitable", "ticket": "7402560293451218947", "file_token": null}
+{"name": "开发工作时间分配比例", "token": "Rwf8dFA28oG5M5xXtycc9dSfnze", "type": "docx", "ticket": "7402563570078695427", "file_token": null}
+{"name": "Flex_CANopen or Modbus接口信息整理", "token": "doxcnfUeCpxTbhdqki2QEc2fpdi", "type": "docx", "ticket": "7402563849312534532", "file_token": null}
+{"name": "Flex_Pulse脉冲型接口信息整理", "token": "doxcnZ15cwjM9m0YCGYYmQ5Axif", "type": "docx", "ticket": "7402563857385177091", "file_token": null}
+{"name": "接驳车和弧形柔性线同步虚拟模型端数据对比图", "token": "doxcnKGgDtlG0zIoHVe97qPqztb", "type": "docx", "ticket": "7402563864816877571", "file_token": null}
+{"name": "柔性上位机目前遇到的问题。", "token": "doxcnLGICwD5fMAzWKvppapjPNh", "type": "docx", "ticket": "7402563872299712516", "file_token": null}
+{"name": "Unity使用模型制作规范流程", "token": "doxcnSx3Lngug5N0HHtD8WH8yUd", "type": "docx", "ticket": "7402563881964683268", "file_token": null}
+{"name": "柔性上位机——模型开发部分项目规划", "token": "doccnA0U01DPRAzMQdpByHgoYFc", "type": "doc", "ticket": "7402563889165844484", "file_token": null}
+{"name": "柔性线软件结构图对比", "token": "doxcnEvCagGNdsx634LG43ct25d", "type": "docx", "ticket": "7402563896509186051", "file_token": null}
+{"name": "Unity端与JS前端、虚拟模型端数据结构比对", "token": "doxcnkbBDrFRG8qdm2EFyqNs6db", "type": "docx", "ticket": "7402563903852544003", "file_token": null}
+{"name": "柔性线项目_Unity3D开发文档", "token": "doccnqyHAi2xYbAs2GlY7kwniR0", "type": "doc", "ticket": "7402563947268046851", "file_token": null}
+{"name": "数据统计工具版本管理", "token": "bascnFMyg32YbY5iOEqru0IP2Qg", "type": "bitable", "ticket": "7402563955246645251", "file_token": null}
+{"name": "工作总结", "token": "CE5yd44mYo9myTxf1K8cqvRinHh", "type": "docx", "ticket": "7402564015378055172", "file_token": null}
+{"name": "产研日报", "token": "bascn6Lb1C0v3GU09UsM7PArDx6", "type": "bitable", "ticket": "7402564093846437892", "file_token": null}
+{"name": "使用python操作Windows注册表", "token": "HyyGdp9Mzo3IxvxIxnwcB94FnM0", "type": "docx", "ticket": "7402564101618745347", "file_token": null}
+{"name": "柔性线（上位机与下位机单驱动保护参数-设备保护-正常设置）测试用例", "token": "E3yOdXojZoVNK1xgdo7cGrSAnjd", "type": "docx", "ticket": "7402564110179860484", "file_token": null}
+{"name": "柔性线（上位机与下位机单驱动保护参数-设备保护-正常设置）测试用例", "token": "OhyudLBEPoTnB6xQ3CfcQzf3n4j", "type": "docx", "ticket": "7402564117587689475", "file_token": null}
+{"name": "柔性线（上位机与下位机单驱动电机参数-正常设置）测试用例", "token": "Db3ZdoQGWoXvUOxSjT2cBLJJn1d", "type": "docx", "ticket": "7402564125057024004", "file_token": null}
+{"name": "柔性线（上位机与下位机USB通讯）测试用例", "token": "G2Xod3dbSop4t4xGkLQc8fw1noe", "type": "docx", "ticket": "7402564132467163140", "file_token": null}
+{"name": " 电感式编码器资料记录", "token": "SLQzdu3pTo1QX0xkTSlcrk2nnCg", "type": "docx", "ticket": "7402564176812802051", "file_token": null}
+{"name": "DServo支持BiSS-C相关改动", "token": "doxcnhMmAqNgeXoXp1F6vCgY1vb", "type": "docx", "ticket": "7402564184225873923", "file_token": null}
+{"name": "柔性驱动器开发计划表", "token": "doccnx6znwMXOLQ6tugxwW73vMC", "type": "doc", "ticket": "7402564192496402435", "file_token": null}
+{"name": "路远RC4测试（canopen）", "token": "SyJVdW23WoxGuux1ZwCcbjXOnmh", "type": "docx", "ticket": "7402564233575694340", "file_token": null}
+{"name": "资料", "token": "GQdSdhFsFozKo9xiVA2cKlVinXH", "type": "docx", "ticket": "7402564241196253188", "file_token": null}
+{"name": "成都X项目（CANOpen）组网联调测试报告", "token": "K846dfn8roKT4gxUJZucBtVsn1f", "type": "docx", "ticket": "7402564248884969476", "file_token": null}
+{"name": "伺服通用功能知识收纳", "token": "CWOydnzilouSPxxnSIKcWtp2n9e", "type": "docx", "ticket": "7402564257252442116", "file_token": null}
+{"name": "迈为伺服测试（软件部分）报告", "token": "L1FjddhpgoDbx3x0Vf6ckryNn6b", "type": "docx", "ticket": "7402564297580380163", "file_token": null}
+{"name": "路远复现报文--等100ms-2", "token": "JMKcsHG1tho82rt86RyciVbtn9f", "type": "sheet", "ticket": "7402564305210179587", "file_token": null}
+{"name": "路远-多轴集成贴片机驱动器PRD-规格书-20240123(1)", "token": "BUlndHPMEotdBDxrl53ceQGWnvd", "type": "docx", "ticket": "7402564313834192899", "file_token": null}
+{"name": "MotorHost（3.0.4.5 Alph5和beta2）多轴调试版本测试问题汇总", "token": "XIYqdfGtIogwTnxsGLqcNfCKnre", "type": "docx", "ticket": "7402564321027489795", "file_token": null}
+{"name": "倍福TwinCAT3 Modbus-TCP安装及使用教程", "token": "NlrldN06io6mgIxVGzLcRk8ln1b", "type": "docx", "ticket": "7402564328174256132", "file_token": null}
+{"name": "伺服通用功能卡片知识工程化过程", "token": "MYxCdgGowofu5MxrAyVckZbjnSc", "type": "docx", "ticket": "7402564336802856963", "file_token": null}
+{"name": "hm-6098=1_1", "token": "XnjXdwHAgobSCex8v8iccB9snYd", "type": "docx", "ticket": "7402564376394907651", "file_token": null}
+{"name": "丝杠台图", "token": "EX3IdUNk9ojzAExw3qCcGnbGnqf", "type": "docx", "ticket": "7402564383942557699", "file_token": null}
+{"name": "虚拟主站测试报告（202312123）", "token": "QvUtdZKdko30PvxuRBKctAbjnwf", "type": "docx", "ticket": "7402564391459995652", "file_token": null}
+{"name": "实物自动测试问题", "token": "TRXqd9eOHophI3xhR62cKlJznZb", "type": "docx", "ticket": "7402564400508354563", "file_token": null}
+{"name": "柔性线集成用例测试", "token": "NpZ9bVQLOaROXhsSJZ3cma8FnTd", "type": "bitable", "ticket": "7402564408592777220", "file_token": null}
+{"name": "柔性上位机mft2.1.15测试问题汇总", "token": "A06CdzT9NoULG9x1ZO8ciPxincf", "type": "docx", "ticket": "7402564452353687555", "file_token": null}
+{"name": "DG3性能测试（不同环境）报告", "token": "EfhcdCKyNoqjnfxarnecaEPTnfe", "type": "docx", "ticket": "7402564490108780547", "file_token": null}
+{"name": "DG3性能测试（A00版硬件）", "token": "XqordmOVOo31tXxIU0ocCLxGnch", "type": "docx", "ticket": "7402564497241849860", "file_token": null}
+{"name": "环形-赛普肯伺服驱动器在远大机械臂上性能对比(内部)", "token": "Dqq0dofjwo1hwHx7wbDcUPTjnlf", "type": "docx", "ticket": "7402564639571132419", "file_token": null}
+{"name": "自动化实物测试软件工程化", "token": "CPFIbdmxsarthhslDfic1O4Lnun", "type": "bitable", "ticket": "7402564647251869700", "file_token": null}
+{"name": "伺服驱动器用例测试方法和步骤", "token": "MClIdwoPgo8gSbxVdKFcVwmwnLe", "type": "docx", "ticket": "7402564811390976004", "file_token": null}
+{"name": "柔性线（测试）工程化过程", "token": "F6oCdnW6zobPeSxjwJVcaG70nhd", "type": "docx", "ticket": "7402564869628542980", "file_token": null}
+{"name": "柔性线测试规划", "token": "SMoRdlGcQoIIPnxaW3zcyWmBnte", "type": "docx", "ticket": "7402565045093187587", "file_token": null}
+{"name": "治具工装（Flex/Flex-R）测试报告", "token": "PL1ndduFJoKM6mxcydPcnVdSnOL", "type": "docx", "ticket": "7402565052304326660", "file_token": null}
+{"name": "DN1（白银） 性能测试", "token": "SnJ9dJQXAocL5lxolnXcOVn9nHb", "type": "docx", "ticket": "7402565059883483139", "file_token": null}
+{"name": "标配电机（泰格）测试", "token": "Dymdd2ao2ow02Fx6WI0cIjlqnqg", "type": "docx", "ticket": "7402565067676073987", "file_token": null}
+{"name": "Flex国产化性能对比测试", "token": "CUdldfxxJoyip0xpHptcPtSHn8f", "type": "docx", "ticket": "7402565075553255427", "file_token": null}
+{"name": "Flex-R-P老化前后性能对比测试 ", "token": "XbePdt0XHoCITixlpSMcG9QenBW", "type": "docx", "ticket": "7402565082913898499", "file_token": null}
+{"name": "东锅老化前后性能对比测试", "token": "UohSdAz0lo1DzDxU867cpTdGnvg", "type": "docx", "ticket": "7402565091474391044", "file_token": null}
+{"name": "东锅整机治具测试报告", "token": "EJIbdQoH3oH5dGxHwJ8c9BJDn4d", "type": "docx", "ticket": "7402565098776608772", "file_token": null}
+{"name": "Flex-R高性能版本性能测试", "token": "WUQydoRIgoYsboxewoIc42RonLb", "type": "docx", "ticket": "7402565106502762499", "file_token": null}
+{"name": "治具工装（整机）讨论", "token": "RKSzdRAEvo3JjXxMEWWcnhoPn0g", "type": "docx", "ticket": "7402565113884098563", "file_token": null}
+{"name": "产研日报", "token": "bascnjLloNt5iE9opnFKi3vsuug", "type": "bitable", "ticket": "7402565121614184451", "file_token": null}
+{"name": "软件包提测报告模板", "token": "NQqadDgT9oeONtxa3Xkcw898nrg", "type": "docx", "ticket": "7402565129184690180", "file_token": null}
+{"name": "Alpha3生产工具测试", "token": "X7uWdeNDMoFiAtx6vPDcvJfdnHf", "type": "docx", "ticket": "7402565137548279812", "file_token": null}
+{"name": "生产辅助工具提测报告模板", "token": "UcURdnPr2ov0XvxMCmycYEE6njq", "type": "docx", "ticket": "7402565144873500676", "file_token": null}
+{"name": "Flex-R硬件变动性能测试对比", "token": "doccn1Wt4BDYwuEzrsOOLegtNWe", "type": "doc", "ticket": "7402565152797261827", "file_token": null}
+{"name": "艾尔特6.1.13Rev2&3测试报告", "token": "LHXMdIFnpoNSJqxJzJwcFuMpnQc", "type": "docx", "ticket": "7402565159925760003", "file_token": null}
+{"name": "软件包提测报告模板 -审批版", "token": "QaHXdhcFqooTI9xuU9XcEWWFnNd", "type": "docx", "ticket": "7402565167307784195", "file_token": null}
+{"name": "Flex-R硬件变动性能测试对比 -审批版", "token": "doccnWLklt7cKcstkmQO95OgrCh", "type": "doc", "ticket": "7402565174990848003", "file_token": null}
+{"name": "生产辅助工具提测报告模板 -审批版", "token": "NFkpdIGHMoY15QxHLXPcwMNenRf", "type": "docx", "ticket": "7402565182340349955", "file_token": null}
+{"name": "软件包提测报告模板", "token": "SUYldbEamowJNYxyVksc5HKan7d", "type": "docx", "ticket": "7402565189431918595", "file_token": null}
+{"name": "软件包提测报告模板", "token": "Rz14dd9SRoSWSBx6RQDcy0pgnvh", "type": "docx", "ticket": "7402565196785008644", "file_token": null}
+{"name": "环形-赛普肯伺服驱动器在机械臂上性能对比( 20230403）", "token": "P8iDdSgc4oYWT5x80mYc2OlRnqf", "type": "docx", "ticket": "7402565204674314244", "file_token": null}
+{"name": "性能测试步骤规范指导", "token": "Ph1HdhZe1oJjG3xcDAsctuXbnae", "type": "docx", "ticket": "7402565211784773636", "file_token": null}
+{"name": "伺服性能测试项目及其自动化方案实现", "token": "TjwXdcJEkoavoIxz8BIcaApYnUc", "type": "docx", "ticket": "7402565219136094212", "file_token": null}
+{"name": "客户支持问题需求分类汇总", "token": "CB1FbYzgaayYcjseQTvcUGjtnWc", "type": "bitable", "ticket": "7402565234889818116", "file_token": null}
+{"name": "深圳伺峰科技有限公司（盛泰奇）", "token": "TPSBdomVvoQZORxrm1YcMJuFnPc", "type": "docx", "ticket": "7402565275149647875", "file_token": null}
+{"name": "PWM占空比调速功能开发-202407280003", "token": "NPt5dS1xpo2PuxxIO9Dct0kanvh", "type": "docx", "ticket": "7402565315236659203", "file_token": null}
+{"name": "上海派启 + 恒科鑫", "token": "MuGEdM4iKoapvKx5aascAaHDnph", "type": "docx", "ticket": "7402565322635280388", "file_token": null}
+{"name": "路远智能-研发技术支持", "token": "E7oGdH6yOobwA5xMGXvc16M4njf", "type": "docx", "ticket": "7402565330008064004", "file_token": null}
+{"name": "中科芯微——服务记录汇总", "token": "QM4udi12foMnD0xXgyTcmrjUnSb", "type": "docx", "ticket": "7402565337570836483", "file_token": null}
+{"name": "云驰时代", "token": "JV8YdxNHuoPYhbx1hDicX12lnZe", "type": "docx", "ticket": "7402565344546914307", "file_token": null}
+{"name": "北京高控", "token": "Dk2bdAVsvoRpKzxksoFcH59fnnh", "type": "docx", "ticket": "7402565351892320259", "file_token": null}
+{"name": "南京牧镭DG3-研发技术支持", "token": "Nx1ldDfhgoqWTNxHz09cXpELnMh", "type": "docx", "ticket": "7402565438485987332", "file_token": null}
+{"name": "江苏无线电", "token": "MkoEdBHJyoxJMmxZu2Fcy9nonMe", "type": "docx", "ticket": "7402565516488654852", "file_token": null}
+{"name": "伯朗特研发技术支持记录", "token": "VO6adZEDookM4Tx0MAwc1KFhn9O", "type": "docx", "ticket": "7402565523835813891", "file_token": null}
+{"name": "深圳微创", "token": "GKDHdHIZuo3GooxjxjpcQKJcndh", "type": "docx", "ticket": "7402565568778158083", "file_token": null}
+{"name": "华科星-相对位置模式跑飞", "token": "QrvMdCRBkoNfdCxwq3qcgSQOnYs", "type": "docx", "ticket": "7402565576580562947", "file_token": null}
+{"name": "翱翔", "token": "PM1XdIvJcoNf7cxTr1Jcoj5vn8d", "type": "docx", "ticket": "7402565584065642500", "file_token": null}
+{"name": "辽宁辉亚终端富创精密研发技术支持记录", "token": "DkENdYpiroCctZxeNqEcGzqdnTB", "type": "docx", "ticket": "7402565591661281284", "file_token": null}
+{"name": "中科长光精拓", "token": "HPVqdecOLoG92ZxkkvjckllonQh", "type": "docx", "ticket": "7402565599176785923", "file_token": null}
+{"name": "世脉", "token": "MqqgdFtoxoW1JVxWnlHcfPIpnDd", "type": "docx", "ticket": "7402565642041491459", "file_token": null}
+{"name": "正远客户-研发支持记录", "token": "QjRodAzvPocQ82xx5P0cjdimnbc", "type": "docx", "ticket": "7402565649486528515", "file_token": null}
+{"name": "微组", "token": "X2Hbd58zTox3DVxlRbxcqFGundh", "type": "docx", "ticket": "7402565656671862787", "file_token": null}
+{"name": "昊志环形CSP使能异常问题", "token": "MrqmdgsqdoF5fhxTxyqcYZ63nrf", "type": "docx", "ticket": "7402565664868794372", "file_token": null}
+{"name": "横川机器人（深圳）有限公司", "token": "U0UjdM99soyomIxTF0jcHoDwnmb", "type": "docx", "ticket": "7402565672179908612", "file_token": null}
+{"name": "晶铸-森龙客户和原能生物客户研发技术支持记录", "token": "WHl7dkzFSotBXgxC0QycfVGynAD", "type": "docx", "ticket": "7402565679461302276", "file_token": null}
+{"name": "伯朗特机器人——服务记录汇总", "token": "MRj4d7SXnoEqhexnVNpcp4BSnhb", "type": "docx", "ticket": "7402565687006904324", "file_token": null}
+{"name": "新松半导体晶圆搬运项目研发支持记录", "token": "IgzCdaj6GojAC4x1l1TcDGcyn5b", "type": "docx", "ticket": "7402565694535532547", "file_token": null}
+{"name": "精卓信-心跳功能定制_限位异常-202310130013", "token": "VvL2dx4IToxxOOxQcVkc3fnLnGe", "type": "docx", "ticket": "7402565702340509700", "file_token": null}
+{"name": "精卓信IO触发急停定制功能-202308030007", "token": "Nns6diLb0o19m9xpNKRcJuujnie", "type": "docx", "ticket": "7402565814258352131", "file_token": null}
+{"name": "江苏华章物流AGV故障停车解决方案-202308040016", "token": "AiGFd9IJ0ot7r5xEwbccbhDlnjc", "type": "docx", "ticket": "7402565822146854915", "file_token": null}
+{"name": "长园CSP模式限位开关问题", "token": "GeewdKejMocxgWxrs9ccW8GOnOb", "type": "docx", "ticket": "7402565830264651779", "file_token": null}
+{"name": "布法罗机器人-can+csp模式支持", "token": "WntBdvgc8oZDIxxAvGQc36UAnZc", "type": "docx", "ticket": "7402565870377058308", "file_token": null}
+{"name": "全程使能中，CSP模式切换到回零完成后切回CSP模式，位置规划值、位置误差发生异常跳变", "token": "YcaNdl3ZUoJipvxuMz3ctZvPnjf", "type": "docx", "ticket": "7402565878052782083", "file_token": null}
+{"name": "国科天成研发技术支持记录", "token": "Q2kId0YucogIH7xQGSZcJoqhnAf", "type": "docx", "ticket": "7402565885393633284", "file_token": null}
+{"name": "客户支持问题需求分类汇总多维表格", "token": "KEDCbpIGMaVvWNsmY6lcP8PYnWg", "type": "bitable", "ticket": "7402566025717284867", "file_token": null}
+{"name": "客户支持问题需求分类汇总多维表格数据源表", "token": "POY5suTMuhpTlXtEizXcAmtBn4g", "type": "sheet", "ticket": "7402566033226268676", "file_token": null}
+{"name": "客户支持问题需求分类汇总表（不更新）", "token": "ZrM2sszT5h4ICPt8AmtcE43Insh", "type": "sheet", "ticket": "7402566041038684163", "file_token": null}
+{"name": "小问题技术支持-郭其锐", "token": "WChEdEx81ojkluxrg8ucZTOFnOf", "type": "docx", "ticket": "7402566048178880516", "file_token": null}
+{"name": "小问题技术支持-董继波", "token": "Do71d1Fpao8UTexoTmFc61P2nle", "type": "docx", "ticket": "7402566055606697987", "file_token": null}
+{"name": "死区补偿测试-线性补偿算法", "token": "RzzSdO0mRou5jUxf7rtcJAU8n0j", "type": "docx", "ticket": "7402566197092433923", "file_token": null}
+{"name": "双旋变开发记录", "token": "DuFSdjHB9onGW7xFhw0codf3nXb", "type": "docx", "ticket": "7402566335651135492", "file_token": null}
+{"name": "DG3代码审核意见", "token": "Qivdd20ksodNiRxrQ67cbRUcnff", "type": "docx", "ticket": "7402566406754189316", "file_token": null}
+{"name": "国产化亚特力ATF435片上Flash问题", "token": "KeOIdlLURowclxxEJMZcmWthnfh", "type": "docx", "ticket": "7402566451100041220", "file_token": null}
+{"name": "flex雅特力死区时间测试", "token": "S3WEd7bqZoCHdlxVJ0wcZJBgnmg", "type": "docx", "ticket": "7402566458675658756", "file_token": null}
+{"name": "伺服驱动层抽象优化方案", "token": "E7ArdeZH8oEU2AxMmKic3MM0n4g", "type": "docx", "ticket": "7402566466212233219", "file_token": null}
+{"name": "嵌入式平台规划", "token": "GrAYdmu9jo2GO3xzonRcXITGnOf", "type": "docx", "ticket": "7402566473883369475", "file_token": null}
+{"name": "星耀DP1-E系列软件开发方案", "token": "Km1cdvPFrodMWmx5RKycWUrcnGe", "type": "docx", "ticket": "7402566546573557763", "file_token": null}
+{"name": "Flex-V1电流电压采样精度优化开发", "token": "NvXLddu2RoNq43x7hMjcmIm2npg", "type": "docx", "ticket": "7402566554358988804", "file_token": null}
+{"name": "瑞萨方案驱动器预研记录", "token": "shtcnjfwMNT1BhT2lh9Dm3Lahpd", "type": "sheet", "ticket": "7402566561829928963", "file_token": null}
+{"name": "BSP单元测试-debug版", "token": "IYSQdiIfYoTHhuxZJM4c0qUOnfg", "type": "docx", "ticket": "7402566665223815171", "file_token": null}
+{"name": "行动元驱动器BSP移植教程", "token": "JhVQdExquodowKx8hrOcYLOrn0c", "type": "docx", "ticket": "7402566672869277700", "file_token": null}
+{"name": "BSP移植评估报告模板", "token": "Od0vdIgBNow3k3xKsYjc3Rqsn0f", "type": "docx", "ticket": "7402566680502648835", "file_token": null}
+{"name": "BSP单元测试-BSP上位机版", "token": "LVT9dFfoSobFruxIUApcHEuDnUg", "type": "docx", "ticket": "7402566721540489219", "file_token": null}
+{"name": "BSP移植评估报告-Flex-v1", "token": "Cyg3d9IifoNwX4xxWfRcTgFun3g", "type": "docx", "ticket": "7402566729345810436", "file_token": null}
+{"name": "BSP移植评估报告-DG3", "token": "NMdddzhdZoxmeAxa3bxcjqVwn6g", "type": "docx", "ticket": "7402566737160470531", "file_token": null}
+{"name": "预研过程遇到的问题简述", "token": "Si2tdBZfZoiTgfxeN84cetGHn8d", "type": "docx", "ticket": "7402566746649477124", "file_token": null}
+{"name": "中科芯微 End-to-end Report (Reviewed with Xiaoming & Lisa) Copy 副本", "token": "THvLdr8XhoL6l8xULoucjnK4nVe", "type": "docx", "ticket": "7402566817081901059", "file_token": null}
+{"name": "产品周报", "token": "TV9GdxPIuoiRH4xf2smcwUOZn2g", "type": "docx", "ticket": "7402567022355808260", "file_token": null}
+{"name": "产品目标", "token": "RkVZdfKCkoamFOxO9iJcduGYnye", "type": "docx", "ticket": "7402567030115598339", "file_token": null}
+{"name": "零星物料事前审批", "token": "bascnQqQ1gYR7OEE75Prrmuv7Zb", "type": "bitable", "ticket": "7402567070741479428", "file_token": null}
+{"name": "AF1项目-第一轮-整机EMC测试报告 模板", "token": "JxyVdV9wwoIgfdxnJuPc58synyd", "type": "docx", "ticket": "7402567177062907908", "file_token": null}
+{"name": "XXX项目-第XXX轮-整机XXX测试报告", "token": "UNfZdxrAiotqlBxqPk0cIs10nDb", "type": "docx", "ticket": "7402567184646930436", "file_token": null}
+{"name": "补卡", "token": "AKxAbihQta8OnWsIDljc6vZQnMh", "type": "bitable", "ticket": "7402567519600459779", "file_token": null}
+{"name": "DM项目-四轴-环境测试报告", "token": "UeWEdoZjYoSwBYxUEv1cI1SRnmg", "type": "docx", "ticket": "7402567527185924099", "file_token": null}
+{"name": "京东AGV项目第一轮SI测试报告", "token": "Va3pdtngDo8cOCxDK9acgt2InKi", "type": "docx", "ticket": "7402567684506157060", "file_token": null}
+{"name": NaN, "token": "KHTId2zSUoqibTxGRbCcUKBsnJh", "type": "docx", "ticket": "7402567724052070403", "file_token": null}
+{"name": "问题跟踪记录表 副本", "token": "XhbPbYqjxa4N9zs9k3hcwpmundg", "type": "bitable", "ticket": "7402567731428392963", "file_token": null}
+{"name": "问题跟踪记录表 副本", "token": "Lt5hb3vEgaglJHsiZ8kc8khInhe", "type": "bitable", "ticket": "7402567739170471940", "file_token": null}
+{"name": "环境历史数据统计，用例精简", "token": "Bw7tds62uoiLB5xTTWqcKQfHnrO", "type": "docx", "ticket": "7402567827163447299", "file_token": null}
+{"name": "项目管理甘特图", "token": "TT7SbXBdzaiMGDsdK5Fcjko2nmb", "type": "bitable", "ticket": "7402568339225247748", "file_token": null}
+{"name": "项目管理甘特图", "token": "GAZRbcfwFacKiEseo7TcjMgPntg", "type": "bitable", "ticket": "7402568346392985604", "file_token": null}
+{"name": "整机性能提测报告模板 -审批版", "token": "GD6Ndp95iozNYcx9Lxqclp8Ynie", "type": "docx", "ticket": "7402568482288582659", "file_token": null}
+{"name": "整机性能提测报告模板 -审批版", "token": "A2KLdelbroUNFIxdUjoceUCcnmg", "type": "docx", "ticket": "7402568489569550339", "file_token": null}
+{"name": "整机性能提测报告模板 -审批版", "token": "FmJud8cb5oGKC6xoP8ZcPe61nPc", "type": "docx", "ticket": "7402568529565712388", "file_token": null}
+{"name": "整机性能提测报告模板", "token": "UG2FdovqEoAy7hxNwf2cIhFFn8g", "type": "docx", "ticket": "7402568663980654595", "file_token": null}
+{"name": "XXX项目-第XXX轮-整机-环境测试报告 模板", "token": "QcgkdpPeFodw8fxmyIgcMbnrnJd", "type": "docx", "ticket": "7402568671178162179", "file_token": null}
+{"name": "测试时间延误统计表", "token": "bascnCEEh2LzKKyjJybqAM9Zkdf", "type": "bitable", "ticket": "7402568701851336707", "file_token": null}
+{"name": "项目测试任务统计", "token": "bascnYQDDI5NzxlQ9OmKPz6lryb", "type": "bitable", "ticket": "7402568784793501699", "file_token": null}
+{"name": NaN, "token": "bascnOy22iPg3CFTg90DVH5DXFe", "type": "bitable", "ticket": "7402568792599691267", "file_token": null}
+{"name": "项目管理甘特图", "token": "bascnpHz5l3AP45ONCaamzGn1xc", "type": "bitable", "ticket": "7402568799808946180", "file_token": null}
+{"name": "项目管理甘特图", "token": "bascnuPrLvpEb9N9jPKM5y9KQ6g", "type": "bitable", "ticket": "7402568807486849028", "file_token": null}
+{"name": NaN, "token": "bascneYFIySBiGMjE5D4kSN8l5f", "type": "bitable", "ticket": "7402568815487516675", "file_token": null}
+{"name": NaN, "token": "bascnOwhwmm5JR6U4Z3EgZ5nDZd", "type": "bitable", "ticket": "7402568822832168964", "file_token": null}
+{"name": "低压伺服驱动器常温温升测试方案-20220106-邓文华", "token": "doccnQnJcMx9E1Sx5lQRkm0rNdg", "type": "doc", "ticket": "7402568830499209220", "file_token": null}
+{"name": "用友T+安装步骤(新）", "token": "doccnA3SsrT6RFu1LYeUr4P4bmg", "type": "doc", "ticket": "7402568876946505732", "file_token": null}
+{"name": "🏖️请假申请", "token": "B5F8bxMdcaQAVPszXCmcTRuFnNd", "type": "bitable", "ticket": "7402569594944471044", "file_token": null}
+{"name": "客户支持第一次作业", "token": "doccnpqvKmCeKbNFzxi79GRtJyb", "type": "doc", "ticket": "7402569749899100164", "file_token": null}
+{"name": NaN, "token": "bascnonyzfsPJN7TrVLg6bYuufd", "type": "bitable", "ticket": "7402569758573248516", "file_token": null}
+{"name": "客户支持第一次作业", "token": "doccnosyFNsaypkkSXYyuWW5JEd", "type": "doc", "ticket": "7402569972902510596", "file_token": null}
+{"name": "请假", "token": "RPgbbhl3Xadrm3sSwUecaQe3nlh", "type": "bitable", "ticket": "7402569986328739844", "file_token": null}
+{"name": "签到数据统计 - 员工问卷问题答疑及重要工作部署", "token": "TTeybtlqWa2NTTszrRQcwuHVncb", "type": "bitable", "ticket": "7402569994317479939", "file_token": null}
+{"name": "👕 文化衫登记", "token": "Wkv4b2jdVa1zVHsZVqrcHcOfn5c", "type": "bitable", "ticket": "7402570035059163139", "file_token": null}
+{"name": "👕 文化衫登记", "token": "TRHVb8H1ja3IilsYqoccYr4wn9q", "type": "bitable", "ticket": "7402570042698743811", "file_token": null}
+{"name": "抽奖1111", "token": "VbOtbgTTfa9LFssaOOVc2OU6nSb", "type": "bitable", "ticket": "7402570050672427012", "file_token": null}
+{"name": "试用期转正评估-XXX -审批版", "token": "DJN4dXOOzodUzcx6tFOcyg7UnGe", "type": "docx", "ticket": "7402570088505229316", "file_token": null}
+{"name": "名片全能王功能对比", "token": "IZPmsJ7cJhg53BtJiaWc6odknjg", "type": "sheet", "ticket": "7402570096268509187", "file_token": null}
+{"name": "试用期转正评估-M级 -审批版", "token": "PDA7d4Ez9olrZlx19HccbhDqnah", "type": "docx", "ticket": "7402570103445012483", "file_token": null}
+{"name": "试用期转正评估-M级", "token": "U5DZdzgaToV6Bpxlm4XcQyfLnFd", "type": "docx", "ticket": "7402570110668341252", "file_token": null}
+{"name": "试用期转正评估-XXX", "token": "ExDQduAPBom1UcxLnOtcmeoBnRc", "type": "docx", "ticket": "7402570118317981699", "file_token": null}
+{"name": "20230509 Employment Pass Application -审批版", "token": "C9HFdbxnxoH3J1xyhzZcSzDEnFJ", "type": "docx", "ticket": "7402570125532413956", "file_token": null}
+{"name": "东锅阿克塞项目软件测试记录", "token": "shtcnUz44IrHTqMvhMthyfWitch", "type": "sheet", "ticket": "7402570265980813315", "file_token": null}
+{"name": "字典属性表", "token": "FpVKbSOr1a0qLxshA9MczRGvnve", "type": "bitable", "ticket": "7402570303548030980", "file_token": null}
+{"name": "伺服功能说明", "token": "WUPqdwJJYovkXcx4FuEcuIuGnL2", "type": "docx", "ticket": "7402570310844760068", "file_token": null}
+{"name": "字典描述", "token": "TKmgdTfr6o0QaaxkC0acVSQmnng", "type": "docx", "ticket": "7402570318046396419", "file_token": null}
+{"name": "字典属性", "token": "O0VAdeVUXom4gFxZkyTcLbhan1c", "type": "docx", "ticket": "7402570325264973828", "file_token": null}
+{"name": "东锅问题跟踪表", "token": "VTzms4jS3hoy6XtvUImcmyOJnkg", "type": "sheet", "ticket": "7402570332734832644", "file_token": null}
+{"name": "东锅驱动器工程应用细节", "token": "Wzq0dzQY4oeokLxIitMc6faDnjb", "type": "docx", "ticket": "7402570405670469636", "file_token": null}
+{"name": "流程图", "token": "EtSfdVHO6oW6A7xJWhgcuctmnee", "type": "docx", "ticket": "7402570413257310212", "file_token": null}
+{"name": "东锅现场问题排查测试模拟", "token": "ODkSsX3fohjEoCtyWO0cGbyxngc", "type": "sheet", "ticket": "7402570421256208387", "file_token": null}
+{"name": "JD软件测试问题", "token": "RqAIsdOobhkaCmt2ZpCcKGMGn0e", "type": "sheet", "ticket": "7402570428922740740", "file_token": null}
+{"name": "simulink生成twincatPLC代码运行", "token": "Fqs4dTyKuomok2xoMutck6UdnAc", "type": "docx", "ticket": "7402570436371972099", "file_token": null}
+{"name": "虚拟测试", "token": "HWGFdHl24omfGVxvPLncR9gNndg", "type": "docx", "ticket": "7402570443985797123", "file_token": null}
+{"name": "驱动器通讯及过载问题快速排查指南", "token": "ZjzMd65zRoztGixrR1achq3MnCe", "type": "docx", "ticket": "7402570482631655428", "file_token": null}
+{"name": "东锅8月出差总结", "token": "ZMQudkoxTowBNpxG27RcwdJbnJf", "type": "docx", "ticket": "7402570489774473220", "file_token": null}
+{"name": "ACS&行动元驱动器匹配连网.mp4", "token": "B1Uyb6C6Bo8ZzqxPD3Rc25TQnzO", "type": "file"}
+{"name": "IT资产管理系统", "token": "S7rkbmIFvaP0a6sMay9cPkLunWe", "type": "bitable", "ticket": "7402579061405122563", "file_token": null}
+{"name": "MAXHUB会议硬件使用", "token": "M12md7TGEo6O3Nxci9AcWmyfn1g", "type": "docx", "ticket": "7402581466364297220", "file_token": null}
+{"name": "北京机房电池检测流程", "token": "NrZjdhX6XoyTKIxzOjTcRAjynvq", "type": "docx", "ticket": "7402582912287948804", "file_token": null}
+{"name": "多维表格函数实践 - 请使用模板后查看", "token": "PSlebwA3jaVOLGs8jXgckc9Wnhd", "type": "bitable", "ticket": "7402586172268281860", "file_token": null}
+{"name": "多维表格函数实践 - 请使用模板后查看", "token": "WTfYb6xgzaA3UasB67Mcd6N7nse", "type": "bitable", "ticket": "7402586199212605444", "file_token": null}
+{"name": "多维表格函数实践 - 请使用模板后查看", "token": "OvXJbkcEUatAdgsTen9coaErnvh", "type": "bitable", "ticket": "7402586226039177219", "file_token": null}
+{"name": "多维表格函数实践 - 请使用模板后查看 副本", "token": "VkDJbm47bawPZusWJ3TcWiYynUd", "type": "bitable", "ticket": "7402586253335937028", "file_token": null}
+{"name": "多维表格函数实践 - 请使用模板后查看 副本", "token": "AJZObjzwaa25DksHQkYc6D9vnxb", "type": "bitable", "ticket": "7402586280028274692", "file_token": null}
+{"name": NaN, "token": "Ak15bv46gaR7YSsPIA7cumoBnPd", "type": "bitable", "ticket": "7402586411339841539", "file_token": null}
+{"name": "CN 行动元DN单板系列 智能驱动器规格书_V1.02.01_20230327 副本", "token": "Rm33duTRMoi6rWxkT5Qc5vFvnBb", "type": "docx", "ticket": "7402586438921289731", "file_token": null}
+{"name": "信息系统支持优化", "token": "doxcnxa4XsVc1mIilfChWVOpzvg", "type": "docx", "ticket": "7402587652954816516", "file_token": null}
+{"name": "嘉昱驱动器定制需求评估_20240626", "token": "DD8udwGIRoFEjZxPe0PciiOWnZe", "type": "docx", "ticket": "7402593285652692995", "file_token": null}
+{"name": "Flex成品出货清单-2023-11月", "token": "AwTtbCzNIaT35xs4zhDcAYN4nFb", "type": "bitable", "ticket": "7402593463901880323", "file_token": null}
+{"name": "Flex成品出货清单-2023", "token": "V9b1buWiSa1iIZsaXiVcenmPnqf", "type": "bitable", "ticket": "7402593491005964292", "file_token": null}
+{"name": "行动元-智能驱动器产品系列大全", "token": "shtcnwH05ZpX4LzMPLxtHFQL4If", "type": "sheet", "ticket": "7402593980032466948", "file_token": null}
+{"name": "宣传彩页&快速接线指南修改-20231214", "token": "Xt9Rd2KTnoMRJmxNSMAcyJDHn5d", "type": "docx", "ticket": "7402594519105093636", "file_token": null}
+{"name": "柔性上位机问题清单", "token": "IItGsmOZ6hzo5ItB8AEcUfWBntc", "type": "sheet", "ticket": "7402594945909063684", "file_token": null}
+{"name": "柔性发布checklist", "token": "GniOdBFQjoFUa8xxnzscrxkanVd", "type": "docx", "ticket": "7402594973658431491", "file_token": null}
+{"name": "客户帮助中心更新记录", "token": "shtcnZQBQsaH1qgr2o3gMQYUURf", "type": "sheet", "ticket": "7402595271274135556", "file_token": null}
+{"name": "上位机调研", "token": "I8WgdxVm4otPCzxm1QbcH2k8nIc", "type": "docx", "ticket": "7402595297920122883", "file_token": null}
+{"name": "竞品-规格对比", "token": "F51YdjFLAoZA5zxIP8tcWxfgnVd", "type": "docx", "ticket": "7402595324994338820", "file_token": null}
+{"name": "控制器IO模块调研", "token": "P63Rd0eR0oz8aYxH6twcoEednxc", "type": "docx", "ticket": "7402595351716167684", "file_token": null}
+{"name": "ModbusTCP应用", "token": "QuuBdWkdwoXeF2xOxxPcfk1sn1e", "type": "docx", "ticket": "7402595495015890947", "file_token": null}
+{"name": "接口一览画板备份", "token": "ZKApdyFOPo9QbdxjxBxcRDNrn2c", "type": "docx", "ticket": "7402595524473356291", "file_token": null}
+{"name": "上位机 v3.0.4.3 版本 & 驱动器 6.1.16Release 版本新增功能说明", "token": "LHrCdYmDHovu95xn3MVcEegLnjd", "type": "docx", "ticket": "7402595782903332867", "file_token": null}
+{"name": "再生制动专题说明_V1.00.00_20221128", "token": "TntxdBBBco8t4JxAzbFc8a5enhb", "type": "docx", "ticket": "7402597309713907716", "file_token": null}
+{"name": "直线电机方案对比", "token": "doccnFgcOh8ycOirHbITMQUE8Bd", "type": "doc", "ticket": "7402597900024725507", "file_token": null}
+{"name": "治具工装（整机）讨论 -审批版", "token": "Z4IXdDY9OoiTvLxXa85cw8xUnec", "type": "docx", "ticket": "7402599167010275332", "file_token": null}
+{"name": "AF开模方案评估", "token": "SgwsdPTdOocGJ2xamJmcBwkznDc", "type": "docx", "ticket": "7402629867344625667", "file_token": null}
+{"name": "书本式驱动器概念方案", "token": "DbhwdXUzXoTCVhx6D67c4jULnJf", "type": "docx", "ticket": "7402630447190409220", "file_token": null}
+{"name": "共和开模问题跟踪", "token": "ObCAds1Rnoa2CtxWw3mcgaIDnbe", "type": "docx", "ticket": "7402810571491655683", "file_token": null}
+{"name": "DG3-23001结构设计说明书 v1.0 ", "token": "Uk1bdnKQ5oVrWsxvyqqcdXEBn2c", "type": "docx", "ticket": "7402810619164639236", "file_token": null}
+{"name": "FLEX\\FLEX-R开模问题跟踪", "token": "Oxnsdg0fpoNWjyxb2kCcxmHGnTh", "type": "docx", "ticket": "7402810627305570307", "file_token": null}
+{"name": "DF1项目进展（结构）", "token": "B6MndjSXYor2NpxZhvUcr2l5nVh", "type": "docx", "ticket": "7402810635686019075", "file_token": null}
+{"name": "DG3项目进度（结构）", "token": "FAL2dWezgom6uWxYiHmcFI7jnXe", "type": "docx", "ticket": "7402810679809409028", "file_token": null}
+{"name": "（模板）XXXX结构设计说明书 v1.x 副本", "token": "AGI3dziiXoVgW2xTNRccYq2Cnle", "type": "docx", "ticket": "7402810725796036612", "file_token": null}
+{"name": "AF交流伺服驱动器", "token": "shtcnByITGDht8H1HNITaV4lEfd", "type": "sheet", "ticket": "7402810769853612035", "file_token": null}
+{"name": "产品周报", "token": "S6I6dYKNXop4f7xPG24cM925nAe", "type": "docx", "ticket": "7402812318762926084", "file_token": null}
+{"name": "电感式编码器UT项目任务管理", "token": "V9WObGXhdaCsCwsyMgdcqk63nNd", "type": "bitable", "ticket": "7402812463924019204", "file_token": null}
+{"name": "IPD学习笔记", "token": "ZW05dY0tgo9GNMxo8V9c95KInFh", "type": "docx", "ticket": "7402812699048099843", "file_token": null}
+{"name": "FTS(SI)资料准备", "token": "QWMKdspxQoQEIdxUEFDcbrUqniY", "type": "docx", "ticket": "7402812707678896132", "file_token": null}
+{"name": "IPD workflow", "token": "G2NPdc69xozjSUxiZ2BcqQFpnBg", "type": "docx", "ticket": "7402812783291219971", "file_token": null}
+{"name": "Graph", "token": "FZlgdRMtXoxYcpxnejdcEMGBnGd", "type": "docx", "ticket": "7402812791939268612", "file_token": null}
+{"name": "Review BSC Kick-off", "token": "WS1MdFHsmo2yG5x5MdwcQYz6nNg", "type": "docx", "ticket": "7402812799921012740", "file_token": null}
+{"name": "FTS-MRD草稿", "token": "QTDpdKUtAoEWK3xBB8uc3o6Znld", "type": "docx", "ticket": "7402812841204006916", "file_token": null}
+{"name": "MBD课程学习纪要", "token": "AqEMdgYP8ormQbx5VVTcM77QnVb", "type": "docx", "ticket": "7402812884262371331", "file_token": null}
+{"name": "深圳线体归纳及处理建议", "token": "DNPLd2DbuoU0RcxAzv7csW19nxf", "type": "docx", "ticket": "7402812961629241348", "file_token": null}
+{"name": "参数需求", "token": "ANSod7IvboPU1zxLAdGcCvcRnwA", "type": "docx", "ticket": "7402813112737513475", "file_token": null}
+{"name": "2023年12月12日 编码器硬件方案评审会会议纪要", "token": "NAMHdvOr4odsdixgpeJcSnJGnAM", "type": "docx", "ticket": "7402813120387465219", "file_token": null}
+{"name": "柔性客户行业价值和需求分析", "token": "GlSpdmHRkoQTXvxP3gicsvt9nBg", "type": "docx", "ticket": "7402813269582381059", "file_token": null}
+{"name": "参数需求-已填写", "token": "TMCEduQ2Go4lxvxwo9wcL4o0n5e", "type": "docx", "ticket": "7402813277350936579", "file_token": null}
+{"name": "控制器软件框架和细节梳理", "token": "DEPKdyOTBozX0sxRKHRcrA79nhf", "type": "docx", "ticket": "7402813351921483780", "file_token": null}
+{"name": "建模任务预计人天", "token": "RhrWdAm6FoSMMqxL9jxcv7pRnpf", "type": "docx", "ticket": "7402813428129710083", "file_token": null}
+{"name": "FTS部署时间估算", "token": "QDpIdbfcGo7DrXxim0DcXNDhnRr", "type": "docx", "ticket": "7402813436407185412", "file_token": null}
+{"name": "三协-检测-磁悬浮输送系统规格需求调查及选型（2023.10.28）", "token": "RtOpsCfKEhprOstHDShcJXE8nyd", "type": "sheet", "ticket": "7402813444006707203", "file_token": null}
+{"name": "FTS对于控制算法和辨识的特有需求清单", "token": "I6I4dnDofosg8YxdbmpcCWXonEn", "type": "docx", "ticket": "7402813518330642435", "file_token": null}
+{"name": "集成方案-9-25版本对于柔性场景的不适应部分", "token": "I5ZHdGhyIow23Fx2HCAcRnqPnWf", "type": "docx", "ticket": "7402813656478089219", "file_token": null}
+{"name": "柔性流程梳理", "token": "G58zdEP9noKPjMxowbRcVC3jnOf", "type": "docx", "ticket": "7402813664038191108", "file_token": null}
+{"name": "柔性对小脑需求用例", "token": "H9qYddJT1omNGkxdmWycl90knKh", "type": "docx", "ticket": "7402813671962132484", "file_token": null}
+{"name": "柔性用例", "token": "ZvU9de3UXo0CBqxq4x6cRMIRnub", "type": "docx", "ticket": "7402813679420391428", "file_token": null}
+{"name": "柔性项目人员需求分析", "token": "GG89dSzpUoJtOCx0yQBc4Intn6c", "type": "docx", "ticket": "7402814203684782083", "file_token": null}
+{"name": "光电开关与demo性能的约束关系及现状", "token": "doxcnPwXo8plqPEpW5VksxUkTng", "type": "docx", "ticket": "7402814211581689860", "file_token": null}
+{"name": "调度系统应用层状态机", "token": "PbAAdPg5koSyNnxlJZzcFqAynCh", "type": "docx", "ticket": "7402814254636679171", "file_token": null}
+{"name": "弧形电角度", "token": "RgD1dhx4copXU0xdF0ycpH4hnUc", "type": "docx", "ticket": "7402814262614867972", "file_token": null}
+{"name": "柔性现有项目和待定项目排期表", "token": "OrGHdwHwMoAqsgxgPJ0c25qjnMb", "type": "docx", "ticket": "7402814271727681540", "file_token": null}
+{"name": "柔性业务和平台计划", "token": "EQM2dChZYogGqdxJCdXc3JTenVb", "type": "docx", "ticket": "7402814279664402436", "file_token": null}
+{"name": "回流线虚拟模型调试问题", "token": "YQwBdiDs2oQLR8xNrgdcwrzunce", "type": "docx", "ticket": "7402814324648951811", "file_token": null}
+{"name": "当前动子及线圈结构造成的问题", "token": "doxcnzh8oo4IxuB3DPZbI8B6Bsb", "type": "docx", "ticket": "7402823350556393476", "file_token": null}
+{"name": "控制器及虚拟模型开发", "token": "doxcn65R2EGY3k0LY3iSNa9srHe", "type": "docx", "ticket": "7402823358622711811", "file_token": null}
+{"name": "模型组工作计划", "token": "doccn5aI3wjKh0AT3VGK0IjztPg", "type": "doc", "ticket": "7402823447167975428", "file_token": null}
+{"name": "Sales/Customer end-to-end tracking", "token": "NlvmdV8iIoX4RWxnePEcEHvTnug", "type": "docx", "ticket": "7402823534848655363", "file_token": null}
+{"name": "PM VE for Internal Project Management", "token": "AFYndO5LNoy53pxBNkCc1i2ynDc", "type": "docx", "ticket": "7402823689312354308", "file_token": null}
+{"name": "Eve - Evolving Virtual Engineer - Updated 22/04", "token": "UYQtdRZQIoWpmXxJOeccIXBEnYb", "type": "docx", "ticket": "7402823733772075011", "file_token": null}
+{"name": "Eve Phase 1: EPICS & USERSTORIES", "token": "JJcwsVjPwhx03gtcuNfc9dg7nPe", "type": "sheet", "ticket": "7402823742156832772", "file_token": null}
+{"name": "EVE Financial Model (01_06_2024) ", "token": "MFmGsu4uZhF2QBtcoIFcEJLanOe", "type": "sheet", "ticket": "7402823985702633476", "file_token": null}
+{"name": "Board Doc", "token": "QqT5drUQpoYpvrxg5gcc86zenOg", "type": "docx", "ticket": "7402823993629491204", "file_token": null}
+{"name": "画板文档", "token": "LpxWd5VJNo1hs3xqavxcIgbHnRd", "type": "docx", "ticket": "7402824001843396611", "file_token": null}
+{"name": "Glean AI - Feature List VS Eve.AI", "token": "AM0AdOdYGoIwoFxInjTcpRdhn1f", "type": "docx", "ticket": "7402824010779623428", "file_token": null}
+{"name": "Core Database", "token": "TVr1bk9mxaOrMwsSkKOcKovgn8b", "type": "bitable", "ticket": "7402824020048461828", "file_token": null}
+{"name": "Design Innovation Evaluation + Agile DevOps Life Cycle  (Work-in-progress)", "token": "DTsxdjyyhoUQzYxvmmBcEp9ynMc", "type": "docx", "ticket": "7402824637195075588", "file_token": null}
+{"name": "Service System Architecture Planning Activity", "token": "Rqmodb0qSoU6UQxTxLxcqGkEnch", "type": "docx", "ticket": "7402824771398696963", "file_token": null}
+{"name": "User Interview: Application Engineer (Halim)", "token": "H2q7dYnATogZYExXwCicV7XOn9b", "type": "docx", "ticket": "7402824780406161411", "file_token": null}
+{"name": "FAE Copilot Affinity Analysis", "token": "D11bd5Nk9ojmmTx7vlQcfjQqnRb", "type": "docx", "ticket": "7402824827213611012", "file_token": null}
+{"name": "User Interview: Assistant Manager FAE (Jackson Loh)", "token": "WtIpdVqbUolB5Sx3SkCcv5sxnFg", "type": "docx", "ticket": "7402824976073670660", "file_token": null}
+{"name": "MotionG内部大模型平台（管理员版）", "token": "EaV9du5mTogVmsxfGF4cAjC1nsg", "type": "docx", "ticket": "7402825126437502980", "file_token": null}
+{"name": "Motion G大模型实验室介绍", "token": "RIxIdiYDfott3txgxnkc6c31nPe", "type": "docx", "ticket": "7402825133847920644", "file_token": null}
+{"name": "Motion G Integration Lark bot setup", "token": "J1CFdNX6soSaE7xaOGZcTmdmnjg", "type": "docx", "ticket": "7402825245272686595", "file_token": null}
+{"name": "Workflow Demo Script (H & M & Dummy VE)", "token": "FKuddX6dCoLZVYxUjIXclclNnAe", "type": "docx", "ticket": "7402827680896040964", "file_token": null}
+{"name": "workflow分层结构思路", "token": "INhpdScCVoYFoVxhlsXctVUwnAg", "type": "docx", "ticket": "7402827688072904707", "file_token": null}
+{"name": "语音转文字成本分析", "token": "XCvbdgDZKozqFPxzwmbcL8yLn6d", "type": "docx", "ticket": "7402827820844236804", "file_token": null}
+{"name": "学习记录和问题", "token": "ZJU4d4gcjoZe8MxXwE5cmuirn3g", "type": "docx", "ticket": "7402828000296894467", "file_token": null}
+{"name": "FOC", "token": "Iq4MdJaRtoNzMmxzuZGc4R0TnKb", "type": "docx"}
+{"name": "电机参数详解", "token": "VCjWdFEgMoS8c8xJMuZcKKt3nXg", "type": "docx"}
+{"name": "晶圆搬运SOP思维导图", "token": "PIsudSaQpo55n3xYlLKcFQOxnKe", "type": "docx", "ticket": "7402828023470620675", "file_token": null}
+{"name": "新松机械手测试报告", "token": "LYNHd7HgPoPvXlx3okFc2VP0nWf", "type": "docx", "ticket": "7402828120116428803", "file_token": null}
+{"name": "CAN通讯基本使用", "token": "Ad6ida8JNoNANCx5YXKcv1cAnPd", "type": "docx", "ticket": "7402828173736247300", "file_token": null}
+{"name": "临时固件记录", "token": "Ec5xb4N1HanCNNsU2jIc4nJLnQf", "type": "bitable", "ticket": "7402828184683790340", "file_token": null}
+{"name": "摩森运动DI控制电机正反转需求", "token": "ED0adqm7DoIsT6xZwOLcz5RXnTg", "type": "docx", "ticket": "7402828192086474756", "file_token": null}
+{"name": "思维导图", "token": "NgWjd1YKZoLzApx6yEKchaHSnIg", "type": "docx", "ticket": "7402828199534559235", "file_token": null}
+{"name": "说明", "token": "CGTbddxLvogWZHxvLsHcKqQfnyb", "type": "docx", "ticket": "7402828250407632900", "file_token": null}
+{"name": "郭阳子|Frank Guo的视频会议 2024年7月11日", "token": "Gugtdjcb5oNZWVxi5JNcsfmsn0d", "type": "docx", "ticket": "7402828522760617987", "file_token": null}
+{"name": "部件库表结构", "token": "IKGhdNKijon7dlxieN1cWzbQn2b", "type": "docx", "ticket": "7402828668466823171", "file_token": null}
+{"name": "说明", "token": "Uv0cdoYGGoAFd5xteg9ce9sBneh", "type": "docx", "ticket": "7402828775828291588", "file_token": null}
+{"name": "工程化过程V3版 Copy", "token": "CFees6kXPhq4zgtq3lxcD2dhn3f", "type": "sheet", "ticket": "7402828783171977219", "file_token": null}
+{"name": "说明", "token": "KEOtdTDLhoa3IYx3ZK3crJiGndg", "type": "docx", "ticket": "7402828857017958404", "file_token": null}
+{"name": "民间分类", "token": "Ie1vdh67OoZ5lAxTdoic4eSqnNe", "type": "docx", "ticket": "7402828897383006212", "file_token": null}
+{"name": "民间分类", "token": "AYMdd3zDEoOjuUxrnqdciUs9nme", "type": "docx", "ticket": "7402828904786018307", "file_token": null}
+{"name": "行动元 BJ-23061901 的报价", "token": "GdrQsvu7RhqR6VtUEfmci37Znpf", "type": "sheet", "ticket": "7402829010648285188", "file_token": null}
+{"name": "行动元 BJ-23061901 的报价", "token": "PD4Cs7VcxhLsartyUejccejRnWd", "type": "sheet", "ticket": "7402829018347585540", "file_token": null}
+{"name": "时间四象限工作法", "token": "A7Eadq5IjoT4w1xO7UEcsHKlnuc", "type": "docx", "ticket": "7402829057471414275", "file_token": null}
+{"name": "dc_servo_drivers_tab_202406031423", "token": "Gk6DsqbRTh7gtgtydG2ch3iZnob", "type": "sheet", "ticket": "7402829266590760964", "file_token": null}
+{"name": "2020级培养计划（普通班）", "token": "Ik1UdFZiuoOm2SxqfjzcLMCWnKc", "type": "docx", "ticket": "7402829531277164547", "file_token": null}
+{"name": "内容提报及进度管理（新增双向关联）", "token": "LTaZbzQJoa0XlBsblHWc8tyWn6F", "type": "bitable", "ticket": "7402829538702016515", "file_token": null}
+{"name": "项目问题跟踪管理", "token": "D8sObfP6rawRUGsQZTccvqasnSq", "type": "bitable", "ticket": "7402829546271260676", "file_token": null}
+{"name": "BSC任务成果汇报", "token": "AbV5day8CoYORcxC5pWcR6rMnSb", "type": "docx", "ticket": "7402829770114727940", "file_token": null}
+{"name": "001结构组工作任务", "token": "bascnySoN8a0T954PCqPMgDovgc", "type": "bitable", "ticket": "7402832712496857092", "file_token": null}
+{"name": "零星请购报销--郭阳子", "token": "ZTmUsjKNYhW27UtVMoccyunZnof", "type": "sheet", "ticket": "7402832789616001027", "file_token": null}
+{"name": "工具清单", "token": "SGdYdBINIoSWvmxowelc6ZKfnUh", "type": "docx", "ticket": "7402832797159899139", "file_token": null}
+{"name": "结构组扩编申请", "token": "D3d1dfsULoennXxkD24cCDwvn4c", "type": "docx", "ticket": "7402832832099057668", "file_token": null}
+{"name": "结构组-周计划与总结", "token": "shtcn4ZiT9HWUHOQZ3mPCfOcKSe", "type": "sheet", "ticket": "7402832903921090563", "file_token": null}
+{"name": "参考文件", "token": "Qer9d3klZoSAeyxg9tTcOew4nkf", "type": "docx", "ticket": "7402839441854971907", "file_token": null}
+{"name": "生产资料归档规范 副本", "token": "IfgAdc7oNoS5QnxbPa9cvruQnyQ", "type": "docx", "ticket": "7402839452045246468", "file_token": null}
+{"name": "TeamCenter安装和配置", "token": "McV1dJcW4o8KOSxai8OcX361nie", "type": "docx", "ticket": "7402839521416577028", "file_token": null}
+{"name": "硬件工程化过程--结构", "token": "KlbddRPmyorsXqxOzmrcaTxin3e", "type": "docx", "ticket": "7402839562697179139", "file_token": null}
+{"name": "BJZY结构方案1008", "token": "VwPVdzeleoFCerxKpYWcEzPUnsb", "type": "docx", "ticket": "7402839931229356035", "file_token": null}
+{"name": "BJZY结构方案 0921", "token": "QIQUddUp6oSCh4xYT2wceFTqn5c", "type": "docx", "ticket": "7402839938939224068", "file_token": null}
+{"name": "结构件BOM汇总及版本管理", "token": "WLXnbVjYsa9QHis7cTFcJU6Wnbf", "type": "bitable", "ticket": "7402839946966908931", "file_token": null}
+{"name": "（已停用）结构件BOM汇总 ", "token": "bascnBM0gQju7uLRzLIbSid6hVb", "type": "bitable", "ticket": "7402839954415943684", "file_token": null}
+{"name": "项目BOM版本追踪", "token": "SvYBbN6KWaSMOmsmgvpcTHU4nIb", "type": "bitable", "ticket": "7402839962103971843", "file_token": null}
+{"name": "结构件汇总（旧）", "token": "shtcnzaCkn3rzrMdWd2VXpaaEMf", "type": "sheet", "ticket": "7402840003082518532", "file_token": null}
+{"name": "结构件BOM汇总 （含供应链库存管理） 副本", "token": "bascnUyVaMXLhzNZkHB1cPrAbqd", "type": "bitable", "ticket": "7402840053552168963", "file_token": null}
+{"name": "结构件BOM汇总 Demo", "token": "bascnKg2kX3KjP0p6FSHvegENth", "type": "bitable", "ticket": "7402840061622763524", "file_token": null}
+{"name": "FlexR极限形变与应力计算", "token": "doxcn4T5nGl3Yo9fT00G5p8J9j8", "type": "docx", "ticket": "7402840442504691716", "file_token": null}
+{"name": "DN 结构方案 成本汇总", "token": "shtcnNvgDp0pGCbwKdoKsv4I1Rb", "type": "sheet", "ticket": "7402840451608461315", "file_token": null}
+{"name": "2022年12月1日 DN1新版结构方案评审会议纪要", "token": "KXQJdkJtdoLlUQxwLxjcfaN1n8e", "type": "docx", "ticket": "7402840580079927299", "file_token": null}
+{"name": "白银螺丝位置应力分析", "token": "VlVKdrgZAowAM3xyMDZcmoM1n0d", "type": "docx", "ticket": "7402840624422043652", "file_token": null}
+{"name": "白银DN结构设计审查表checklist", "token": "shtcndf6dAYifscpapGus4vRc1d", "type": "sheet", "ticket": "7402840632996102148", "file_token": null}
+{"name": "智能叠加方案 SKU标记--目标与计划", "token": "doccnP6nLAAa8hSyXtnzeXZBgqb", "type": "doc", "ticket": "7402842522969620483", "file_token": null}
+{"name": "硬件SKU库", "token": "shtcne1bc5L1qoFreDVgjmuXQLb", "type": "sheet", "ticket": "7402842961519394844", "file_token": null}
+{"name": "（模板）项目丝印与线缆三方确认文档", "token": "CKjudsFeNoNF3QxInnbcFEeCnXb", "type": "docx", "ticket": "7402843421821403137", "file_token": null}
+{"name": "Flex-R改接口板定义DS1", "token": "H0godughJoJANqxevqncsROUn2f", "type": "docx", "ticket": "7402847774893686787", "file_token": null}
+{"name": "卓誉项目-第一轮-安规测试报告", "token": "NKspdrWhQoKasexAWh8c2l33ngd", "type": "docx", "ticket": "7402847963518844931", "file_token": null}
+{"name": "李群产品规格", "token": "ZYa1dMfg5orEoMxfO0IcbnRsngf", "type": "docx", "ticket": "7402848041240494083", "file_token": null}
+{"name": "卓誉接口定义", "token": "Frt2dlTTRoeZ5cxExMlcmKGVnmb", "type": "docx", "ticket": "7402848067810361347", "file_token": null}
+{"name": "路远-基于CXJG", "token": "WvstdALwVo0KgcxEYPOcRFjunrB", "type": "docx", "ticket": "7402848093584261124", "file_token": null}
+{"name": "卓誉项目-安规测试方案", "token": "ThnidMm0loQjFIxK4SBccmfpnFD", "type": "docx", "ticket": "7402848446065295388", "file_token": null}
+{"name": "卓誉环形硬件概要设计初版（内部）", "token": "DW3Ed6LvZogGEpxVML6covWHnvf", "type": "docx", "ticket": "7402848673270431772", "file_token": null}
+{"name": "单板环形产品概要设计初版", "token": "COcVd0OFboHiROxw6ElcEC8Vn0e", "type": "docx", "ticket": "7402848861263314948", "file_token": null}
+{"name": "环形硬件概要设计初版 模板", "token": "LouLddRsronhzPxLqpScYiOZnef", "type": "docx", "ticket": "7402848886630514692", "file_token": null}
+{"name": "赛普肯IO功能竞品分析", "token": "S07kdFpjxoTMmQx7wRqc7Fpcn2f", "type": "docx", "ticket": "7402848968306409476", "file_token": null}
+{"name": "卓誉环形技术规格、构方案沟通会议纪要", "token": "HZJjduGtQoVim8xzeNicoCWAnDP", "type": "docx", "ticket": "7402849325636501506", "file_token": null}
+{"name": "卓誉连接器选型", "token": "TAMbdGchUocPyZxJ5RWcmRBhnid", "type": "docx", "ticket": "7402849399547805724", "file_token": null}
+{"name": "卓誉环形概念方案", "token": "D8rvdHUAMojO3Jx50T9cufaRnKg", "type": "docx", "ticket": "7402849638996246532", "file_token": null}
+{"name": "硬件开发效率提升", "token": "SGRJdgHtAoixtYxneXAcMHiHnyd", "type": "docx", "ticket": "7402850216438923292", "file_token": null}
+{"name": "环形抱闸干扰问题影响因素测试", "token": "VZLtdtXq6oDh7GxsbREcSOZCnXe", "type": "docx", "ticket": "7402850685185736705", "file_token": null}
+{"name": "抱闸", "token": "ZwkkdGkOsoOecTx0P0YcBFzwnvA", "type": "docx", "ticket": "7402850946457845764", "file_token": null}
+{"name": "抱闸定义更新", "token": "Uyskdaq55o9WltxDE2GcA6bhntf", "type": "docx", "ticket": "7402851762371133443", "file_token": null}
+{"name": "欢迎~来到Ocyss的模板库", "token": "OhzvdI5U2ofsy5xP2Dyc8RmwnQd", "type": "docx", "ticket": "7402852614059261956", "file_token": null}
+{"name": "2023年2月16日 质量会议-售后问题会议纪要", "token": "B8GpdnwvsovqcAxm4JpcSf8Jncf", "type": "docx", "ticket": "7402856916229242884", "file_token": null}
+{"name": "MES系统搭建系统说明", "token": "doxcnj3DVLGdwfXaxeMyU6eqLCh", "type": "docx", "ticket": "7402860193543307292", "file_token": null}
+{"name": "深圳工业展\\电子展-观展学习", "token": "doxcnCYsFWfokfYFOXvUtpw9DAh", "type": "docx", "ticket": "7402860573832167426", "file_token": null}
+{"name": "安雅思-8D报告", "token": "doxcnZS2m5vye7IXA99vD2082Me", "type": "docx", "ticket": "7402860999596507138", "file_token": null}
+{"name": "交付现状描述", "token": "doccnIDwpNw2S8n54KRRkNWliHg", "type": "doc", "ticket": "7402861653257109532", "file_token": null}

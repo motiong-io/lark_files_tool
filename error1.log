@@ -681,3 +681,359 @@
 2024-08-10 19:56:48,981 ERROR Failed to download item: 知识内容需优化整理 (sheet), token: Zs2SsbUpQhGWjMtLOM8czr5Un4b
 2024-08-10 21:43:35,488 WARNING Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002844A713530>, 'Connection to storage.minio.middleware.dev.motiong.net timed out. (connect timeout=300)')': /raw-knowledge?location=
 2024-08-11 14:18:32,967 ERROR Failed to download item: PrcSbrAD0oNfgHxTDhPcioqtnpb.png (file), token: Eon2bznACoBOKjxlMvDc7Nllnbg
+2024-08-13 03:57:20,074 WARNING Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)': /raw-knowledge?location=
+2024-08-13 10:57:49,985 WARNING Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)': /raw-knowledge/MotionG/CloudDriveFiles/IKk9bdUbroHQHZxqTaxcuhSWnZb_IeSJbDO6ToDh3qxaUcCc5Ethnod.png
+2024-08-13 10:58:14,693 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:2406)')': /raw-knowledge/MotionG/CloudDriveFiles/IKk9bdUbroHQHZxqTaxcuhSWnZb_IeSJbDO6ToDh3qxaUcCc5Ethnod.png
+2024-08-13 17:01:37,173 ERROR Failed to download item: 首批潜在客户沟通_231201 (docx), token: ZQlhdRX37oebOXxKWdXcLMPAnzf
+2024-08-13 17:03:23,800 ERROR Failed to download item: 销售效率提升 (docx), token: CUyTd5hw2onMOBx1Xh3ccZ91n6o
+2024-08-13 17:03:44,635 ERROR Failed to download item: 数据分析思维导图 (docx), token: QRuDdCU0UoY9jHx30cZcXsCun1d
+2024-08-13 17:23:19,592 ERROR Failed to download item: 上海赢朔电子科技股份有限公司永合瑞-终端-赢朔力控项目评估 (bitable), token: MIulbWzIQaucUssXZL6c9v8infh
+2024-08-13 17:26:33,277 ERROR Failed to download item: 苏州格尔博自动化技术有限公司格尔博电机测试项目 (bitable), token: ZRz5bo4WuaO5SestaymcQak4nme
+2024-08-13 17:35:02,299 ERROR Failed to download item: 测试方案 (docx), token: Ftc4dhqwBoOmt8xZSEgcy24snCd
+2024-08-13 17:41:25,839 ERROR Failed to download item: 开发工作时间分配比例 (docx), token: E3mgdPN04oaWMAxjfXdc8YEinbf
+2024-08-13 17:41:45,113 ERROR Failed to download item: 柔性状态信息保存 (docx), token: AwLHdGKFNorK50xZp0Ycv3FQnBf
+2024-08-13 17:47:24,364 ERROR Failed to download item: 多维表格-表单视图-API (docx), token: doxcnMqKghP9TGKCnSb9yJJ4Fxd
+2024-08-13 17:55:57,347 ERROR Failed to download item: FAE数据统计工具开发计划安排 (docx), token: Cgc6dRVaKoxRHOxnZTbcsAusndM
+2024-08-13 17:57:24,143 ERROR Failed to download item: nan (bitable), token: bascnxTZ1BJ9UG8aJvbs4KbXtwd
+2024-08-13 18:10:06,906 ERROR Failed to download item: 开发工作时间分配比例 (docx), token: Rwf8dFA28oG5M5xXtycc9dSfnze
+2024-08-13 18:11:09,763 ERROR Failed to download item: Flex_CANopen or Modbus接口信息整理 (docx), token: doxcnfUeCpxTbhdqki2QEc2fpdi
+2024-08-13 18:11:11,516 ERROR Failed to download item: Flex_Pulse脉冲型接口信息整理 (docx), token: doxcnZ15cwjM9m0YCGYYmQ5Axif
+2024-08-13 18:11:13,273 ERROR Failed to download item: 接驳车和弧形柔性线同步虚拟模型端数据对比图 (docx), token: doxcnKGgDtlG0zIoHVe97qPqztb
+2024-08-13 18:11:15,454 ERROR Failed to download item: 柔性上位机目前遇到的问题。 (docx), token: doxcnLGICwD5fMAzWKvppapjPNh
+2024-08-13 18:11:17,183 ERROR Failed to download item: Unity使用模型制作规范流程 (docx), token: doxcnSx3Lngug5N0HHtD8WH8yUd
+2024-08-13 18:11:18,922 ERROR Failed to download item: 柔性上位机——模型开发部分项目规划 (doc), token: doccnA0U01DPRAzMQdpByHgoYFc
+2024-08-13 18:11:20,623 ERROR Failed to download item: 柔性线软件结构图对比 (docx), token: doxcnEvCagGNdsx634LG43ct25d
+2024-08-13 18:11:22,415 ERROR Failed to download item: Unity端与JS前端、虚拟模型端数据结构比对 (docx), token: doxcnkbBDrFRG8qdm2EFyqNs6db
+2024-08-13 18:11:32,563 ERROR Failed to download item: 柔性线项目_Unity3D开发文档 (doc), token: doccnqyHAi2xYbAs2GlY7kwniR0
+2024-08-13 18:11:34,316 ERROR Failed to download item: 数据统计工具版本管理 (bitable), token: bascnFMyg32YbY5iOEqru0IP2Qg
+2024-08-13 18:11:48,311 ERROR Failed to download item: 工作总结 (docx), token: CE5yd44mYo9myTxf1K8cqvRinHh
+2024-08-13 18:12:06,601 ERROR Failed to download item: 产研日报 (bitable), token: bascn6Lb1C0v3GU09UsM7PArDx6
+2024-08-13 18:12:08,383 ERROR Failed to download item: 使用python操作Windows注册表 (docx), token: HyyGdp9Mzo3IxvxIxnwcB94FnM0
+2024-08-13 18:12:10,381 ERROR Failed to download item: 柔性线（上位机与下位机单驱动保护参数-设备保护-正常设置）测试用例 (docx), token: E3yOdXojZoVNK1xgdo7cGrSAnjd
+2024-08-13 18:12:12,047 ERROR Failed to download item: 柔性线（上位机与下位机单驱动保护参数-设备保护-正常设置）测试用例 (docx), token: OhyudLBEPoTnB6xQ3CfcQzf3n4j
+2024-08-13 18:12:13,827 ERROR Failed to download item: 柔性线（上位机与下位机单驱动电机参数-正常设置）测试用例 (docx), token: Db3ZdoQGWoXvUOxSjT2cBLJJn1d
+2024-08-13 18:12:15,528 ERROR Failed to download item: 柔性线（上位机与下位机USB通讯）测试用例 (docx), token: G2Xod3dbSop4t4xGkLQc8fw1noe
+2024-08-13 18:12:25,907 ERROR Failed to download item:  电感式编码器资料记录 (docx), token: SLQzdu3pTo1QX0xkTSlcrk2nnCg
+2024-08-13 18:12:27,688 ERROR Failed to download item: DServo支持BiSS-C相关改动 (docx), token: doxcnhMmAqNgeXoXp1F6vCgY1vb
+2024-08-13 18:12:29,522 ERROR Failed to download item: 柔性驱动器开发计划表 (doc), token: doccnx6znwMXOLQ6tugxwW73vMC
+2024-08-13 18:12:39,112 ERROR Failed to download item: 路远RC4测试（canopen） (docx), token: SyJVdW23WoxGuux1ZwCcbjXOnmh
+2024-08-13 18:12:40,902 ERROR Failed to download item: 资料 (docx), token: GQdSdhFsFozKo9xiVA2cKlVinXH
+2024-08-13 18:12:42,693 ERROR Failed to download item: 成都X项目（CANOpen）组网联调测试报告 (docx), token: K846dfn8roKT4gxUJZucBtVsn1f
+2024-08-13 18:12:44,601 ERROR Failed to download item: 伺服通用功能知识收纳 (docx), token: CWOydnzilouSPxxnSIKcWtp2n9e
+2024-08-13 18:12:53,998 ERROR Failed to download item: 迈为伺服测试（软件部分）报告 (docx), token: L1FjddhpgoDbx3x0Vf6ckryNn6b
+2024-08-13 18:12:55,818 ERROR Failed to download item: 路远复现报文--等100ms-2 (sheet), token: JMKcsHG1tho82rt86RyciVbtn9f
+2024-08-13 18:12:57,756 ERROR Failed to download item: 路远-多轴集成贴片机驱动器PRD-规格书-20240123(1) (docx), token: BUlndHPMEotdBDxrl53ceQGWnvd
+2024-08-13 18:12:59,426 ERROR Failed to download item: MotorHost（3.0.4.5 Alph5和beta2）多轴调试版本测试问题汇总 (docx), token: XIYqdfGtIogwTnxsGLqcNfCKnre
+2024-08-13 18:13:01,154 ERROR Failed to download item: 倍福TwinCAT3 Modbus-TCP安装及使用教程 (docx), token: NlrldN06io6mgIxVGzLcRk8ln1b
+2024-08-13 18:13:03,128 ERROR Failed to download item: 伺服通用功能卡片知识工程化过程 (docx), token: MYxCdgGowofu5MxrAyVckZbjnSc
+2024-08-13 18:13:12,403 ERROR Failed to download item: hm-6098=1_1 (docx), token: XnjXdwHAgobSCex8v8iccB9snYd
+2024-08-13 18:13:14,164 ERROR Failed to download item: 丝杠台图 (docx), token: EX3IdUNk9ojzAExw3qCcGnbGnqf
+2024-08-13 18:13:15,854 ERROR Failed to download item: 虚拟主站测试报告（202312123） (docx), token: QvUtdZKdko30PvxuRBKctAbjnwf
+2024-08-13 18:13:17,967 ERROR Failed to download item: 实物自动测试问题 (docx), token: TRXqd9eOHophI3xhR62cKlJznZb
+2024-08-13 18:13:19,854 ERROR Failed to download item: 柔性线集成用例测试 (bitable), token: NpZ9bVQLOaROXhsSJZ3cma8FnTd
+2024-08-13 18:13:30,022 ERROR Failed to download item: 柔性上位机mft2.1.15测试问题汇总 (docx), token: A06CdzT9NoULG9x1ZO8ciPxincf
+2024-08-13 18:13:38,791 ERROR Failed to download item: DG3性能测试（不同环境）报告 (docx), token: EfhcdCKyNoqjnfxarnecaEPTnfe
+2024-08-13 18:13:40,482 ERROR Failed to download item: DG3性能测试（A00版硬件） (docx), token: XqordmOVOo31tXxIU0ocCLxGnch
+2024-08-13 18:14:13,614 ERROR Failed to download item: 环形-赛普肯伺服驱动器在远大机械臂上性能对比(内部) (docx), token: Dqq0dofjwo1hwHx7wbDcUPTjnlf
+2024-08-13 18:14:15,437 ERROR Failed to download item: 自动化实物测试软件工程化 (bitable), token: CPFIbdmxsarthhslDfic1O4Lnun
+2024-08-13 18:14:53,652 ERROR Failed to download item: 伺服驱动器用例测试方法和步骤 (docx), token: MClIdwoPgo8gSbxVdKFcVwmwnLe
+2024-08-13 18:15:07,220 ERROR Failed to download item: 柔性线（测试）工程化过程 (docx), token: F6oCdnW6zobPeSxjwJVcaG70nhd
+2024-08-13 18:15:48,029 ERROR Failed to download item: 柔性线测试规划 (docx), token: SMoRdlGcQoIIPnxaW3zcyWmBnte
+2024-08-13 18:15:49,724 ERROR Failed to download item: 治具工装（Flex/Flex-R）测试报告 (docx), token: PL1ndduFJoKM6mxcydPcnVdSnOL
+2024-08-13 18:15:51,509 ERROR Failed to download item: DN1（白银） 性能测试 (docx), token: SnJ9dJQXAocL5lxolnXcOVn9nHb
+2024-08-13 18:15:53,269 ERROR Failed to download item: 标配电机（泰格）测试 (docx), token: Dymdd2ao2ow02Fx6WI0cIjlqnqg
+2024-08-13 18:15:55,121 ERROR Failed to download item: Flex国产化性能对比测试 (docx), token: CUdldfxxJoyip0xpHptcPtSHn8f
+2024-08-13 18:15:56,821 ERROR Failed to download item: Flex-R-P老化前后性能对比测试  (docx), token: XbePdt0XHoCITixlpSMcG9QenBW
+2024-08-13 18:15:58,836 ERROR Failed to download item: 东锅老化前后性能对比测试 (docx), token: UohSdAz0lo1DzDxU867cpTdGnvg
+2024-08-13 18:16:00,558 ERROR Failed to download item: 东锅整机治具测试报告 (docx), token: EJIbdQoH3oH5dGxHwJ8c9BJDn4d
+2024-08-13 18:16:02,371 ERROR Failed to download item: Flex-R高性能版本性能测试 (docx), token: WUQydoRIgoYsboxewoIc42RonLb
+2024-08-13 18:16:04,084 ERROR Failed to download item: 治具工装（整机）讨论 (docx), token: RKSzdRAEvo3JjXxMEWWcnhoPn0g
+2024-08-13 18:16:05,856 ERROR Failed to download item: 产研日报 (bitable), token: bascnjLloNt5iE9opnFKi3vsuug
+2024-08-13 18:16:07,614 ERROR Failed to download item: 软件包提测报告模板 (docx), token: NQqadDgT9oeONtxa3Xkcw898nrg
+2024-08-13 18:16:09,579 ERROR Failed to download item: Alpha3生产工具测试 (docx), token: X7uWdeNDMoFiAtx6vPDcvJfdnHf
+2024-08-13 18:16:11,304 ERROR Failed to download item: 生产辅助工具提测报告模板 (docx), token: UcURdnPr2ov0XvxMCmycYEE6njq
+2024-08-13 18:16:13,089 ERROR Failed to download item: Flex-R硬件变动性能测试对比 (doc), token: doccn1Wt4BDYwuEzrsOOLegtNWe
+2024-08-13 18:16:14,803 ERROR Failed to download item: 艾尔特6.1.13Rev2&3测试报告 (docx), token: LHXMdIFnpoNSJqxJzJwcFuMpnQc
+2024-08-13 18:16:16,496 ERROR Failed to download item: 软件包提测报告模板 -审批版 (docx), token: QaHXdhcFqooTI9xuU9XcEWWFnNd
+2024-08-13 18:16:18,295 ERROR Failed to download item: Flex-R硬件变动性能测试对比 -审批版 (doc), token: doccnWLklt7cKcstkmQO95OgrCh
+2024-08-13 18:16:19,947 ERROR Failed to download item: 生产辅助工具提测报告模板 -审批版 (docx), token: NFkpdIGHMoY15QxHLXPcwMNenRf
+2024-08-13 18:16:21,666 ERROR Failed to download item: 软件包提测报告模板 (docx), token: SUYldbEamowJNYxyVksc5HKan7d
+2024-08-13 18:16:23,362 ERROR Failed to download item: 软件包提测报告模板 (docx), token: Rz14dd9SRoSWSBx6RQDcy0pgnvh
+2024-08-13 18:16:25,169 ERROR Failed to download item: 环形-赛普肯伺服驱动器在机械臂上性能对比( 20230403） (docx), token: P8iDdSgc4oYWT5x80mYc2OlRnqf
+2024-08-13 18:16:26,856 ERROR Failed to download item: 性能测试步骤规范指导 (docx), token: Ph1HdhZe1oJjG3xcDAsctuXbnae
+2024-08-13 18:16:28,514 ERROR Failed to download item: 伺服性能测试项目及其自动化方案实现 (docx), token: TjwXdcJEkoavoIxz8BIcaApYnUc
+2024-08-13 18:16:32,269 ERROR Failed to download item: 客户支持问题需求分类汇总 (bitable), token: CB1FbYzgaayYcjseQTvcUGjtnWc
+2024-08-13 18:16:41,591 ERROR Failed to download item: 深圳伺峰科技有限公司（盛泰奇） (docx), token: TPSBdomVvoQZORxrm1YcMJuFnPc
+2024-08-13 18:16:50,977 ERROR Failed to download item: PWM占空比调速功能开发-202407280003 (docx), token: NPt5dS1xpo2PuxxIO9Dct0kanvh
+2024-08-13 18:16:52,668 ERROR Failed to download item: 上海派启 + 恒科鑫 (docx), token: MuGEdM4iKoapvKx5aascAaHDnph
+2024-08-13 18:16:54,356 ERROR Failed to download item: 路远智能-研发技术支持 (docx), token: E7oGdH6yOobwA5xMGXvc16M4njf
+2024-08-13 18:16:56,084 ERROR Failed to download item: 中科芯微——服务记录汇总 (docx), token: QM4udi12foMnD0xXgyTcmrjUnSb
+2024-08-13 18:16:57,771 ERROR Failed to download item: 云驰时代 (docx), token: JV8YdxNHuoPYhbx1hDicX12lnZe
+2024-08-13 18:16:59,472 ERROR Failed to download item: 北京高控 (docx), token: Dk2bdAVsvoRpKzxksoFcH59fnnh
+2024-08-13 18:17:19,677 ERROR Failed to download item: 南京牧镭DG3-研发技术支持 (docx), token: Nx1ldDfhgoqWTNxHz09cXpELnMh
+2024-08-13 18:17:37,819 ERROR Failed to download item: 江苏无线电 (docx), token: MkoEdBHJyoxJMmxZu2Fcy9nonMe
+2024-08-13 18:17:39,496 ERROR Failed to download item: 伯朗特研发技术支持记录 (docx), token: VO6adZEDookM4Tx0MAwc1KFhn9O
+2024-08-13 18:17:50,040 ERROR Failed to download item: 深圳微创 (docx), token: GKDHdHIZuo3GooxjxjpcQKJcndh
+2024-08-13 18:17:51,821 ERROR Failed to download item: 华科星-相对位置模式跑飞 (docx), token: QrvMdCRBkoNfdCxwq3qcgSQOnYs
+2024-08-13 18:17:53,518 ERROR Failed to download item: 翱翔 (docx), token: PM1XdIvJcoNf7cxTr1Jcoj5vn8d
+2024-08-13 18:17:55,327 ERROR Failed to download item: 辽宁辉亚终端富创精密研发技术支持记录 (docx), token: DkENdYpiroCctZxeNqEcGzqdnTB
+2024-08-13 18:17:57,047 ERROR Failed to download item: 中科长光精拓 (docx), token: HPVqdecOLoG92ZxkkvjckllonQh
+2024-08-13 18:18:07,082 ERROR Failed to download item: 世脉 (docx), token: MqqgdFtoxoW1JVxWnlHcfPIpnDd
+2024-08-13 18:18:08,741 ERROR Failed to download item: 正远客户-研发支持记录 (docx), token: QjRodAzvPocQ82xx5P0cjdimnbc
+2024-08-13 18:18:10,527 ERROR Failed to download item: 微组 (docx), token: X2Hbd58zTox3DVxlRbxcqFGundh
+2024-08-13 18:18:12,343 ERROR Failed to download item: 昊志环形CSP使能异常问题 (docx), token: MrqmdgsqdoF5fhxTxyqcYZ63nrf
+2024-08-13 18:18:14,061 ERROR Failed to download item: 横川机器人（深圳）有限公司 (docx), token: U0UjdM99soyomIxTF0jcHoDwnmb
+2024-08-13 18:18:15,756 ERROR Failed to download item: 晶铸-森龙客户和原能生物客户研发技术支持记录 (docx), token: WHl7dkzFSotBXgxC0QycfVGynAD
+2024-08-13 18:18:17,480 ERROR Failed to download item: 伯朗特机器人——服务记录汇总 (docx), token: MRj4d7SXnoEqhexnVNpcp4BSnhb
+2024-08-13 18:18:19,359 ERROR Failed to download item: 新松半导体晶圆搬运项目研发支持记录 (docx), token: IgzCdaj6GojAC4x1l1TcDGcyn5b
+2024-08-13 18:18:21,082 ERROR Failed to download item: 精卓信-心跳功能定制_限位异常-202310130013 (docx), token: VvL2dx4IToxxOOxQcVkc3fnLnGe
+2024-08-13 18:18:47,131 ERROR Failed to download item: 精卓信IO触发急停定制功能-202308030007 (docx), token: Nns6diLb0o19m9xpNKRcJuujnie
+2024-08-13 18:18:49,118 ERROR Failed to download item: 江苏华章物流AGV故障停车解决方案-202308040016 (docx), token: AiGFd9IJ0ot7r5xEwbccbhDlnjc
+2024-08-13 18:18:50,915 ERROR Failed to download item: 长园CSP模式限位开关问题 (docx), token: GeewdKejMocxgWxrs9ccW8GOnOb
+2024-08-13 18:19:00,197 ERROR Failed to download item: 布法罗机器人-can+csp模式支持 (docx), token: WntBdvgc8oZDIxxAvGQc36UAnZc
+2024-08-13 18:19:01,951 ERROR Failed to download item: 全程使能中，CSP模式切换到回零完成后切回CSP模式，位置规划值、位置误差发生异常跳变 (docx), token: YcaNdl3ZUoJipvxuMz3ctZvPnjf
+2024-08-13 18:19:03,705 ERROR Failed to download item: 国科天成研发技术支持记录 (docx), token: Q2kId0YucogIH7xQGSZcJoqhnAf
+2024-08-13 18:19:36,412 ERROR Failed to download item: 客户支持问题需求分类汇总多维表格 (bitable), token: KEDCbpIGMaVvWNsmY6lcP8PYnWg
+2024-08-13 18:19:38,106 ERROR Failed to download item: 客户支持问题需求分类汇总多维表格数据源表 (sheet), token: POY5suTMuhpTlXtEizXcAmtBn4g
+2024-08-13 18:19:39,909 ERROR Failed to download item: 客户支持问题需求分类汇总表（不更新） (sheet), token: ZrM2sszT5h4ICPt8AmtcE43Insh
+2024-08-13 18:19:41,570 ERROR Failed to download item: 小问题技术支持-郭其锐 (docx), token: WChEdEx81ojkluxrg8ucZTOFnOf
+2024-08-13 18:19:43,291 ERROR Failed to download item: 小问题技术支持-董继波 (docx), token: Do71d1Fpao8UTexoTmFc61P2nle
+2024-08-13 18:20:16,219 ERROR Failed to download item: 死区补偿测试-线性补偿算法 (docx), token: RzzSdO0mRou5jUxf7rtcJAU8n0j
+2024-08-13 18:20:48,483 ERROR Failed to download item: 双旋变开发记录 (docx), token: DuFSdjHB9onGW7xFhw0codf3nXb
+2024-08-13 18:21:05,107 ERROR Failed to download item: DG3代码审核意见 (docx), token: Qivdd20ksodNiRxrQ67cbRUcnff
+2024-08-13 18:21:15,394 ERROR Failed to download item: 国产化亚特力ATF435片上Flash问题 (docx), token: KeOIdlLURowclxxEJMZcmWthnfh
+2024-08-13 18:21:17,213 ERROR Failed to download item: flex雅特力死区时间测试 (docx), token: S3WEd7bqZoCHdlxVJ0wcZJBgnmg
+2024-08-13 18:21:19,036 ERROR Failed to download item: 伺服驱动层抽象优化方案 (docx), token: E7ArdeZH8oEU2AxMmKic3MM0n4g
+2024-08-13 18:21:20,711 ERROR Failed to download item: 嵌入式平台规划 (docx), token: GrAYdmu9jo2GO3xzonRcXITGnOf
+2024-08-13 18:21:37,683 ERROR Failed to download item: 星耀DP1-E系列软件开发方案 (docx), token: Km1cdvPFrodMWmx5RKycWUrcnGe
+2024-08-13 18:21:39,478 ERROR Failed to download item: Flex-V1电流电压采样精度优化开发 (docx), token: NvXLddu2RoNq43x7hMjcmIm2npg
+2024-08-13 18:21:41,176 ERROR Failed to download item: 瑞萨方案驱动器预研记录 (sheet), token: shtcnjfwMNT1BhT2lh9Dm3Lahpd
+2024-08-13 18:22:05,319 ERROR Failed to download item: BSP单元测试-debug版 (docx), token: IYSQdiIfYoTHhuxZJM4c0qUOnfg
+2024-08-13 18:22:07,060 ERROR Failed to download item: 行动元驱动器BSP移植教程 (docx), token: JhVQdExquodowKx8hrOcYLOrn0c
+2024-08-13 18:22:08,920 ERROR Failed to download item: BSP移植评估报告模板 (docx), token: Od0vdIgBNow3k3xKsYjc3Rqsn0f
+2024-08-13 18:22:18,480 ERROR Failed to download item: BSP单元测试-BSP上位机版 (docx), token: LVT9dFfoSobFruxIUApcHEuDnUg
+2024-08-13 18:22:20,158 ERROR Failed to download item: BSP移植评估报告-Flex-v1 (docx), token: Cyg3d9IifoNwX4xxWfRcTgFun3g
+2024-08-13 18:22:22,046 ERROR Failed to download item: BSP移植评估报告-DG3 (docx), token: NMdddzhdZoxmeAxa3bxcjqVwn6g
+2024-08-13 18:22:24,254 ERROR Failed to download item: 预研过程遇到的问题简述 (docx), token: Si2tdBZfZoiTgfxeN84cetGHn8d
+2024-08-13 18:22:40,613 ERROR Failed to download item: 中科芯微 End-to-end Report (Reviewed with Xiaoming & Lisa) Copy 副本 (docx), token: THvLdr8XhoL6l8xULoucjnK4nVe
+2024-08-13 18:23:28,449 ERROR Failed to download item: 产品周报 (docx), token: TV9GdxPIuoiRH4xf2smcwUOZn2g
+2024-08-13 18:23:30,210 ERROR Failed to download item: 产品目标 (docx), token: RkVZdfKCkoamFOxO9iJcduGYnye
+2024-08-13 18:23:39,734 ERROR Failed to download item: 零星物料事前审批 (bitable), token: bascnQqQ1gYR7OEE75Prrmuv7Zb
+2024-08-13 18:24:04,422 ERROR Failed to download item: AF1项目-第一轮-整机EMC测试报告 模板 (docx), token: JxyVdV9wwoIgfdxnJuPc58synyd
+2024-08-13 18:24:06,185 ERROR Failed to download item: XXX项目-第XXX轮-整机XXX测试报告 (docx), token: UNfZdxrAiotqlBxqPk0cIs10nDb
+2024-08-13 18:25:24,188 ERROR Failed to download item: 补卡 (bitable), token: AKxAbihQta8OnWsIDljc6vZQnMh
+2024-08-13 18:25:25,902 ERROR Failed to download item: DM项目-四轴-环境测试报告 (docx), token: UeWEdoZjYoSwBYxUEv1cI1SRnmg
+2024-08-13 18:26:02,636 ERROR Failed to download item: 京东AGV项目第一轮SI测试报告 (docx), token: Va3pdtngDo8cOCxDK9acgt2InKi
+2024-08-13 18:26:11,801 ERROR Failed to download item: nan (docx), token: KHTId2zSUoqibTxGRbCcUKBsnJh
+2024-08-13 18:26:13,541 ERROR Failed to download item: 问题跟踪记录表 副本 (bitable), token: XhbPbYqjxa4N9zs9k3hcwpmundg
+2024-08-13 18:26:15,301 ERROR Failed to download item: 问题跟踪记录表 副本 (bitable), token: Lt5hb3vEgaglJHsiZ8kc8khInhe
+2024-08-13 18:26:35,828 ERROR Failed to download item: 环境历史数据统计，用例精简 (docx), token: Bw7tds62uoiLB5xTTWqcKQfHnrO
+2024-08-13 18:28:35,016 ERROR Failed to download item: 项目管理甘特图 (bitable), token: TT7SbXBdzaiMGDsdK5Fcjko2nmb
+2024-08-13 18:28:36,702 ERROR Failed to download item: 项目管理甘特图 (bitable), token: GAZRbcfwFacKiEseo7TcjMgPntg
+2024-08-13 18:29:08,308 ERROR Failed to download item: 整机性能提测报告模板 -审批版 (docx), token: GD6Ndp95iozNYcx9Lxqclp8Ynie
+2024-08-13 18:29:10,014 ERROR Failed to download item: 整机性能提测报告模板 -审批版 (docx), token: A2KLdelbroUNFIxdUjoceUCcnmg
+2024-08-13 18:29:19,311 ERROR Failed to download item: 整机性能提测报告模板 -审批版 (docx), token: FmJud8cb5oGKC6xoP8ZcPe61nPc
+2024-08-13 18:29:50,588 ERROR Failed to download item: 整机性能提测报告模板 (docx), token: UG2FdovqEoAy7hxNwf2cIhFFn8g
+2024-08-13 18:29:52,369 ERROR Failed to download item: XXX项目-第XXX轮-整机-环境测试报告 模板 (docx), token: QcgkdpPeFodw8fxmyIgcMbnrnJd
+2024-08-13 18:29:59,563 ERROR Failed to download item: 测试时间延误统计表 (bitable), token: bascnCEEh2LzKKyjJybqAM9Zkdf
+2024-08-13 18:30:18,819 ERROR Failed to download item: 项目测试任务统计 (bitable), token: bascnYQDDI5NzxlQ9OmKPz6lryb
+2024-08-13 18:30:20,562 ERROR Failed to download item: nan (bitable), token: bascnOy22iPg3CFTg90DVH5DXFe
+2024-08-13 18:30:22,338 ERROR Failed to download item: 项目管理甘特图 (bitable), token: bascnpHz5l3AP45ONCaamzGn1xc
+2024-08-13 18:30:24,072 ERROR Failed to download item: 项目管理甘特图 (bitable), token: bascnuPrLvpEb9N9jPKM5y9KQ6g
+2024-08-13 18:30:25,941 ERROR Failed to download item: nan (bitable), token: bascneYFIySBiGMjE5D4kSN8l5f
+2024-08-13 18:30:27,697 ERROR Failed to download item: nan (bitable), token: bascnOwhwmm5JR6U4Z3EgZ5nDZd
+2024-08-13 18:30:29,407 ERROR Failed to download item: 低压伺服驱动器常温温升测试方案-20220106-邓文华 (doc), token: doccnQnJcMx9E1Sx5lQRkm0rNdg
+2024-08-13 18:30:40,224 ERROR Failed to download item: 用友T+安装步骤(新） (doc), token: doccnA3SsrT6RFu1LYeUr4P4bmg
+2024-08-13 18:33:27,457 ERROR Failed to download item: \U0001f3d6\ufe0f请假申请 (bitable), token: B5F8bxMdcaQAVPszXCmcTRuFnNd
+2024-08-13 18:34:03,580 ERROR Failed to download item: 客户支持第一次作业 (doc), token: doccnpqvKmCeKbNFzxi79GRtJyb
+2024-08-13 18:34:05,471 ERROR Failed to download item: nan (bitable), token: bascnonyzfsPJN7TrVLg6bYuufd
+2024-08-13 18:34:55,476 ERROR Failed to download item: 客户支持第一次作业 (doc), token: doccnosyFNsaypkkSXYyuWW5JEd
+2024-08-13 18:34:58,669 ERROR Failed to download item: 请假 (bitable), token: RPgbbhl3Xadrm3sSwUecaQe3nlh
+2024-08-13 18:35:00,505 ERROR Failed to download item: 签到数据统计 - 员工问卷问题答疑及重要工作部署 (bitable), token: TTeybtlqWa2NTTszrRQcwuHVncb
+2024-08-13 18:35:09,956 ERROR Failed to download item: \U0001f455 文化衫登记 (bitable), token: Wkv4b2jdVa1zVHsZVqrcHcOfn5c
+2024-08-13 18:35:11,731 ERROR Failed to download item: \U0001f455 文化衫登记 (bitable), token: TRHVb8H1ja3IilsYqoccYr4wn9q
+2024-08-13 18:35:13,507 ERROR Failed to download item: 抽奖1111 (bitable), token: VbOtbgTTfa9LFssaOOVc2OU6nSb
+2024-08-13 18:35:22,311 ERROR Failed to download item: 试用期转正评估-XXX -审批版 (docx), token: DJN4dXOOzodUzcx6tFOcyg7UnGe
+2024-08-13 18:35:24,107 ERROR Failed to download item: 名片全能王功能对比 (sheet), token: IZPmsJ7cJhg53BtJiaWc6odknjg
+2024-08-13 18:35:25,759 ERROR Failed to download item: 试用期转正评估-M级 -审批版 (docx), token: PDA7d4Ez9olrZlx19HccbhDqnah
+2024-08-13 18:35:27,448 ERROR Failed to download item: 试用期转正评估-M级 (docx), token: U5DZdzgaToV6Bpxlm4XcQyfLnFd
+2024-08-13 18:35:29,224 ERROR Failed to download item: 试用期转正评估-XXX (docx), token: ExDQduAPBom1UcxLnOtcmeoBnRc
+2024-08-13 18:35:30,911 ERROR Failed to download item: 20230509 Employment Pass Application -审批版 (docx), token: C9HFdbxnxoH3J1xyhzZcSzDEnFJ
+2024-08-13 18:36:03,667 ERROR Failed to download item: 东锅阿克塞项目软件测试记录 (sheet), token: shtcnUz44IrHTqMvhMthyfWitch
+2024-08-13 18:36:12,375 ERROR Failed to download item: 字典属性表 (bitable), token: FpVKbSOr1a0qLxshA9MczRGvnve
+2024-08-13 18:36:14,066 ERROR Failed to download item: 伺服功能说明 (docx), token: WUPqdwJJYovkXcx4FuEcuIuGnL2
+2024-08-13 18:36:15,735 ERROR Failed to download item: 字典描述 (docx), token: TKmgdTfr6o0QaaxkC0acVSQmnng
+2024-08-13 18:36:17,407 ERROR Failed to download item: 字典属性 (docx), token: O0VAdeVUXom4gFxZkyTcLbhan1c
+2024-08-13 18:36:19,159 ERROR Failed to download item: 东锅问题跟踪表 (sheet), token: VTzms4jS3hoy6XtvUImcmyOJnkg
+2024-08-13 18:36:36,185 ERROR Failed to download item: 东锅驱动器工程应用细节 (docx), token: Wzq0dzQY4oeokLxIitMc6faDnjb
+2024-08-13 18:36:37,876 ERROR Failed to download item: 流程图 (docx), token: EtSfdVHO6oW6A7xJWhgcuctmnee
+2024-08-13 18:36:39,801 ERROR Failed to download item: 东锅现场问题排查测试模拟 (sheet), token: ODkSsX3fohjEoCtyWO0cGbyxngc
+2024-08-13 18:36:41,534 ERROR Failed to download item: JD软件测试问题 (sheet), token: RqAIsdOobhkaCmt2ZpCcKGMGn0e
+2024-08-13 18:36:43,316 ERROR Failed to download item: simulink生成twincatPLC代码运行 (docx), token: Fqs4dTyKuomok2xoMutck6UdnAc
+2024-08-13 18:36:45,121 ERROR Failed to download item: 虚拟测试 (docx), token: HWGFdHl24omfGVxvPLncR9gNndg
+2024-08-13 18:36:54,035 ERROR Failed to download item: 驱动器通讯及过载问题快速排查指南 (docx), token: ZjzMd65zRoztGixrR1achq3MnCe
+2024-08-13 18:36:55,770 ERROR Failed to download item: 东锅8月出差总结 (docx), token: ZMQudkoxTowBNpxG27RcwdJbnJf
+2024-08-13 18:57:32,675 ERROR Failed to download item: ACS&行动元驱动器匹配连网.mp4 (file), token: B1Uyb6C6Bo8ZzqxPD3Rc25TQnzO
+2024-08-13 19:10:13,784 ERROR Failed to download item: IT资产管理系统 (bitable), token: S7rkbmIFvaP0a6sMay9cPkLunWe
+2024-08-13 19:19:33,810 ERROR Failed to download item: MAXHUB会议硬件使用 (docx), token: M12md7TGEo6O3Nxci9AcWmyfn1g
+2024-08-13 19:25:10,312 ERROR Failed to download item: 北京机房电池检测流程 (docx), token: NrZjdhX6XoyTKIxzOjTcRAjynvq
+2024-08-13 19:37:49,434 ERROR Failed to download item: 多维表格函数实践 - 请使用模板后查看 (bitable), token: PSlebwA3jaVOLGs8jXgckc9Wnhd
+2024-08-13 19:37:55,653 ERROR Failed to download item: 多维表格函数实践 - 请使用模板后查看 (bitable), token: WTfYb6xgzaA3UasB67Mcd6N7nse
+2024-08-13 19:38:01,948 ERROR Failed to download item: 多维表格函数实践 - 请使用模板后查看 (bitable), token: OvXJbkcEUatAdgsTen9coaErnvh
+2024-08-13 19:38:08,259 ERROR Failed to download item: 多维表格函数实践 - 请使用模板后查看 副本 (bitable), token: VkDJbm47bawPZusWJ3TcWiYynUd
+2024-08-13 19:38:14,471 ERROR Failed to download item: 多维表格函数实践 - 请使用模板后查看 副本 (bitable), token: AJZObjzwaa25DksHQkYc6D9vnxb
+2024-08-13 19:38:45,153 ERROR Failed to download item: nan (bitable), token: Ak15bv46gaR7YSsPIA7cumoBnPd
+2024-08-13 19:38:51,464 ERROR Failed to download item: CN 行动元DN单板系列 智能驱动器规格书_V1.02.01_20230327 副本 (docx), token: Rm33duTRMoi6rWxkT5Qc5vFvnBb
+2024-08-13 19:43:34,137 ERROR Failed to download item: 信息系统支持优化 (docx), token: doxcnxa4XsVc1mIilfChWVOpzvg
+2024-08-13 20:05:25,583 ERROR Failed to download item: 嘉昱驱动器定制需求评估_20240626 (docx), token: DD8udwGIRoFEjZxPe0PciiOWnZe
+2024-08-13 20:06:07,161 ERROR Failed to download item: Flex成品出货清单-2023-11月 (bitable), token: AwTtbCzNIaT35xs4zhDcAYN4nFb
+2024-08-13 20:06:13,373 ERROR Failed to download item: Flex成品出货清单-2023 (bitable), token: V9b1buWiSa1iIZsaXiVcenmPnqf
+2024-08-13 20:08:07,408 ERROR Failed to download item: 行动元-智能驱动器产品系列大全 (sheet), token: shtcnwH05ZpX4LzMPLxtHFQL4If
+2024-08-13 20:10:12,859 ERROR Failed to download item: 宣传彩页&快速接线指南修改-20231214 (docx), token: Xt9Rd2KTnoMRJmxNSMAcyJDHn5d
+2024-08-13 20:11:52,286 ERROR Failed to download item: 柔性上位机问题清单 (sheet), token: IItGsmOZ6hzo5ItB8AEcUfWBntc
+2024-08-13 20:11:58,619 ERROR Failed to download item: 柔性发布checklist (docx), token: GniOdBFQjoFUa8xxnzscrxkanVd
+2024-08-13 20:13:07,911 ERROR Failed to download item: 客户帮助中心更新记录 (sheet), token: shtcnZQBQsaH1qgr2o3gMQYUURf
+2024-08-13 20:13:14,077 ERROR Failed to download item: 上位机调研 (docx), token: I8WgdxVm4otPCzxm1QbcH2k8nIc
+2024-08-13 20:13:20,393 ERROR Failed to download item: 竞品-规格对比 (docx), token: F51YdjFLAoZA5zxIP8tcWxfgnVd
+2024-08-13 20:13:26,660 ERROR Failed to download item: 控制器IO模块调研 (docx), token: P63Rd0eR0oz8aYxH6twcoEednxc
+2024-08-13 20:13:59,925 ERROR Failed to download item: ModbusTCP应用 (docx), token: QuuBdWkdwoXeF2xOxxPcfk1sn1e
+2024-08-13 20:14:06,802 ERROR Failed to download item: 接口一览画板备份 (docx), token: ZKApdyFOPo9QbdxjxBxcRDNrn2c
+2024-08-13 20:15:07,111 ERROR Failed to download item: 上位机 v3.0.4.3 版本 & 驱动器 6.1.16Release 版本新增功能说明 (docx), token: LHrCdYmDHovu95xn3MVcEegLnjd
+2024-08-13 20:21:02,466 ERROR Failed to download item: 再生制动专题说明_V1.00.00_20221128 (docx), token: TntxdBBBco8t4JxAzbFc8a5enhb
+2024-08-13 20:23:20,043 ERROR Failed to download item: 直线电机方案对比 (doc), token: doccnFgcOh8ycOirHbITMQUE8Bd
+2024-08-13 20:28:14,916 ERROR Failed to download item: 治具工装（整机）讨论 -审批版 (docx), token: Z4IXdDY9OoiTvLxXa85cw8xUnec
+2024-08-13 22:27:23,028 ERROR Failed to download item: AF开模方案评估 (docx), token: SgwsdPTdOocGJ2xamJmcBwkznDc
+2024-08-13 22:29:38,066 ERROR Failed to download item: 书本式驱动器概念方案 (docx), token: DbhwdXUzXoTCVhx6D67c4jULnJf
+2024-08-14 10:08:34,626 ERROR Failed to download item: 共和开模问题跟踪 (docx), token: ObCAds1Rnoa2CtxWw3mcgaIDnbe
+2024-08-14 10:08:45,616 ERROR Failed to download item: DG3-23001结构设计说明书 v1.0  (docx), token: Uk1bdnKQ5oVrWsxvyqqcdXEBn2c
+2024-08-14 10:08:47,520 ERROR Failed to download item: FLEX\FLEX-R开模问题跟踪 (docx), token: Oxnsdg0fpoNWjyxb2kCcxmHGnTh
+2024-08-14 10:08:49,463 ERROR Failed to download item: DF1项目进展（结构） (docx), token: B6MndjSXYor2NpxZhvUcr2l5nVh
+2024-08-14 10:08:59,768 ERROR Failed to download item: DG3项目进度（结构） (docx), token: FAL2dWezgom6uWxYiHmcFI7jnXe
+2024-08-14 10:09:10,466 ERROR Failed to download item: （模板）XXXX结构设计说明书 v1.x 副本 (docx), token: AGI3dziiXoVgW2xTNRccYq2Cnle
+2024-08-14 10:09:20,690 ERROR Failed to download item: AF交流伺服驱动器 (sheet), token: shtcnByITGDht8H1HNITaV4lEfd
+2024-08-14 10:15:21,259 ERROR Failed to download item: 产品周报 (docx), token: S6I6dYKNXop4f7xPG24cM925nAe
+2024-08-14 10:15:55,181 ERROR Failed to download item: 电感式编码器UT项目任务管理 (bitable), token: V9WObGXhdaCsCwsyMgdcqk63nNd
+2024-08-14 10:16:50,096 ERROR Failed to download item: IPD学习笔记 (docx), token: ZW05dY0tgo9GNMxo8V9c95KInFh
+2024-08-14 10:16:51,841 ERROR Failed to download item: FTS(SI)资料准备 (docx), token: QWMKdspxQoQEIdxUEFDcbrUqniY
+2024-08-14 10:17:09,448 ERROR Failed to download item: IPD workflow (docx), token: G2NPdc69xozjSUxiZ2BcqQFpnBg
+2024-08-14 10:17:11,526 ERROR Failed to download item: Graph (docx), token: FZlgdRMtXoxYcpxnejdcEMGBnGd
+2024-08-14 10:17:13,324 ERROR Failed to download item: Review BSC Kick-off (docx), token: WS1MdFHsmo2yG5x5MdwcQYz6nNg
+2024-08-14 10:17:23,041 ERROR Failed to download item: FTS-MRD草稿 (docx), token: QTDpdKUtAoEWK3xBB8uc3o6Znld
+2024-08-14 10:17:32,969 ERROR Failed to download item: MBD课程学习纪要 (docx), token: AqEMdgYP8ormQbx5VVTcM77QnVb
+2024-08-14 10:17:51,251 ERROR Failed to download item: 深圳线体归纳及处理建议 (docx), token: DNPLd2DbuoU0RcxAzv7csW19nxf
+2024-08-14 10:18:26,216 ERROR Failed to download item: 参数需求 (docx), token: ANSod7IvboPU1zxLAdGcCvcRnwA
+2024-08-14 10:18:27,923 ERROR Failed to download item: 2023年12月12日 编码器硬件方案评审会会议纪要 (docx), token: NAMHdvOr4odsdixgpeJcSnJGnAM
+2024-08-14 10:19:02,727 ERROR Failed to download item: 柔性客户行业价值和需求分析 (docx), token: GlSpdmHRkoQTXvxP3gicsvt9nBg
+2024-08-14 10:19:04,473 ERROR Failed to download item: 参数需求-已填写 (docx), token: TMCEduQ2Go4lxvxwo9wcL4o0n5e
+2024-08-14 10:19:21,806 ERROR Failed to download item: 控制器软件框架和细节梳理 (docx), token: DEPKdyOTBozX0sxRKHRcrA79nhf
+2024-08-14 10:19:39,783 ERROR Failed to download item: 建模任务预计人天 (docx), token: RhrWdAm6FoSMMqxL9jxcv7pRnpf
+2024-08-14 10:19:41,466 ERROR Failed to download item: FTS部署时间估算 (docx), token: QDpIdbfcGo7DrXxim0DcXNDhnRr
+2024-08-14 10:19:43,234 ERROR Failed to download item: 三协-检测-磁悬浮输送系统规格需求调查及选型（2023.10.28） (sheet), token: RtOpsCfKEhprOstHDShcJXE8nyd
+2024-08-14 10:20:00,573 ERROR Failed to download item: FTS对于控制算法和辨识的特有需求清单 (docx), token: I6I4dnDofosg8YxdbmpcCWXonEn
+2024-08-14 10:20:32,790 ERROR Failed to download item: 集成方案-9-25版本对于柔性场景的不适应部分 (docx), token: I5ZHdGhyIow23Fx2HCAcRnqPnWf
+2024-08-14 10:20:34,572 ERROR Failed to download item: 柔性流程梳理 (docx), token: G58zdEP9noKPjMxowbRcVC3jnOf
+2024-08-14 10:20:36,365 ERROR Failed to download item: 柔性对小脑需求用例 (docx), token: H9qYddJT1omNGkxdmWycl90knKh
+2024-08-14 10:20:38,159 ERROR Failed to download item: 柔性用例 (docx), token: ZvU9de3UXo0CBqxq4x6cRMIRnub
+2024-08-14 10:22:40,267 ERROR Failed to download item: 柔性项目人员需求分析 (docx), token: GG89dSzpUoJtOCx0yQBc4Intn6c
+2024-08-14 10:22:42,053 ERROR Failed to download item: 光电开关与demo性能的约束关系及现状 (docx), token: doxcnPwXo8plqPEpW5VksxUkTng
+2024-08-14 10:22:52,087 ERROR Failed to download item: 调度系统应用层状态机 (docx), token: PbAAdPg5koSyNnxlJZzcFqAynCh
+2024-08-14 10:22:53,938 ERROR Failed to download item: 弧形电角度 (docx), token: RgD1dhx4copXU0xdF0ycpH4hnUc
+2024-08-14 10:22:56,076 ERROR Failed to download item: 柔性现有项目和待定项目排期表 (docx), token: OrGHdwHwMoAqsgxgPJ0c25qjnMb
+2024-08-14 10:22:57,895 ERROR Failed to download item: 柔性业务和平台计划 (docx), token: EQM2dChZYogGqdxJCdXc3JTenVb
+2024-08-14 10:23:08,349 ERROR Failed to download item: 回流线虚拟模型调试问题 (docx), token: YQwBdiDs2oQLR8xNrgdcwrzunce
+2024-08-14 10:58:09,876 ERROR Failed to download item: 当前动子及线圈结构造成的问题 (docx), token: doxcnzh8oo4IxuB3DPZbI8B6Bsb
+2024-08-14 10:58:11,783 ERROR Failed to download item: 控制器及虚拟模型开发 (docx), token: doxcn65R2EGY3k0LY3iSNa9srHe
+2024-08-14 10:58:32,412 ERROR Failed to download item: 模型组工作计划 (doc), token: doccn5aI3wjKh0AT3VGK0IjztPg
+2024-08-14 10:58:52,825 ERROR Failed to download item: Sales/Customer end-to-end tracking (docx), token: NlvmdV8iIoX4RWxnePEcEHvTnug
+2024-08-14 10:59:28,752 ERROR Failed to download item: PM VE for Internal Project Management (docx), token: AFYndO5LNoy53pxBNkCc1i2ynDc
+2024-08-14 10:59:39,159 ERROR Failed to download item: Eve - Evolving Virtual Engineer - Updated 22/04 (docx), token: UYQtdRZQIoWpmXxJOeccIXBEnYb
+2024-08-14 10:59:41,299 ERROR Failed to download item: Eve Phase 1: EPICS & USERSTORIES (sheet), token: JJcwsVjPwhx03gtcuNfc9dg7nPe
+2024-08-14 11:00:37,796 ERROR Failed to download item: EVE Financial Model (01_06_2024)  (sheet), token: MFmGsu4uZhF2QBtcoIFcEJLanOe
+2024-08-14 11:00:39,604 ERROR Failed to download item: Board Doc (docx), token: QqT5drUQpoYpvrxg5gcc86zenOg
+2024-08-14 11:00:41,540 ERROR Failed to download item: 画板文档 (docx), token: LpxWd5VJNo1hs3xqavxcIgbHnRd
+2024-08-14 11:00:43,652 ERROR Failed to download item: Glean AI - Feature List VS Eve.AI (docx), token: AM0AdOdYGoIwoFxInjTcpRdhn1f
+2024-08-14 11:00:46,041 ERROR Failed to download item: Core Database (bitable), token: TVr1bk9mxaOrMwsSkKOcKovgn8b
+2024-08-14 11:03:09,442 ERROR Failed to download item: Design Innovation Evaluation + Agile DevOps Life Cycle  (Work-in-progress) (docx), token: DTsxdjyyhoUQzYxvmmBcEp9ynMc
+2024-08-14 11:03:40,769 ERROR Failed to download item: Service System Architecture Planning Activity (docx), token: Rqmodb0qSoU6UQxTxLxcqGkEnch
+2024-08-14 11:03:42,799 ERROR Failed to download item: User Interview: Application Engineer (Halim) (docx), token: H2q7dYnATogZYExXwCicV7XOn9b
+2024-08-14 11:03:53,875 ERROR Failed to download item: FAE Copilot Affinity Analysis (docx), token: D11bd5Nk9ojmmTx7vlQcfjQqnRb
+2024-08-14 11:04:28,285 ERROR Failed to download item: User Interview: Assistant Manager FAE (Jackson Loh) (docx), token: WtIpdVqbUolB5Sx3SkCcv5sxnFg
+2024-08-14 11:05:03,318 ERROR Failed to download item: MotionG内部大模型平台（管理员版） (docx), token: EaV9du5mTogVmsxfGF4cAjC1nsg
+2024-08-14 11:05:05,099 ERROR Failed to download item: Motion G大模型实验室介绍 (docx), token: RIxIdiYDfott3txgxnkc6c31nPe
+2024-08-14 11:05:31,227 ERROR Failed to download item: Motion G Integration Lark bot setup (docx), token: J1CFdNX6soSaE7xaOGZcTmdmnjg
+2024-08-14 11:14:58,055 ERROR Failed to download item: Workflow Demo Script (H & M & Dummy VE) (docx), token: FKuddX6dCoLZVYxUjIXclclNnAe
+2024-08-14 11:14:59,749 ERROR Failed to download item: workflow分层结构思路 (docx), token: INhpdScCVoYFoVxhlsXctVUwnAg
+2024-08-14 11:15:30,619 ERROR Failed to download item: 语音转文字成本分析 (docx), token: XCvbdgDZKozqFPxzwmbcL8yLn6d
+2024-08-14 11:16:12,436 ERROR Failed to download item: 学习记录和问题 (docx), token: ZJU4d4gcjoZe8MxXwE5cmuirn3g
+2024-08-14 11:16:13,601 ERROR Failed to download item: FOC (docx), token: Iq4MdJaRtoNzMmxzuZGc4R0TnKb
+2024-08-14 11:16:14,281 ERROR Failed to download item: 电机参数详解 (docx), token: VCjWdFEgMoS8c8xJMuZcKKt3nXg
+2024-08-14 11:16:17,866 ERROR Failed to download item: 晶圆搬运SOP思维导图 (docx), token: PIsudSaQpo55n3xYlLKcFQOxnKe
+2024-08-14 11:16:40,333 ERROR Failed to download item: 新松机械手测试报告 (docx), token: LYNHd7HgPoPvXlx3okFc2VP0nWf
+2024-08-14 11:16:52,874 ERROR Failed to download item: CAN通讯基本使用 (docx), token: Ad6ida8JNoNANCx5YXKcv1cAnPd
+2024-08-14 11:16:55,355 ERROR Failed to download item: 临时固件记录 (bitable), token: Ec5xb4N1HanCNNsU2jIc4nJLnQf
+2024-08-14 11:16:57,075 ERROR Failed to download item: 摩森运动DI控制电机正反转需求 (docx), token: ED0adqm7DoIsT6xZwOLcz5RXnTg
+2024-08-14 11:16:58,801 ERROR Failed to download item: 思维导图 (docx), token: NgWjd1YKZoLzApx6yEKchaHSnIg
+2024-08-14 11:17:10,637 ERROR Failed to download item: 说明 (docx), token: CGTbddxLvogWZHxvLsHcKqQfnyb
+2024-08-14 11:18:14,163 ERROR Failed to download item: 郭阳子|Frank Guo的视频会议 2024年7月11日 (docx), token: Gugtdjcb5oNZWVxi5JNcsfmsn0d
+2024-08-14 11:18:47,978 ERROR Failed to download item: 部件库表结构 (docx), token: IKGhdNKijon7dlxieN1cWzbQn2b
+2024-08-14 11:19:13,006 ERROR Failed to download item: 说明 (docx), token: Uv0cdoYGGoAFd5xteg9ce9sBneh
+2024-08-14 11:19:14,700 ERROR Failed to download item: 工程化过程V3版 Copy (sheet), token: CFees6kXPhq4zgtq3lxcD2dhn3f
+2024-08-14 11:19:32,033 ERROR Failed to download item: 说明 (docx), token: KEOtdTDLhoa3IYx3ZK3crJiGndg
+2024-08-14 11:19:41,316 ERROR Failed to download item: 民间分类 (docx), token: Ie1vdh67OoZ5lAxTdoic4eSqnNe
+2024-08-14 11:19:42,970 ERROR Failed to download item: 民间分类 (docx), token: AYMdd3zDEoOjuUxrnqdciUs9nme
+2024-08-14 11:20:07,704 ERROR Failed to download item: 行动元 BJ-23061901 的报价 (sheet), token: GdrQsvu7RhqR6VtUEfmci37Znpf
+2024-08-14 11:20:09,495 ERROR Failed to download item: 行动元 BJ-23061901 的报价 (sheet), token: PD4Cs7VcxhLsartyUejccejRnWd
+2024-08-14 11:20:18,607 ERROR Failed to download item: 时间四象限工作法 (docx), token: A7Eadq5IjoT4w1xO7UEcsHKlnuc
+2024-08-14 11:21:07,220 ERROR Failed to download item: dc_servo_drivers_tab_202406031423 (sheet), token: Gk6DsqbRTh7gtgtydG2ch3iZnob
+2024-08-14 11:22:08,915 ERROR Failed to download item: 2020级培养计划（普通班） (docx), token: Ik1UdFZiuoOm2SxqfjzcLMCWnKc
+2024-08-14 11:22:10,603 ERROR Failed to download item: 内容提报及进度管理（新增双向关联） (bitable), token: LTaZbzQJoa0XlBsblHWc8tyWn6F
+2024-08-14 11:22:12,391 ERROR Failed to download item: 项目问题跟踪管理 (bitable), token: D8sObfP6rawRUGsQZTccvqasnSq
+2024-08-14 11:23:04,517 ERROR Failed to download item: BSC任务成果汇报 (docx), token: AbV5day8CoYORcxC5pWcR6rMnSb
+2024-08-14 11:34:29,696 ERROR Failed to download item: 001结构组工作任务 (bitable), token: bascnySoN8a0T954PCqPMgDovgc
+2024-08-14 11:34:47,575 ERROR Failed to download item: 零星请购报销--郭阳子 (sheet), token: ZTmUsjKNYhW27UtVMoccyunZnof
+2024-08-14 11:34:49,321 ERROR Failed to download item: 工具清单 (docx), token: SGdYdBINIoSWvmxowelc6ZKfnUh
+2024-08-14 11:34:57,475 ERROR Failed to download item: 结构组扩编申请 (docx), token: D3d1dfsULoennXxkD24cCDwvn4c
+2024-08-14 11:35:14,333 ERROR Failed to download item: 结构组-周计划与总结 (sheet), token: shtcn4ZiT9HWUHOQZ3mPCfOcKSe
+2024-08-14 12:00:37,006 ERROR Failed to download item: 参考文件 (docx), token: Qer9d3klZoSAeyxg9tTcOew4nkf
+2024-08-14 12:00:38,855 ERROR Failed to download item: 生产资料归档规范 副本 (docx), token: IfgAdc7oNoS5QnxbPa9cvruQnyQ
+2024-08-14 12:00:54,902 ERROR Failed to download item: TeamCenter安装和配置 (docx), token: McV1dJcW4o8KOSxai8OcX361nie
+2024-08-14 12:01:04,501 ERROR Failed to download item: 硬件工程化过程--结构 (docx), token: KlbddRPmyorsXqxOzmrcaTxin3e
+2024-08-14 12:02:30,365 ERROR Failed to download item: BJZY结构方案1008 (docx), token: VwPVdzeleoFCerxKpYWcEzPUnsb
+2024-08-14 12:02:32,162 ERROR Failed to download item: BJZY结构方案 0921 (docx), token: QIQUddUp6oSCh4xYT2wceFTqn5c
+2024-08-14 12:02:33,953 ERROR Failed to download item: 结构件BOM汇总及版本管理 (bitable), token: WLXnbVjYsa9QHis7cTFcJU6Wnbf
+2024-08-14 12:02:35,743 ERROR Failed to download item: （已停用）结构件BOM汇总  (bitable), token: bascnBM0gQju7uLRzLIbSid6hVb
+2024-08-14 12:02:37,482 ERROR Failed to download item: 项目BOM版本追踪 (bitable), token: SvYBbN6KWaSMOmsmgvpcTHU4nIb
+2024-08-14 12:02:47,083 ERROR Failed to download item: 结构件汇总（旧） (sheet), token: shtcnzaCkn3rzrMdWd2VXpaaEMf
+2024-08-14 12:02:58,955 ERROR Failed to download item: 结构件BOM汇总 （含供应链库存管理） 副本 (bitable), token: bascnUyVaMXLhzNZkHB1cPrAbqd
+2024-08-14 12:03:00,697 ERROR Failed to download item: 结构件BOM汇总 Demo (bitable), token: bascnKg2kX3KjP0p6FSHvegENth
+2024-08-14 12:04:29,435 ERROR Failed to download item: FlexR极限形变与应力计算 (docx), token: doxcn4T5nGl3Yo9fT00G5p8J9j8
+2024-08-14 12:04:31,547 ERROR Failed to download item: DN 结构方案 成本汇总 (sheet), token: shtcnNvgDp0pGCbwKdoKsv4I1Rb
+2024-08-14 12:05:01,659 ERROR Failed to download item: 2022年12月1日 DN1新版结构方案评审会议纪要 (docx), token: KXQJdkJtdoLlUQxwLxjcfaN1n8e
+2024-08-14 12:05:11,710 ERROR Failed to download item: 白银螺丝位置应力分析 (docx), token: VlVKdrgZAowAM3xyMDZcmoM1n0d
+2024-08-14 12:05:13,688 ERROR Failed to download item: 白银DN结构设计审查表checklist (sheet), token: shtcndf6dAYifscpapGus4vRc1d
+2024-08-14 12:12:36,002 ERROR Failed to download item: 智能叠加方案 SKU标记--目标与计划 (doc), token: doccnP6nLAAa8hSyXtnzeXZBgqb
+2024-08-14 12:14:18,413 ERROR Failed to download item: 硬件SKU库 (sheet), token: shtcne1bc5L1qoFreDVgjmuXQLb
+2024-08-14 12:16:05,212 ERROR Failed to download item: （模板）项目丝印与线缆三方确认文档 (docx), token: CKjudsFeNoNF3QxInnbcFEeCnXb
+2024-08-14 12:32:58,760 ERROR Failed to download item: Flex-R改接口板定义DS1 (docx), token: H0godughJoJANqxevqncsROUn2f
+2024-08-14 12:33:42,690 ERROR Failed to download item: 卓誉项目-第一轮-安规测试报告 (docx), token: NKspdrWhQoKasexAWh8c2l33ngd
+2024-08-14 12:34:00,878 ERROR Failed to download item: 李群产品规格 (docx), token: ZYa1dMfg5orEoMxfO0IcbnRsngf
+2024-08-14 12:34:06,942 ERROR Failed to download item: 卓誉接口定义 (docx), token: Frt2dlTTRoeZ5cxExMlcmKGVnmb
+2024-08-14 12:34:12,944 ERROR Failed to download item: 路远-基于CXJG (docx), token: WvstdALwVo0KgcxEYPOcRFjunrB
+2024-08-14 12:35:34,890 ERROR Failed to download item: 卓誉项目-安规测试方案 (docx), token: ThnidMm0loQjFIxK4SBccmfpnFD
+2024-08-14 12:36:27,803 ERROR Failed to download item: 卓誉环形硬件概要设计初版（内部） (docx), token: DW3Ed6LvZogGEpxVML6covWHnvf
+2024-08-14 12:37:11,598 ERROR Failed to download item: 单板环形产品概要设计初版 (docx), token: COcVd0OFboHiROxw6ElcEC8Vn0e
+2024-08-14 12:37:17,666 ERROR Failed to download item: 环形硬件概要设计初版 模板 (docx), token: LouLddRsronhzPxLqpScYiOZnef
+2024-08-14 12:37:36,687 ERROR Failed to download item: 赛普肯IO功能竞品分析 (docx), token: S07kdFpjxoTMmQx7wRqc7Fpcn2f
+2024-08-14 12:38:59,757 ERROR Failed to download item: 卓誉环形技术规格、构方案沟通会议纪要 (docx), token: HZJjduGtQoVim8xzeNicoCWAnDP
+2024-08-14 12:39:16,914 ERROR Failed to download item: 卓誉连接器选型 (docx), token: TAMbdGchUocPyZxJ5RWcmRBhnid
+2024-08-14 12:40:12,831 ERROR Failed to download item: 卓誉环形概念方案 (docx), token: D8rvdHUAMojO3Jx50T9cufaRnKg
+2024-08-14 12:42:27,403 ERROR Failed to download item: 硬件开发效率提升 (docx), token: SGRJdgHtAoixtYxneXAcMHiHnyd
+2024-08-14 12:44:16,344 ERROR Failed to download item: 环形抱闸干扰问题影响因素测试 (docx), token: VZLtdtXq6oDh7GxsbREcSOZCnXe
+2024-08-14 12:45:17,301 ERROR Failed to download item: 抱闸 (docx), token: ZwkkdGkOsoOecTx0P0YcBFzwnvA
+2024-08-14 12:48:27,426 ERROR Failed to download item: 抱闸定义更新 (docx), token: Uyskdaq55o9WltxDE2GcA6bhntf
+2024-08-14 12:51:45,579 ERROR Failed to download item: 欢迎~来到Ocyss的模板库 (docx), token: OhzvdI5U2ofsy5xP2Dyc8RmwnQd
+2024-08-14 13:08:27,326 ERROR Failed to download item: 2023年2月16日 质量会议-售后问题会议纪要 (docx), token: B8GpdnwvsovqcAxm4JpcSf8Jncf
+2024-08-14 13:21:10,215 ERROR Failed to download item: MES系统搭建系统说明 (docx), token: doxcnj3DVLGdwfXaxeMyU6eqLCh
+2024-08-14 13:22:38,762 ERROR Failed to download item: 深圳工业展\电子展-观展学习 (docx), token: doxcnCYsFWfokfYFOXvUtpw9DAh
+2024-08-14 13:24:17,884 ERROR Failed to download item: 安雅思-8D报告 (docx), token: doxcnZS2m5vye7IXA99vD2082Me
+2024-08-14 13:26:50,079 ERROR Failed to download item: 交付现状描述 (doc), token: doccnIDwpNw2S8n54KRRkNWliHg
