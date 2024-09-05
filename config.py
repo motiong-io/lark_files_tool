@@ -5,3 +5,5 @@ minio_config ={
     'secret_key': 'EUKDWIghj2NWIwMcPj2mX4BtFmEkieVWicaVxtqe',
     'secure': False,  # Change to True if you're using HTTPS
 }
+
+DB_CONNECTION_STRING = 'postgresql://intern:123456@postgresql.middleware.dev.motiong.net:5432/lark_files_backup'
