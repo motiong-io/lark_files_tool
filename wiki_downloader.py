@@ -14,7 +14,26 @@ bucket_name = 'raw-knowledge'
 minio_path = 'MotionG/SpacesFiles'
 file_path = 'temp'
 download_path=os.path.join(os.getcwd(),file_path)
-
+minio_client = lark_file.get_minio_client()
+pathlib = ['MotionG/SpacesFiles/', 'MotionG/CloudDriveFiles/']
+def isNull(bucket_objects):
+    try:
+        next(bucket_objects)
+        return False
+    except StopIteration:
+        return True
+def isInDB(fileName):
+    a = False
+    for path in pathlib:
+        path = path + fileName
+        bucket_objects = minio_client.list_objects('raw-knowledge', prefix=path)
+        if isNull(bucket_objects):
+            print(path+'不在数据库中')
+            continue
+        else:
+            print(path+'在数据库中')
+            a = True
+    return a
 #主函数，循环下载文件、上传minio、更新csv记录
 def mission_operator():
     # 配置日志记录，仅记录 ERROR 级别的日志
@@ -43,8 +62,10 @@ def mission_operator():
                         print(f"Downloaded item: {obj['name']} ({obj['type']}), token: {obj['token']}")
                         object_path=f"{minio_path}/{comment}"
                         downloaded_file_path = os.path.join(download_path, comment)
-                        upload_result,upload_comment = lark_file.upload_to_minio(bucket_name,object_path,downloaded_file_path)   #上传到minio
-                        if upload_result == True:
+                        upload_result = False
+                        if not isInDB(comment):
+                            upload_result,upload_comment = lark_file.upload_to_minio(bucket_name,object_path,downloaded_file_path)   #上传到minio
+                        if upload_result:
                             os.remove(downloaded_file_path)   #删除临时文件
                             #shutil.rmtree(download_path)   #清空临时文件夹
                             df.at[index,'is_downloaded']=1

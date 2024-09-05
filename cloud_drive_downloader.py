@@ -41,7 +41,6 @@ def mission_operator():
                         "token": row['token'],
                         "type": row['type']
                     }
-                
             if obj['type'] in valid_types:
                 result,comment = lark_file.lark_cloud_downloader(obj)
                 if result == 0:

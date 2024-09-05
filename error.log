@@ -2201,3 +2201,323 @@
 {"name": "深圳工业展\\电子展-观展学习", "token": "doxcnCYsFWfokfYFOXvUtpw9DAh", "type": "docx", "ticket": "7402860573832167426", "file_token": null}
 {"name": "安雅思-8D报告", "token": "doxcnZS2m5vye7IXA99vD2082Me", "type": "docx", "ticket": "7402860999596507138", "file_token": null}
 {"name": "交付现状描述", "token": "doccnIDwpNw2S8n54KRRkNWliHg", "type": "doc", "ticket": "7402861653257109532", "file_token": null}
+{"name": "Domain Knowledge + Workflow", "token": "RuNcdNu1ZoudoAxn8FQcv6bln3d", "type": "docx", "ticket": "7408369585474437148", "file_token": null}
+2024-08-29 09:37:42,227 ERROR Failed to download item: Domain Knowledge + Workflow (docx), token: RuNcdNu1ZoudoAxn8FQcv6bln3d
+{"name": "知识工厂任务规划", "token": "ALNndXR8BombhAxC3BIc47e0nBe", "type": "docx", "ticket": "7408370167108698113", "file_token": null}
+2024-08-29 09:39:57,656 ERROR Failed to download item: \u77e5\u8bc6\u5de5\u5382\u4efb\u52a1\u89c4\u5212 (docx), token: ALNndXR8BombhAxC3BIc47e0nBe
+{"name": "FY 2024 Q2 Review - Knowledge Factory", "token": "UJBldb4oqolKinx8o0KcEREknyb", "type": "docx", "ticket": "7408370578941542401", "file_token": null}
+2024-08-29 09:41:33,551 ERROR Failed to download item: FY 2024 Q2 Review - Knowledge Factory (docx), token: UJBldb4oqolKinx8o0KcEREknyb
+{"name": "05-22 信息同步 重新规划", "token": "PIWUdV0cooU7kTxoOT8cxxdin0Z", "type": "docx", "ticket": "7408370585719455745", "file_token": null}
+2024-08-29 09:41:35,108 ERROR Failed to download item: 05-22 \u4fe1\u606f\u540c\u6b65 \u91cd\u65b0\u89c4\u5212 (docx), token: PIWUdV0cooU7kTxoOT8cxxdin0Z
+{"name": "05-22知识中心MVP功能细节", "token": "OKZndDGw7oWYmVxWadOc7aFWnDg", "type": "docx", "ticket": "7408370592480854018", "file_token": null}
+2024-08-29 09:41:36,683 ERROR Failed to download item: 05-22\u77e5\u8bc6\u4e2d\u5fc3MVP\u529f\u80fd\u7ec6\u8282 (docx), token: OKZndDGw7oWYmVxWadOc7aFWnDg
+{"name": "05-21知识中心MVP需求", "token": "II8JdhYvCom7dQxMcKdcMIF1n3g", "type": "docx", "ticket": "7408371999057444892", "file_token": null}
+2024-08-29 09:47:04,119 ERROR Failed to download item: 05-21\u77e5\u8bc6\u4e2d\u5fc3MVP\u9700\u6c42 (docx), token: II8JdhYvCom7dQxMcKdcMIF1n3g
+{"name": "05-16知识建设和管理方案", "token": "U6etdvehUo7QVUx8XSnc7Xafn9b", "type": "docx", "ticket": "7408372005501992962", "file_token": null}
+2024-08-29 09:47:05,720 ERROR Failed to download item: 05-16\u77e5\u8bc6\u5efa\u8bbe\u548c\u7ba1\u7406\u65b9\u6848 (docx), token: U6etdvehUo7QVUx8XSnc7Xafn9b
+{"name": "07-02 知识整体规划", "token": "R780d6fJ5oeUpuxfv9lcIbISnbf", "type": "docx", "ticket": "7408372088123703297", "file_token": null}
+2024-08-29 09:47:24,838 ERROR Failed to download item: 07-02 \u77e5\u8bc6\u6574\u4f53\u89c4\u5212 (docx), token: R780d6fJ5oeUpuxfv9lcIbISnbf
+{"name": "07-02 知识整体规划", "token": "R780d6fJ5oeUpuxfv9lcIbISnbf", "type": "docx", "ticket": "7408372148714356737", "file_token": null}
+2024-08-29 09:47:39,309 ERROR Failed to download item: 07-02 \u77e5\u8bc6\u6574\u4f53\u89c4\u5212 (docx), token: R780d6fJ5oeUpuxfv9lcIbISnbf
+{"name": "FY 2024 Q2 Review - Knowledge Factory", "token": "UJBldb4oqolKinx8o0KcEREknyb", "type": "docx", "ticket": "7408372261868306460", "file_token": null}
+2024-08-29 09:48:05,298 ERROR Failed to download item: FY 2024 Q2 Review - Knowledge Factory (docx), token: UJBldb4oqolKinx8o0KcEREknyb
+{"name": "05-22知识中心MVP功能细节", "token": "OKZndDGw7oWYmVxWadOc7aFWnDg", "type": "docx", "ticket": "7408372307439599618", "file_token": null}
+2024-08-29 09:48:15,932 ERROR Failed to download item: 05-22\u77e5\u8bc6\u4e2d\u5fc3MVP\u529f\u80fd\u7ec6\u8282 (docx), token: OKZndDGw7oWYmVxWadOc7aFWnDg
+{"name": "05-21知识中心MVP需求", "token": "II8JdhYvCom7dQxMcKdcMIF1n3g", "type": "docx", "ticket": "7408372314257063937", "file_token": null}
+2024-08-29 09:48:17,539 ERROR Failed to download item: 05-21\u77e5\u8bc6\u4e2d\u5fc3MVP\u9700\u6c42 (docx), token: II8JdhYvCom7dQxMcKdcMIF1n3g
+{"name": "05-16知识建设和管理方案", "token": "U6etdvehUo7QVUx8XSnc7Xafn9b", "type": "docx", "ticket": "7408372320517242881", "file_token": null}
+2024-08-29 09:48:18,969 ERROR Failed to download item: 05-16\u77e5\u8bc6\u5efa\u8bbe\u548c\u7ba1\u7406\u65b9\u6848 (docx), token: U6etdvehUo7QVUx8XSnc7Xafn9b
+{"name": "Knowledge Factory & Other Team", "token": "XqhYdR1zzoFtPCxIBizcgRiGnPd", "type": "docx", "ticket": "7408384423650918402", "file_token": null}
+2024-08-29 10:35:17,044 ERROR Failed to download item: Knowledge Factory & Other Team (docx), token: XqhYdR1zzoFtPCxIBizcgRiGnPd
+{"name": "05-22 信息同步 重新规划", "token": "PIWUdV0cooU7kTxoOT8cxxdin0Z", "type": "docx", "ticket": "7408384641818230812", "file_token": null}
+2024-08-29 10:36:07,843 ERROR Failed to download item: 05-22 \u4fe1\u606f\u540c\u6b65 \u91cd\u65b0\u89c4\u5212 (docx), token: PIWUdV0cooU7kTxoOT8cxxdin0Z
+{"name": "07-02 知识整体规划", "token": "R780d6fJ5oeUpuxfv9lcIbISnbf", "type": "docx", "ticket": "7408384732131115009", "file_token": null}
+2024-08-29 10:36:28,911 ERROR Failed to download item: 07-02 \u77e5\u8bc6\u6574\u4f53\u89c4\u5212 (docx), token: R780d6fJ5oeUpuxfv9lcIbISnbf
+{"name": "07-02 知识整体规划", "token": "R780d6fJ5oeUpuxfv9lcIbISnbf", "type": "docx", "ticket": "7408384800345833500", "file_token": null}
+2024-08-29 10:36:44,724 ERROR Failed to download item: 07-02 \u77e5\u8bc6\u6574\u4f53\u89c4\u5212 (docx), token: R780d6fJ5oeUpuxfv9lcIbISnbf
+{"name": "Usecases", "token": "BKkdb2RhJaYwlxs6hsbcfAQAndh", "type": "bitable", "ticket": "7408384837645582364", "file_token": null}
+2024-08-29 10:36:53,444 ERROR Failed to download item: Usecases (bitable), token: BKkdb2RhJaYwlxs6hsbcfAQAndh
+{"name": "BSC Review I2 Knowledge Factory Q3", "token": "IYBTbfSYcaewNQsiHU0cZkEcnWb", "type": "bitable", "ticket": "7408384910035681282", "file_token": null}
+2024-08-29 10:37:10,284 ERROR Failed to download item: BSC Review I2 Knowledge Factory Q3 (bitable), token: IYBTbfSYcaewNQsiHU0cZkEcnWb
+{"name": "知识工作规划", "token": "F2hdd4Km7oqpRYxmclfc1601nZd", "type": "docx", "ticket": "7408384953160957980", "file_token": null}
+2024-08-29 10:37:20,267 ERROR Failed to download item: \u77e5\u8bc6\u5de5\u4f5c\u89c4\u5212 (docx), token: F2hdd4Km7oqpRYxmclfc1601nZd
+{"name": "销售KG建设", "token": "TzASdxPyYoOs0jxL3OdcnU9wnPh", "type": "docx", "ticket": "7408384963975806978", "file_token": null}
+2024-08-29 10:37:22,812 ERROR Failed to download item: \u9500\u552eKG\u5efa\u8bbe (docx), token: TzASdxPyYoOs0jxL3OdcnU9wnPh
+{"name": "DC方案 内部集中收集", "token": "XUUvdGvJhoJlGux9f2XcfxQ2n4d", "type": "docx", "ticket": "7408385066495721500", "file_token": null}
+2024-08-29 10:37:46,722 ERROR Failed to download item: DC\u65b9\u6848 \u5185\u90e8\u96c6\u4e2d\u6536\u96c6 (docx), token: XUUvdGvJhoJlGux9f2XcfxQ2n4d
+{"name": "提高菜鸟的产出质量", "token": "JQlZdmSnwodicJxNKvBcP83Rnfg", "type": "docx", "ticket": "7408385100276662300", "file_token": null}
+2024-08-29 10:37:54,566 ERROR Failed to download item: \u63d0\u9ad8\u83dc\u9e1f\u7684\u4ea7\u51fa\u8d28\u91cf (docx), token: JQlZdmSnwodicJxNKvBcP83Rnfg
+{"name": "场景汇总", "token": "D9C0brR1EaL1wNs9Rdvc8moAnAg", "type": "bitable", "ticket": "7408385136264642562", "file_token": null}
+2024-08-29 10:38:02,975 ERROR Failed to download item: \u573a\u666f\u6c47\u603b (bitable), token: D9C0brR1EaL1wNs9Rdvc8moAnAg
+{"name": "Application Scenarios & Solutions Collection", "token": "O1ixbOcU5auaQls94FlcS3YUnMb", "type": "bitable", "ticket": "7408385142983294977", "file_token": null}
+2024-08-29 10:38:04,489 ERROR Failed to download item: Application Scenarios & Solutions Collection (bitable), token: O1ixbOcU5auaQls94FlcS3YUnMb
+{"name": "场景方案收集要点", "token": "Cb2ndHdhGorIWvxkrFmcn5r7nBg", "type": "docx", "ticket": "7408385175707811842", "file_token": null}
+2024-08-29 10:38:12,195 ERROR Failed to download item: \u573a\u666f\u65b9\u6848\u6536\u96c6\u8981\u70b9 (docx), token: Cb2ndHdhGorIWvxkrFmcn5r7nBg
+{"name": "知识工厂任务规划", "token": "ALNndXR8BombhAxC3BIc47e0nBe", "type": "docx", "ticket": "7408404048640704514", "file_token": null}
+2024-08-29 11:51:24,331 ERROR Failed to download item: \u77e5\u8bc6\u5de5\u5382\u4efb\u52a1\u89c4\u5212 (docx), token: ALNndXR8BombhAxC3BIc47e0nBe
+{"name": "FY 2024 Q2 Review - Knowledge Factory", "token": "UJBldb4oqolKinx8o0KcEREknyb", "type": "docx", "ticket": "7408404210448285724", "file_token": null}
+2024-08-29 11:52:01,991 ERROR Failed to download item: FY 2024 Q2 Review - Knowledge Factory (docx), token: UJBldb4oqolKinx8o0KcEREknyb
+{"name": "05-22 信息同步 重新规划", "token": "PIWUdV0cooU7kTxoOT8cxxdin0Z", "type": "docx", "ticket": "7408404220465053697", "file_token": null}
+2024-08-29 11:52:04,326 ERROR Failed to download item: 05-22 \u4fe1\u606f\u540c\u6b65 \u91cd\u65b0\u89c4\u5212 (docx), token: PIWUdV0cooU7kTxoOT8cxxdin0Z
+{"name": "05-22知识中心MVP功能细节", "token": "OKZndDGw7oWYmVxWadOc7aFWnDg", "type": "docx", "ticket": "7408404230494355484", "file_token": null}
+2024-08-29 11:52:06,677 ERROR Failed to download item: 05-22\u77e5\u8bc6\u4e2d\u5fc3MVP\u529f\u80fd\u7ec6\u8282 (docx), token: OKZndDGw7oWYmVxWadOc7aFWnDg
+{"name": "05-21知识中心MVP需求", "token": "II8JdhYvCom7dQxMcKdcMIF1n3g", "type": "docx", "ticket": "7408404240772825089", "file_token": null}
+2024-08-29 11:52:09,066 ERROR Failed to download item: 05-21\u77e5\u8bc6\u4e2d\u5fc3MVP\u9700\u6c42 (docx), token: II8JdhYvCom7dQxMcKdcMIF1n3g
+{"name": "07-02 知识整体规划", "token": "R780d6fJ5oeUpuxfv9lcIbISnbf", "type": "docx", "ticket": "7408404369357635586", "file_token": null}
+2024-08-29 11:52:39,078 ERROR Failed to download item: 07-02 \u77e5\u8bc6\u6574\u4f53\u89c4\u5212 (docx), token: R780d6fJ5oeUpuxfv9lcIbISnbf
+{"name": "Usecases", "token": "BKkdb2RhJaYwlxs6hsbcfAQAndh", "type": "bitable", "ticket": "7408404412651847681", "file_token": null}
+2024-08-29 11:52:49,103 ERROR Failed to download item: Usecases (bitable), token: BKkdb2RhJaYwlxs6hsbcfAQAndh
+{"name": "BSC Review I2 Knowledge Factory Q3", "token": "IYBTbfSYcaewNQsiHU0cZkEcnWb", "type": "bitable", "ticket": "7408404424965931036", "file_token": null}
+2024-08-29 11:52:51,972 ERROR Failed to download item: BSC Review I2 Knowledge Factory Q3 (bitable), token: IYBTbfSYcaewNQsiHU0cZkEcnWb
+{"name": "知识工作规划", "token": "F2hdd4Km7oqpRYxmclfc1601nZd", "type": "docx", "ticket": "7408404468963737601", "file_token": null}
+2024-08-29 11:53:02,336 ERROR Failed to download item: \u77e5\u8bc6\u5de5\u4f5c\u89c4\u5212 (docx), token: F2hdd4Km7oqpRYxmclfc1601nZd
+{"name": "销售KG建设", "token": "TzASdxPyYoOs0jxL3OdcnU9wnPh", "type": "docx", "ticket": "7408404479512510466", "file_token": null}
+2024-08-29 11:53:04,679 ERROR Failed to download item: \u9500\u552eKG\u5efa\u8bbe (docx), token: TzASdxPyYoOs0jxL3OdcnU9wnPh
+{"name": "DC方案 内部集中收集", "token": "XUUvdGvJhoJlGux9f2XcfxQ2n4d", "type": "docx", "ticket": "7408404583443152898", "file_token": null}
+2024-08-29 11:53:28,837 ERROR Failed to download item: DC\u65b9\u6848 \u5185\u90e8\u96c6\u4e2d\u6536\u96c6 (docx), token: XUUvdGvJhoJlGux9f2XcfxQ2n4d
+{"name": "提高菜鸟的产出质量", "token": "JQlZdmSnwodicJxNKvBcP83Rnfg", "type": "docx", "ticket": "7408404620890177537", "file_token": null}
+2024-08-29 11:53:37,556 ERROR Failed to download item: \u63d0\u9ad8\u83dc\u9e1f\u7684\u4ea7\u51fa\u8d28\u91cf (docx), token: JQlZdmSnwodicJxNKvBcP83Rnfg
+{"name": "场景汇总", "token": "D9C0brR1EaL1wNs9Rdvc8moAnAg", "type": "bitable", "ticket": "7408404661121941532", "file_token": null}
+2024-08-29 11:53:46,957 ERROR Failed to download item: \u573a\u666f\u6c47\u603b (bitable), token: D9C0brR1EaL1wNs9Rdvc8moAnAg
+{"name": "Application Scenarios & Solutions Collection", "token": "O1ixbOcU5auaQls94FlcS3YUnMb", "type": "bitable", "ticket": "7408404669934436380", "file_token": null}
+2024-08-29 11:53:49,046 ERROR Failed to download item: Application Scenarios & Solutions Collection (bitable), token: O1ixbOcU5auaQls94FlcS3YUnMb
+{"name": "场景方案收集要点", "token": "Cb2ndHdhGorIWvxkrFmcn5r7nBg", "type": "docx", "ticket": "7408404707351707649", "file_token": null}
+2024-08-29 11:53:57,702 ERROR Failed to download item: \u573a\u666f\u65b9\u6848\u6536\u96c6\u8981\u70b9 (docx), token: Cb2ndHdhGorIWvxkrFmcn5r7nBg
+{"name": "Motion G CRM for IA 🎯 副本", "token": "Lwt6b0UamaCas9sldwocEXcGnhQ", "type": "bitable", "ticket": "7408404784556343298", "file_token": null}
+2024-08-29 11:54:15,627 ERROR Failed to download item: Motion G CRM for IA \U0001f3af \u526f\u672c (bitable), token: Lwt6b0UamaCas9sldwocEXcGnhQ
+{"name": "场景与方案汇总 已清洗", "token": "Iy1mbqPwXapRscsSNQdc2Gyhnlf", "type": "bitable", "ticket": "7408404826289405980", "file_token": null}
+2024-08-29 11:54:25,463 ERROR Failed to download item: \u573a\u666f\u4e0e\u65b9\u6848\u6c47\u603b \u5df2\u6e05\u6d17 (bitable), token: Iy1mbqPwXapRscsSNQdc2Gyhnlf
+{"name": "问题示例", "token": "THBadHBWqoJ2Unx3kJocF6Iqnog", "type": "docx", "ticket": "7408404840474263554", "file_token": null}
+2024-08-29 11:54:28,760 ERROR Failed to download item: \u95ee\u9898\u793a\u4f8b (docx), token: THBadHBWqoJ2Unx3kJocF6Iqnog
+{"name": "飞书文档和知识库下载脚本", "token": "RtWHdcbPhocD8WxTanfc2UZtnfg", "type": "docx", "ticket": "7408404882065014812", "file_token": null}
+2024-08-29 11:54:38,363 ERROR Failed to download item: \u98de\u4e66\u6587\u6863\u548c\u77e5\u8bc6\u5e93\u4e0b\u8f7d\u811a\u672c (docx), token: RtWHdcbPhocD8WxTanfc2UZtnfg
+{"name": "nodes", "token": "RWWHbsYwnaIjpmsx6gAclpuEnFe", "type": "bitable", "ticket": "7408405002781966337", "file_token": null}
+2024-08-29 11:55:06,450 ERROR Failed to download item: nodes (bitable), token: RWWHbsYwnaIjpmsx6gAclpuEnFe
+{"name": "cloud_drive_files part1", "token": "Ua9Ab5EueaQOO9sdPM3caMLNnEc", "type": "bitable", "ticket": "7408405013775106049", "file_token": null}
+2024-08-29 11:55:09,039 ERROR Failed to download item: cloud_drive_files part1 (bitable), token: Ua9Ab5EueaQOO9sdPM3caMLNnEc
+{"name": "cloud_drive_files part2", "token": "WUXwbhD1jaCiwhseBWCcDzpznCe", "type": "bitable", "ticket": "7408405023862603804", "file_token": null}
+2024-08-29 11:55:11,598 ERROR Failed to download item: cloud_drive_files part2 (bitable), token: WUXwbhD1jaCiwhseBWCcDzpznCe
+{"name": "“我的文档库”文档转出说明", "token": "KEQydaV1poGBBLxS3ZacUTiLnIf", "type": "docx", "ticket": "7408405034155130882", "file_token": null}
+2024-08-29 11:55:14,065 ERROR Failed to download item: �\u6211\u7684\u6587\u6863\u5e93�\u6587\u6863\u8f6c\u51fa\u8bf4\u660e (docx), token: KEQydaV1poGBBLxS3ZacUTiLnIf
+{"name": "飞书云盘文档整理session", "token": "AzezdU4e2oCNh1xExYwcbCiHn8f", "type": "docx", "ticket": "7408405044071874561", "file_token": null}
+2024-08-29 11:55:16,190 ERROR Failed to download item: \u98de\u4e66\u4e91\u76d8\u6587\u6863\u6574\u7406session (docx), token: AzezdU4e2oCNh1xExYwcbCiHn8f
+{"name": "人员集中整理安排 副本", "token": "RgCsdot9uo0W09xrOIic1V0Gnjf", "type": "docx", "ticket": "7408405052922986524", "file_token": null}
+2024-08-29 11:55:18,205 ERROR Failed to download item: \u4eba\u5458\u96c6\u4e2d\u6574\u7406\u5b89\u6392 \u526f\u672c (docx), token: RgCsdot9uo0W09xrOIic1V0Gnjf
+{"name": "文档集中整理 分组安排", "token": "OqVKdxokKolwH2xHU2JcbMCvnVc", "type": "docx", "ticket": "7408405062357401628", "file_token": null}
+2024-08-29 11:55:20,368 ERROR Failed to download item: \u6587\u6863\u96c6\u4e2d\u6574\u7406 \u5206\u7ec4\u5b89\u6392 (docx), token: OqVKdxokKolwH2xHU2JcbMCvnVc
+{"name": "飞书云盘整理说明", "token": "MyVNdaFg9or1q0xuMHGcNyhbnMc", "type": "docx", "ticket": "7408405070817296386", "file_token": null}
+2024-08-29 11:55:22,328 ERROR Failed to download item: \u98de\u4e66\u4e91\u76d8\u6574\u7406\u8bf4\u660e (docx), token: MyVNdaFg9or1q0xuMHGcNyhbnMc
+{"name": "整理结果记录", "token": "DRpMbQUnDaTFV9s90oKc2146ndb", "type": "bitable", "ticket": "7408405078845145089", "file_token": null}
+2024-08-29 11:55:24,232 ERROR Failed to download item: \u6574\u7406\u7ed3\u679c\u8bb0\u5f55 (bitable), token: DRpMbQUnDaTFV9s90oKc2146ndb
+{"name": "飞书群加机器人教程", "token": "OIZmdaBleoxIV5xhSD4ckyrWnmg", "type": "docx", "ticket": "7408405134121680924", "file_token": null}
+2024-08-29 11:55:37,321 ERROR Failed to download item: \u98de\u4e66\u7fa4\u52a0\u673a\u5668\u4eba\u6559\u7a0b (docx), token: OIZmdaBleoxIV5xhSD4ckyrWnmg
+{"name": "销售信息 数据模型", "token": "FsmIdaZLNohOagx0yLVcniFNnbb", "type": "docx", "ticket": "7408405237762949121", "file_token": null}
+2024-08-29 11:56:01,263 ERROR Failed to download item: \u9500\u552e\u4fe1\u606f \u6570\u636e\u6a21\u578b (docx), token: FsmIdaZLNohOagx0yLVcniFNnbb
+{"name": "扩展搜索商机记录", "token": "RqVedVybno3LfOxsQDNcBTH6nJh", "type": "docx", "ticket": "7408405326615363585", "file_token": null}
+2024-08-29 11:56:21,875 ERROR Failed to download item: \u6269\u5c55\u641c\u7d22\u5546\u673a\u8bb0\u5f55 (docx), token: RqVedVybno3LfOxsQDNcBTH6nJh
+{"name": "商机搜索流程", "token": "FAkbdq3uBoAEEbxjQWXc2ZJEnPf", "type": "docx", "ticket": "7408405377253179394", "file_token": null}
+2024-08-29 11:56:33,696 ERROR Failed to download item: \u5546\u673a\u641c\u7d22\u6d41\u7a0b (docx), token: FAkbdq3uBoAEEbxjQWXc2ZJEnPf
+{"name": "The question answer board", "token": "M4mWdQKkyoOV7TxwQffcXRkgnbf", "type": "docx", "ticket": "7408405388741558274", "file_token": null}
+2024-08-29 11:56:36,358 ERROR Failed to download item: The question answer board (docx), token: M4mWdQKkyoOV7TxwQffcXRkgnbf
+{"name": "Obtain and save data", "token": "UiLqdQ5D1oMHmBxPCemcq0HinAc", "type": "docx", "ticket": "7408405398372630529", "file_token": null}
+2024-08-29 11:56:38,625 ERROR Failed to download item: Obtain and save data (docx), token: UiLqdQ5D1oMHmBxPCemcq0HinAc
+{"name": "会议记录", "token": "BZrTdwZTmo5FcExT8EGcwXofnic", "type": "docx", "ticket": "7408405485978042370", "file_token": null}
+2024-08-29 11:56:59,033 ERROR Failed to download item: \u4f1a\u8bae\u8bb0\u5f55 (docx), token: BZrTdwZTmo5FcExT8EGcwXofnic
+{"name": "内部知识收集和管理", "token": "RMuwd1iHnoFsHXx1o6ocfsJHnR9", "type": "docx", "ticket": "7408405495490347010", "file_token": null}
+2024-08-29 11:57:01,270 ERROR Failed to download item: \u5185\u90e8\u77e5\u8bc6\u6536\u96c6\u548c\u7ba1\u7406 (docx), token: RMuwd1iHnoFsHXx1o6ocfsJHnR9
+{"name": "公开信息收集资源清单", "token": "ZvmGbWz8ZanYkUs3L0fczXronnR", "type": "bitable", "ticket": "7408405505263140865", "file_token": null}
+2024-08-29 11:57:03,536 ERROR Failed to download item: \u516c\u5f00\u4fe1\u606f\u6536\u96c6\u8d44\u6e90\u6e05\u5355 (bitable), token: ZvmGbWz8ZanYkUs3L0fczXronnR
+{"name": "智能爬虫", "token": "SqeRdKUbUotYNSxKoVIcVzDrnHd", "type": "docx", "ticket": "7408405542995001372", "file_token": null}
+2024-08-29 11:57:12,255 ERROR Failed to download item: \u667a\u80fd\u722c\u866b (docx), token: SqeRdKUbUotYNSxKoVIcVzDrnHd
+{"name": "数据服务商汇总", "token": "RdM5s98bzhV4fpteotkc0roungf", "type": "sheet", "ticket": "7408405552587407388", "file_token": null}
+2024-08-29 11:57:14,508 ERROR Failed to download item: \u6570\u636e\u670d\u52a1\u5546\u6c47\u603b (sheet), token: RdM5s98bzhV4fpteotkc0roungf
+{"name": "workflow节点工具", "token": "JgJIdeYf2ophBlx80kHcxJdznVd", "type": "docx", "ticket": "7408405561937051676", "file_token": null}
+2024-08-29 11:57:16,693 ERROR Failed to download item: workflow\u8282\u70b9\u5de5\u5177 (docx), token: JgJIdeYf2ophBlx80kHcxJdznVd
+{"name": "MongoDB使用说明", "token": "Ay8Md87e4oc5ZAxpVWscQV2snFc", "type": "docx", "ticket": "7408405636419256321", "file_token": null}
+2024-08-29 11:57:34,041 ERROR Failed to download item: MongoDB\u4f7f\u7528\u8bf4\u660e (docx), token: Ay8Md87e4oc5ZAxpVWscQV2snFc
+{"name": "知识BSC", "token": "T0yCdWKk9oeRLIxyr0qcVsVunZe", "type": "docx", "ticket": "7408405648230301698", "file_token": null}
+2024-08-29 11:57:36,776 ERROR Failed to download item: \u77e5\u8bc6BSC (docx), token: T0yCdWKk9oeRLIxyr0qcVsVunZe
+{"name": "BSC目标估算", "token": "GnIudGpAYoMXfexQzWHcqHDyncf", "type": "docx", "ticket": "7408405657122308097", "file_token": null}
+2024-08-29 11:57:38,985 ERROR Failed to download item: BSC\u76ee\u6807\u4f30\u7b97 (docx), token: GnIudGpAYoMXfexQzWHcqHDyncf
+{"name": "知识收集进度汇报2400226", "token": "WTgod6gBNo5s8gxLPiacCnHAnye", "type": "docx", "ticket": "7408405790673207297", "file_token": null}
+2024-08-29 11:58:09,875 ERROR Failed to download item: \u77e5\u8bc6\u6536\u96c6\u8fdb\u5ea6\u6c47\u62a52400226 (docx), token: WTgod6gBNo5s8gxLPiacCnHAnye
+{"name": "知识收集进度汇报240219", "token": "VAexdaV5zobu9QxvKkCc7UsOnBe", "type": "docx", "ticket": "7408405799166492674", "file_token": null}
+2024-08-29 11:58:11,951 ERROR Failed to download item: \u77e5\u8bc6\u6536\u96c6\u8fdb\u5ea6\u6c47\u62a5240219 (docx), token: VAexdaV5zobu9QxvKkCc7UsOnBe
+{"name": "知识收集计划汇报240109", "token": "Ofywdi7cmoMyuCxNrTxcZ2Sunsg", "type": "docx", "ticket": "7408405809358028802", "file_token": null}
+2024-08-29 11:58:14,321 ERROR Failed to download item: \u77e5\u8bc6\u6536\u96c6\u8ba1\u5212\u6c47\u62a5240109 (docx), token: Ofywdi7cmoMyuCxNrTxcZ2Sunsg
+{"name": "BSC Review I2.2 工程领域公开信息或知识收集", "token": "UyNib8DMNas7QaspZslcn1BMngb", "type": "bitable", "ticket": "7408405878871031836", "file_token": null}
+2024-08-29 11:58:30,507 ERROR Failed to download item: BSC Review I2.2 \u5de5\u7a0b\u9886\u57df\u516c\u5f00\u4fe1\u606f\u6216\u77e5\u8bc6\u6536\u96c6 (bitable), token: UyNib8DMNas7QaspZslcn1BMngb
+{"name": "知识分类定义", "token": "CpVqbB0NKaeJxrs7BuTcLzjLn4b", "type": "bitable", "ticket": "7408405888589496322", "file_token": null}
+2024-08-29 11:58:32,779 ERROR Failed to download item: \u77e5\u8bc6\u5206\u7c7b\u5b9a\u4e49 (bitable), token: CpVqbB0NKaeJxrs7BuTcLzjLn4b
+{"name": "内部知识统计汇总V1.0", "token": "QUUgbI7v8a47oRslHoXczRBEn5e", "type": "bitable", "ticket": "7408405932877791234", "file_token": null}
+2024-08-29 11:58:43,112 ERROR Failed to download item: \u5185\u90e8\u77e5\u8bc6\u7edf\u8ba1\u6c47\u603bV1.0 (bitable), token: QUUgbI7v8a47oRslHoXczRBEn5e
+{"name": "微信群聊天记录导出方法", "token": "YnQNdoah0oOOF8x6R5KcxfdJnxG", "type": "docx", "ticket": "7408406064553672706", "file_token": null}
+2024-08-29 11:59:13,643 ERROR Failed to download item: \u5fae\u4fe1\u7fa4\u804a\u5929\u8bb0\u5f55\u5bfc\u51fa\u65b9\u6cd5 (docx), token: YnQNdoah0oOOF8x6R5KcxfdJnxG
+{"name": "微信bot机器人", "token": "VxzHdTASNo9wJ4xfL3vcLsjInUc", "type": "docx", "ticket": "7408406073341739036", "file_token": null}
+2024-08-29 11:59:15,730 ERROR Failed to download item: \u5fae\u4fe1bot\u673a\u5668\u4eba (docx), token: VxzHdTASNo9wJ4xfL3vcLsjInUc
+{"name": "微信机器人v1.0上线讨论", "token": "Wf7Xdd9q5o4Jdpxu2Skcnghonrc", "type": "docx", "ticket": "7408406081729445890", "file_token": null}
+2024-08-29 11:59:17,699 ERROR Failed to download item: \u5fae\u4fe1\u673a\u5668\u4ebav1.0\u4e0a\u7ebf\u8ba8\u8bba (docx), token: Wf7Xdd9q5o4Jdpxu2Skcnghonrc
+{"name": "国民经济行业分类带注释", "token": "HvJObS98oa4mLSsEjUGcAk4EnfN", "type": "bitable", "ticket": "7408406202545487874", "file_token": null}
+2024-08-29 11:59:45,770 ERROR Failed to download item: \u56fd\u6c11\u7ecf\u6d4e\u884c\u4e1a\u5206\u7c7b\u5e26\u6ce8\u91ca (bitable), token: HvJObS98oa4mLSsEjUGcAk4EnfN
+{"name": "机械设计图册（2000版）内容目录", "token": "G8zodwv9ioSqNMxVXnAckVUKnDc", "type": "docx", "ticket": "7408406212347166722", "file_token": null}
+2024-08-29 11:59:48,139 ERROR Failed to download item: \u673a\u68b0\u8bbe\u8ba1\u56fe\u518c\uff082000\u7248\uff09\u5185\u5bb9\u76ee\u5f55 (docx), token: G8zodwv9ioSqNMxVXnAckVUKnDc
+{"name": "工程科技数字图书馆内容", "token": "QrpmdiVkeowkRlxeZiBctcCRncc", "type": "docx", "ticket": "7408406222258552834", "file_token": null}
+2024-08-29 11:59:50,414 ERROR Failed to download item: \u5de5\u7a0b\u79d1\u6280\u6570\u5b57\u56fe\u4e66\u9986\u5185\u5bb9 (docx), token: QrpmdiVkeowkRlxeZiBctcCRncc
+{"name": "今日制造内容目录", "token": "DaycdHigbo3GT0x8B1IcLjW8nyh", "type": "docx", "ticket": "7408406233421594625", "file_token": null}
+2024-08-29 11:59:52,969 ERROR Failed to download item: \u4eca\u65e5\u5236\u9020\u5185\u5bb9\u76ee\u5f55 (docx), token: DaycdHigbo3GT0x8B1IcLjW8nyh
+{"name": "51技能培训淘宝店内容", "token": "QTJPd6iyvohznIxAK5ucGY2DnTg", "type": "docx", "ticket": "7408406242361622530", "file_token": null}
+2024-08-29 11:59:55,120 ERROR Failed to download item: 51\u6280\u80fd\u57f9\u8bad\u6dd8\u5b9d\u5e97\u5185\u5bb9 (docx), token: QTJPd6iyvohznIxAK5ucGY2DnTg
+{"name": "知识子目录", "token": "YiYsd0isxosxW9xxHMycyAJpnZd", "type": "docx", "ticket": "7408406278384762908", "file_token": null}
+2024-08-29 12:00:03,929 ERROR Failed to download item: \u77e5\u8bc6\u5b50\u76ee\u5f55 (docx), token: YiYsd0isxosxW9xxHMycyAJpnZd
+{"name": "PartQuest采集说明", "token": "UokadEXl6olELLxnG53cluNNnIh", "type": "docx", "ticket": "7408406289413914625", "file_token": null}
+2024-08-29 12:00:06,043 ERROR Failed to download item: PartQuest\u91c7\u96c6\u8bf4\u660e (docx), token: UokadEXl6olELLxnG53cluNNnIh
+{"name": "工程技术数字图书馆采集说明", "token": "T3gudGL5soPEDSxPSLWcQ9ennic", "type": "docx", "ticket": "7408406300705226753", "file_token": null}
+2024-08-29 12:00:08,687 ERROR Failed to download item: \u5de5\u7a0b\u6280\u672f\u6570\u5b57\u56fe\u4e66\u9986\u91c7\u96c6\u8bf4\u660e (docx), token: T3gudGL5soPEDSxPSLWcQ9ennic
+{"name": "工程师软件清单", "token": "Wvoxb6LpmajPd8sMOgwcx3kunwg", "type": "bitable", "ticket": "7408406370057338908", "file_token": null}
+2024-08-29 12:00:24,833 ERROR Failed to download item: \u5de5\u7a0b\u5e08\u8f6f\u4ef6\u6e05\u5355 (bitable), token: Wvoxb6LpmajPd8sMOgwcx3kunwg
+{"name": "工程科技数字图书馆", "token": "DyWRdCfPOoiHNFxCtHhcy1wdnoc", "type": "docx", "ticket": "7408406381375225858", "file_token": null}
+2024-08-29 12:00:27,440 ERROR Failed to download item: \u5de5\u7a0b\u79d1\u6280\u6570\u5b57\u56fe\u4e66\u9986 (docx), token: DyWRdCfPOoiHNFxCtHhcy1wdnoc
+{"name": "FY 2024 Q2 Review - Knowledge Factory", "token": "UJBldb4oqolKinx8o0KcEREknyb", "type": "docx", "ticket": "7408807570707775516", "file_token": null}
+2024-08-30 13:57:18,872 ERROR Failed to download item: FY 2024 Q2 Review - Knowledge Factory (docx), token: UJBldb4oqolKinx8o0KcEREknyb
+{"name": "DC方案 内部集中收集", "token": "XUUvdGvJhoJlGux9f2XcfxQ2n4d", "type": "docx", "ticket": "7408808547839393820", "file_token": null}
+2024-08-30 14:01:06,584 ERROR Failed to download item: DC\u65b9\u6848 \u5185\u90e8\u96c6\u4e2d\u6536\u96c6 (docx), token: XUUvdGvJhoJlGux9f2XcfxQ2n4d
+{"name": "场景方案收集要点", "token": "Cb2ndHdhGorIWvxkrFmcn5r7nBg", "type": "docx", "ticket": "7408808908025790492", "file_token": null}
+2024-08-30 14:02:30,391 ERROR Failed to download item: \u573a\u666f\u65b9\u6848\u6536\u96c6\u8981\u70b9 (docx), token: Cb2ndHdhGorIWvxkrFmcn5r7nBg
+{"name": "Motion G CRM for IA 🎯 副本", "token": "Lwt6b0UamaCas9sldwocEXcGnhQ", "type": "bitable", "ticket": "7408809035291901954", "file_token": null}
+2024-08-30 14:03:00,047 ERROR Failed to download item: Motion G CRM for IA \U0001f3af \u526f\u672c (bitable), token: Lwt6b0UamaCas9sldwocEXcGnhQ
+{"name": "场景与方案汇总 已清洗", "token": "Iy1mbqPwXapRscsSNQdc2Gyhnlf", "type": "bitable", "ticket": "7408809121206435841", "file_token": null}
+2024-08-30 14:03:19,895 ERROR Failed to download item: \u573a\u666f\u4e0e\u65b9\u6848\u6c47\u603b \u5df2\u6e05\u6d17 (bitable), token: Iy1mbqPwXapRscsSNQdc2Gyhnlf
+{"name": "nodes", "token": "RWWHbsYwnaIjpmsx6gAclpuEnFe", "type": "bitable", "ticket": "7408809493620097025", "file_token": null}
+2024-08-30 14:04:46,955 ERROR Failed to download item: nodes (bitable), token: RWWHbsYwnaIjpmsx6gAclpuEnFe
+{"name": "cloud_drive_files part1", "token": "Ua9Ab5EueaQOO9sdPM3caMLNnEc", "type": "bitable", "ticket": "7408809527245799426", "file_token": null}
+2024-08-30 14:04:54,534 ERROR Failed to download item: cloud_drive_files part1 (bitable), token: Ua9Ab5EueaQOO9sdPM3caMLNnEc
+{"name": "cloud_drive_files part2", "token": "WUXwbhD1jaCiwhseBWCcDzpznCe", "type": "bitable", "ticket": "7408809559172939777", "file_token": null}
+2024-08-30 14:05:01,907 ERROR Failed to download item: cloud_drive_files part2 (bitable), token: WUXwbhD1jaCiwhseBWCcDzpznCe
+{"name": "人员集中整理安排 副本", "token": "RgCsdot9uo0W09xrOIic1V0Gnjf", "type": "docx", "ticket": "7408809702035095554", "file_token": null}
+2024-08-30 14:05:35,193 ERROR Failed to download item: \u4eba\u5458\u96c6\u4e2d\u6574\u7406\u5b89\u6392 \u526f\u672c (docx), token: RgCsdot9uo0W09xrOIic1V0Gnjf
+{"name": "文档集中整理 分组安排", "token": "OqVKdxokKolwH2xHU2JcbMCvnVc", "type": "docx", "ticket": "7408809731122495516", "file_token": null}
+2024-08-30 14:05:42,032 ERROR Failed to download item: \u6587\u6863\u96c6\u4e2d\u6574\u7406 \u5206\u7ec4\u5b89\u6392 (docx), token: OqVKdxokKolwH2xHU2JcbMCvnVc
+{"name": "临时、过期", "token": "RlASdBHBhoEca5xGHz5cDjQqntC", "type": "docx", "ticket": "7408812189190045724", "file_token": null}
+2024-08-30 14:15:12,232 ERROR Failed to download item: \u4e34\u65f6\u3001\u8fc7\u671f (docx), token: RlASdBHBhoEca5xGHz5cDjQqntC
+{"name": "知识工厂任务规划", "token": "ALNndXR8BombhAxC3BIc47e0nBe", "type": "docx", "ticket": "7408812281696370689", "file_token": null}
+2024-08-30 14:15:33,729 ERROR Failed to download item: \u77e5\u8bc6\u5de5\u5382\u4efb\u52a1\u89c4\u5212 (docx), token: ALNndXR8BombhAxC3BIc47e0nBe
+{"name": "销售KG建设", "token": "TzASdxPyYoOs0jxL3OdcnU9wnPh", "type": "docx", "ticket": "7408816138192650268", "file_token": null}
+2024-08-30 14:30:31,698 ERROR Failed to download item: \u9500\u552eKG\u5efa\u8bbe (docx), token: TzASdxPyYoOs0jxL3OdcnU9wnPh
+{"name": "nodes", "token": "RWWHbsYwnaIjpmsx6gAclpuEnFe", "type": "bitable", "ticket": "7408817466954776604", "file_token": null}
+2024-08-30 14:35:41,053 ERROR Failed to download item: nodes (bitable), token: RWWHbsYwnaIjpmsx6gAclpuEnFe
+{"name": "cloud_drive_files part1", "token": "Ua9Ab5EueaQOO9sdPM3caMLNnEc", "type": "bitable", "ticket": "7408817481336504348", "file_token": null}
+2024-08-30 14:35:44,431 ERROR Failed to download item: cloud_drive_files part1 (bitable), token: Ua9Ab5EueaQOO9sdPM3caMLNnEc
+{"name": "cloud_drive_files part2", "token": "WUXwbhD1jaCiwhseBWCcDzpznCe", "type": "bitable", "ticket": "7408817492896186370", "file_token": null}
+2024-08-30 14:35:47,606 ERROR Failed to download item: cloud_drive_files part2 (bitable), token: WUXwbhD1jaCiwhseBWCcDzpznCe
+{"name": "nodes", "token": "RWWHbsYwnaIjpmsx6gAclpuEnFe", "type": "bitable", "ticket": "7408855729031561217", "file_token": null}
+2024-08-30 17:04:09,573 ERROR Failed to download item: nodes (bitable), token: RWWHbsYwnaIjpmsx6gAclpuEnFe
+{"name": "cloud_drive_files part1", "token": "Ua9Ab5EueaQOO9sdPM3caMLNnEc", "type": "bitable", "ticket": "7408855740154789889", "file_token": null}
+2024-08-30 17:04:12,167 ERROR Failed to download item: cloud_drive_files part1 (bitable), token: Ua9Ab5EueaQOO9sdPM3caMLNnEc
+{"name": "cloud_drive_files part2", "token": "WUXwbhD1jaCiwhseBWCcDzpznCe", "type": "bitable", "ticket": "7408855751234699266", "file_token": null}
+2024-08-30 17:04:14,712 ERROR Failed to download item: cloud_drive_files part2 (bitable), token: WUXwbhD1jaCiwhseBWCcDzpznCe
+{"name": "扩展搜索商机记录", "token": "RqVedVybno3LfOxsQDNcBTH6nJh", "type": "docx", "ticket": "7408855827353911324", "file_token": null}
+2024-08-30 17:04:32,451 ERROR Failed to download item: \u6269\u5c55\u641c\u7d22\u5546\u673a\u8bb0\u5f55 (docx), token: RqVedVybno3LfOxsQDNcBTH6nJh
+{"name": "商机搜索流程", "token": "FAkbdq3uBoAEEbxjQWXc2ZJEnPf", "type": "docx", "ticket": "7408855839351177244", "file_token": null}
+2024-08-30 17:04:35,556 ERROR Failed to download item: \u5546\u673a\u641c\u7d22\u6d41\u7a0b (docx), token: FAkbdq3uBoAEEbxjQWXc2ZJEnPf
+{"name": "The question answer board", "token": "M4mWdQKkyoOV7TxwQffcXRkgnbf", "type": "docx", "ticket": "7408855905164066844", "file_token": null}
+2024-08-30 17:04:50,753 ERROR Failed to download item: The question answer board (docx), token: M4mWdQKkyoOV7TxwQffcXRkgnbf
+{"name": "Obtain and save data", "token": "UiLqdQ5D1oMHmBxPCemcq0HinAc", "type": "docx", "ticket": "7408855918782808065", "file_token": null}
+2024-08-30 17:04:53,748 ERROR Failed to download item: Obtain and save data (docx), token: UiLqdQ5D1oMHmBxPCemcq0HinAc
+{"name": "数据库/采集程序/大模型 副本", "token": "A09rdpcihocLKqxwemccfjYenHf", "type": "docx", "ticket": "7408856380645654529", "file_token": null}
+2024-08-30 17:06:41,267 ERROR Failed to download item: \u6570\u636e\u5e93/\u91c7\u96c6\u7a0b\u5e8f/\u5927\u6a21\u578b \u526f\u672c (docx), token: A09rdpcihocLKqxwemccfjYenHf
+{"name": "销售信息 数据模型", "token": "FsmIdaZLNohOagx0yLVcniFNnbb", "type": "docx", "ticket": "7408856547862151169", "file_token": null}
+2024-08-30 17:07:20,218 ERROR Failed to download item: \u9500\u552e\u4fe1\u606f \u6570\u636e\u6a21\u578b (docx), token: FsmIdaZLNohOagx0yLVcniFNnbb
+{"name": "销售信息 数据模型", "token": "FsmIdaZLNohOagx0yLVcniFNnbb", "type": "docx", "ticket": "7408859852078809089", "file_token": null}
+2024-08-30 17:20:09,586 ERROR Failed to download item: \u9500\u552e\u4fe1\u606f \u6570\u636e\u6a21\u578b (docx), token: FsmIdaZLNohOagx0yLVcniFNnbb
+{"name": "销售信息 数据模型", "token": "FsmIdaZLNohOagx0yLVcniFNnbb", "type": "docx", "ticket": "7408860223158763522", "file_token": null}
+2024-08-30 17:21:35,961 ERROR Failed to download item: \u9500\u552e\u4fe1\u606f \u6570\u636e\u6a21\u578b (docx), token: FsmIdaZLNohOagx0yLVcniFNnbb
+{"name": "KG建设任务管理", "token": "L0p6bvpvkaoyzdsOroqc9cBxnvt", "type": "bitable", "ticket": "7408860600677875713", "file_token": null}
+2024-08-30 17:23:03,883 ERROR Failed to download item: KG\u5efa\u8bbe\u4efb\u52a1\u7ba1\u7406 (bitable), token: L0p6bvpvkaoyzdsOroqc9cBxnvt
+{"name": "KG建设任务管理", "token": "L0p6bvpvkaoyzdsOroqc9cBxnvt", "type": "bitable", "ticket": "7408860975422177282", "file_token": null}
+2024-08-30 17:24:31,096 ERROR Failed to download item: KG\u5efa\u8bbe\u4efb\u52a1\u7ba1\u7406 (bitable), token: L0p6bvpvkaoyzdsOroqc9cBxnvt
+{"name": "销售信息 数据模型", "token": "FsmIdaZLNohOagx0yLVcniFNnbb", "type": "docx", "ticket": "7408862141681418242", "file_token": null}
+2024-08-30 17:29:02,661 ERROR Failed to download item: \u9500\u552e\u4fe1\u606f \u6570\u636e\u6a21\u578b (docx), token: FsmIdaZLNohOagx0yLVcniFNnbb
+{"name": "销售信息 数据模型", "token": "FsmIdaZLNohOagx0yLVcniFNnbb", "type": "docx", "ticket": "7408862628136828956", "file_token": null}
+2024-08-30 17:30:55,921 ERROR Failed to download item: \u9500\u552e\u4fe1\u606f \u6570\u636e\u6a21\u578b (docx), token: FsmIdaZLNohOagx0yLVcniFNnbb
+{"name": "销售信息 数据模型", "token": "FsmIdaZLNohOagx0yLVcniFNnbb", "type": "docx", "ticket": "7408863090655854593", "file_token": null}
+2024-08-30 17:32:43,571 ERROR Failed to download item: \u9500\u552e\u4fe1\u606f \u6570\u636e\u6a21\u578b (docx), token: FsmIdaZLNohOagx0yLVcniFNnbb
+{"name": "销售信息 数据模型", "token": "FsmIdaZLNohOagx0yLVcniFNnbb", "type": "docx", "ticket": "7408863556663754753", "file_token": null}
+2024-08-30 17:34:32,123 ERROR Failed to download item: \u9500\u552e\u4fe1\u606f \u6570\u636e\u6a21\u578b (docx), token: FsmIdaZLNohOagx0yLVcniFNnbb
+{"name": "新松第一轮环境跑机报告", "token": "AT3LduvbUoupYwx7ZVWcDccDnXd", "type": "docx", "ticket": "7409868630206971932", "file_token": null}
+{"name": "新松第一轮环境跑机报告", "token": "AT3LduvbUoupYwx7ZVWcDccDnXd", "type": "docx", "ticket": "7409869809787256834", "file_token": null}
+{"name": "新松第一轮环境跑机报告", "token": "AT3LduvbUoupYwx7ZVWcDccDnXd", "type": "docx", "ticket": "7409870772196343809", "file_token": null}
+{"name": "性能调试专题详解", "token": "FCnWdpoWfoDXkCxJyrLc1eMmnWc", "type": "docx", "ticket": "7409870803397279746", "file_token": null}
+{"name": "nodes", "token": "RWWHbsYwnaIjpmsx6gAclpuEnFe", "type": "bitable", "ticket": "7409881554703024156", "file_token": null}
+2024-09-02 11:24:53,338 ERROR Failed to download item: nodes (bitable), token: RWWHbsYwnaIjpmsx6gAclpuEnFe
+{"name": "cloud_drive_files part1", "token": "Ua9Ab5EueaQOO9sdPM3caMLNnEc", "type": "bitable", "ticket": "7409881565725360156", "file_token": null}
+2024-09-02 11:24:55,768 ERROR Failed to download item: cloud_drive_files part1 (bitable), token: Ua9Ab5EueaQOO9sdPM3caMLNnEc
+{"name": "cloud_drive_files part2", "token": "WUXwbhD1jaCiwhseBWCcDzpznCe", "type": "bitable", "ticket": "7409881576009416732", "file_token": null}
+2024-09-02 11:24:58,235 ERROR Failed to download item: cloud_drive_files part2 (bitable), token: WUXwbhD1jaCiwhseBWCcDzpznCe
+{"name": "销售信息 数据模型", "token": "FsmIdaZLNohOagx0yLVcniFNnbb", "type": "docx", "ticket": "7409881621996666881", "file_token": null}
+2024-09-02 11:25:08,894 ERROR Failed to download item: \u9500\u552e\u4fe1\u606f \u6570\u636e\u6a21\u578b (docx), token: FsmIdaZLNohOagx0yLVcniFNnbb
+{"name": "扩展搜索商机记录", "token": "RqVedVybno3LfOxsQDNcBTH6nJh", "type": "docx", "ticket": "7409881713483563036", "file_token": null}
+2024-09-02 11:25:30,201 ERROR Failed to download item: \u6269\u5c55\u641c\u7d22\u5546\u673a\u8bb0\u5f55 (docx), token: RqVedVybno3LfOxsQDNcBTH6nJh
+{"name": "商机搜索流程", "token": "FAkbdq3uBoAEEbxjQWXc2ZJEnPf", "type": "docx", "ticket": "7409881725475864577", "file_token": null}
+2024-09-02 11:25:32,964 ERROR Failed to download item: \u5546\u673a\u641c\u7d22\u6d41\u7a0b (docx), token: FAkbdq3uBoAEEbxjQWXc2ZJEnPf
+{"name": "KG建设任务管理", "token": "L0p6bvpvkaoyzdsOroqc9cBxnvt", "type": "bitable", "ticket": "7409881739876728833", "file_token": null}
+2024-09-02 11:25:36,380 ERROR Failed to download item: KG\u5efa\u8bbe\u4efb\u52a1\u7ba1\u7406 (bitable), token: L0p6bvpvkaoyzdsOroqc9cBxnvt
+{"name": "The question answer board", "token": "M4mWdQKkyoOV7TxwQffcXRkgnbf", "type": "docx", "ticket": "7409881762035630082", "file_token": null}
+2024-09-02 11:25:41,547 ERROR Failed to download item: The question answer board (docx), token: M4mWdQKkyoOV7TxwQffcXRkgnbf
+{"name": "Obtain and save data", "token": "UiLqdQ5D1oMHmBxPCemcq0HinAc", "type": "docx", "ticket": "7409881772425068545", "file_token": null}
+2024-09-02 11:25:44,140 ERROR Failed to download item: Obtain and save data (docx), token: UiLqdQ5D1oMHmBxPCemcq0HinAc
+{"name": "大模型汇总", "token": "PmJBbMHcvasTCvstcF7cZHcNncc", "type": "bitable", "ticket": "7409882008408621058", "file_token": null}
+2024-09-02 11:26:38,850 ERROR Failed to download item: \u5927\u6a21\u578b\u6c47\u603b (bitable), token: PmJBbMHcvasTCvstcF7cZHcNncc
+{"name": "数据库/采集程序/大模型 副本", "token": "A09rdpcihocLKqxwemccfjYenHf", "type": "docx", "ticket": "7409882144423854081", "file_token": null}
+2024-09-02 11:27:10,492 ERROR Failed to download item: \u6570\u636e\u5e93/\u91c7\u96c6\u7a0b\u5e8f/\u5927\u6a21\u578b \u526f\u672c (docx), token: A09rdpcihocLKqxwemccfjYenHf
+{"name": "nodes", "token": "RWWHbsYwnaIjpmsx6gAclpuEnFe", "type": "bitable", "ticket": "7409882346079928322", "file_token": null}
+2024-09-02 11:27:57,491 ERROR Failed to download item: nodes (bitable), token: RWWHbsYwnaIjpmsx6gAclpuEnFe
+{"name": "cloud_drive_files part1", "token": "Ua9Ab5EueaQOO9sdPM3caMLNnEc", "type": "bitable", "ticket": "7409882356422803457", "file_token": null}
+2024-09-02 11:27:59,831 ERROR Failed to download item: cloud_drive_files part1 (bitable), token: Ua9Ab5EueaQOO9sdPM3caMLNnEc
+{"name": "cloud_drive_files part2", "token": "WUXwbhD1jaCiwhseBWCcDzpznCe", "type": "bitable", "ticket": "7409882366732451842", "file_token": null}
+2024-09-02 11:28:02,418 ERROR Failed to download item: cloud_drive_files part2 (bitable), token: WUXwbhD1jaCiwhseBWCcDzpznCe
+{"name": "扩展搜索商机记录", "token": "RqVedVybno3LfOxsQDNcBTH6nJh", "type": "docx", "ticket": "7409882429312024604", "file_token": null}
+2024-09-02 11:28:16,831 ERROR Failed to download item: \u6269\u5c55\u641c\u7d22\u5546\u673a\u8bb0\u5f55 (docx), token: RqVedVybno3LfOxsQDNcBTH6nJh
+{"name": "商机搜索流程", "token": "FAkbdq3uBoAEEbxjQWXc2ZJEnPf", "type": "docx", "ticket": "7409882439860666370", "file_token": null}
+2024-09-02 11:28:19,276 ERROR Failed to download item: \u5546\u673a\u641c\u7d22\u6d41\u7a0b (docx), token: FAkbdq3uBoAEEbxjQWXc2ZJEnPf
+{"name": "The question answer board", "token": "M4mWdQKkyoOV7TxwQffcXRkgnbf", "type": "docx", "ticket": "7409882463503810561", "file_token": null}
+2024-09-02 11:28:24,806 ERROR Failed to download item: The question answer board (docx), token: M4mWdQKkyoOV7TxwQffcXRkgnbf
+{"name": "Obtain and save data", "token": "UiLqdQ5D1oMHmBxPCemcq0HinAc", "type": "docx", "ticket": "7409882473690562562", "file_token": null}
+2024-09-02 11:28:27,234 ERROR Failed to download item: Obtain and save data (docx), token: UiLqdQ5D1oMHmBxPCemcq0HinAc
+{"name": "数据库/采集程序/大模型 副本", "token": "A09rdpcihocLKqxwemccfjYenHf", "type": "docx", "ticket": "7409882822671695873", "file_token": null}
+2024-09-02 11:29:48,482 ERROR Failed to download item: \u6570\u636e\u5e93/\u91c7\u96c6\u7a0b\u5e8f/\u5927\u6a21\u578b \u526f\u672c (docx), token: A09rdpcihocLKqxwemccfjYenHf
+{"name": "nodes", "token": "RWWHbsYwnaIjpmsx6gAclpuEnFe", "type": "bitable", "ticket": "7409883028261978114", "file_token": null}
+2024-09-02 11:30:36,345 ERROR Failed to download item: nodes (bitable), token: RWWHbsYwnaIjpmsx6gAclpuEnFe
+{"name": "cloud_drive_files part1", "token": "Ua9Ab5EueaQOO9sdPM3caMLNnEc", "type": "bitable", "ticket": "7409883038979112962", "file_token": null}
+2024-09-02 11:30:38,833 ERROR Failed to download item: cloud_drive_files part1 (bitable), token: Ua9Ab5EueaQOO9sdPM3caMLNnEc
+{"name": "cloud_drive_files part2", "token": "WUXwbhD1jaCiwhseBWCcDzpznCe", "type": "bitable", "ticket": "7409883049163390977", "file_token": null}
+2024-09-02 11:30:41,151 ERROR Failed to download item: cloud_drive_files part2 (bitable), token: WUXwbhD1jaCiwhseBWCcDzpznCe
+{"name": "扩展搜索商机记录", "token": "RqVedVybno3LfOxsQDNcBTH6nJh", "type": "docx", "ticket": "7409883110118326300", "file_token": null}
+2024-09-02 11:30:55,365 ERROR Failed to download item: \u6269\u5c55\u641c\u7d22\u5546\u673a\u8bb0\u5f55 (docx), token: RqVedVybno3LfOxsQDNcBTH6nJh
+{"name": "商机搜索流程", "token": "FAkbdq3uBoAEEbxjQWXc2ZJEnPf", "type": "docx", "ticket": "7409883121477140481", "file_token": null}
+2024-09-02 11:30:58,119 ERROR Failed to download item: \u5546\u673a\u641c\u7d22\u6d41\u7a0b (docx), token: FAkbdq3uBoAEEbxjQWXc2ZJEnPf
+{"name": "Obtain and save data", "token": "UiLqdQ5D1oMHmBxPCemcq0HinAc", "type": "docx", "ticket": "7409883200998539266", "file_token": null}
+2024-09-02 11:31:16,517 ERROR Failed to download item: Obtain and save data (docx), token: UiLqdQ5D1oMHmBxPCemcq0HinAc
+{"name": "nodes", "token": "RWWHbsYwnaIjpmsx6gAclpuEnFe", "type": "bitable", "ticket": "7409885570833055745", "file_token": null}
+2024-09-02 11:40:28,341 ERROR Failed to download item: nodes (bitable), token: RWWHbsYwnaIjpmsx6gAclpuEnFe
+{"name": "cloud_drive_files part1", "token": "Ua9Ab5EueaQOO9sdPM3caMLNnEc", "type": "bitable", "ticket": "7409885582396719105", "file_token": null}
+2024-09-02 11:40:30,934 ERROR Failed to download item: cloud_drive_files part1 (bitable), token: Ua9Ab5EueaQOO9sdPM3caMLNnEc
+{"name": "cloud_drive_files part2", "token": "WUXwbhD1jaCiwhseBWCcDzpznCe", "type": "bitable", "ticket": "7409885593403473948", "file_token": null}
+2024-09-02 11:40:33,545 ERROR Failed to download item: cloud_drive_files part2 (bitable), token: WUXwbhD1jaCiwhseBWCcDzpznCe
+{"name": "扩展搜索商机记录", "token": "RqVedVybno3LfOxsQDNcBTH6nJh", "type": "docx", "ticket": "7409885659622162433", "file_token": null}
+2024-09-02 11:40:48,961 ERROR Failed to download item: \u6269\u5c55\u641c\u7d22\u5546\u673a\u8bb0\u5f55 (docx), token: RqVedVybno3LfOxsQDNcBTH6nJh
+{"name": "商机搜索流程", "token": "FAkbdq3uBoAEEbxjQWXc2ZJEnPf", "type": "docx", "ticket": "7409885671800897538", "file_token": null}
+2024-09-02 11:40:51,807 ERROR Failed to download item: \u5546\u673a\u641c\u7d22\u6d41\u7a0b (docx), token: FAkbdq3uBoAEEbxjQWXc2ZJEnPf
+{"name": "数据库/采集程序/大模型 副本", "token": "A09rdpcihocLKqxwemccfjYenHf", "type": "docx", "ticket": "7409886082713649153", "file_token": null}
+2024-09-02 11:42:27,442 ERROR Failed to download item: \u6570\u636e\u5e93/\u91c7\u96c6\u7a0b\u5e8f/\u5927\u6a21\u578b \u526f\u672c (docx), token: A09rdpcihocLKqxwemccfjYenHf
+{"name": "nodes", "token": "RWWHbsYwnaIjpmsx6gAclpuEnFe", "type": "bitable", "ticket": "7409887121948934145", "file_token": null}
+2024-09-02 11:46:29,424 ERROR Failed to download item: nodes (bitable), token: RWWHbsYwnaIjpmsx6gAclpuEnFe
+{"name": "cloud_drive_files part1", "token": "Ua9Ab5EueaQOO9sdPM3caMLNnEc", "type": "bitable", "ticket": "7409887132477161473", "file_token": null}
+2024-09-02 11:46:31,862 ERROR Failed to download item: cloud_drive_files part1 (bitable), token: Ua9Ab5EueaQOO9sdPM3caMLNnEc
+{"name": "cloud_drive_files part2", "token": "WUXwbhD1jaCiwhseBWCcDzpznCe", "type": "bitable", "ticket": "7409887142716194818", "file_token": null}
+2024-09-02 11:46:34,269 ERROR Failed to download item: cloud_drive_files part2 (bitable), token: WUXwbhD1jaCiwhseBWCcDzpznCe
+{"name": "销售信息 数据模型", "token": "FsmIdaZLNohOagx0yLVcniFNnbb", "type": "docx", "ticket": "7409887187472302108", "file_token": null}
+2024-09-02 11:46:44,699 ERROR Failed to download item: \u9500\u552e\u4fe1\u606f \u6570\u636e\u6a21\u578b (docx), token: FsmIdaZLNohOagx0yLVcniFNnbb
+{"name": "扩展搜索商机记录", "token": "RqVedVybno3LfOxsQDNcBTH6nJh", "type": "docx", "ticket": "7409887215801286684", "file_token": null}
+2024-09-02 11:46:51,307 ERROR Failed to download item: \u6269\u5c55\u641c\u7d22\u5546\u673a\u8bb0\u5f55 (docx), token: RqVedVybno3LfOxsQDNcBTH6nJh
+{"name": "商机搜索流程", "token": "FAkbdq3uBoAEEbxjQWXc2ZJEnPf", "type": "docx", "ticket": "7409887227884912641", "file_token": null}
+2024-09-02 11:46:54,110 ERROR Failed to download item: \u5546\u673a\u641c\u7d22\u6d41\u7a0b (docx), token: FAkbdq3uBoAEEbxjQWXc2ZJEnPf
