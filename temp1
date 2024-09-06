@@ -1,0 +1,10 @@
+UPDATE space_nodes 
+SET filepath = CASE
+    WHEN is_uploaded !=2 and is_uploaded !=0 and (obj_type = 'sheet' or obj_type = 'bitable'or shortcut_info_target_type='sheet' or shortcut_info_target_type='bitable') THEN 'https://minio.middleware.dev.motiong.net/browser/raw-knowledge/MotionG/CloudDriveFiles/' || obj_token || '_' || title || '.xlsx' 
+    WHEN is_uploaded !=2 and is_uploaded !=0 and (obj_type = 'doc' or obj_type = 'docx') THEN 'https://minio.middleware.dev.motiong.net/browser/raw-knowledge/MotionG/CloudDriveFiles/' || obj_token || '_' || title || '.' || obj_type
+    WHEN is_uploaded !=2 and is_uploaded !=0 and obj_type='shortcut' and (shortcut_info_target_type = 'doc' or shortcut_info_target_type = 'docx') THEN 'https://minio.middleware.dev.motiong.net/browser/raw-knowledge/MotionG/CloudDriveFiles/' || obj_token || '_' || title || '.' || shortcut_info_target_type
+    WHEN is_uploaded !=2 and is_uploaded !=0 and (obj_type = 'slides' or (obj_type='shortcut' and shortcut_info_target_type='slides')) THEN 'https://minio.middleware.dev.motiong.net/browser/raw-knowledge/MotionG/CloudDriveFiles/' || obj_token || '_' || title || '.pptx'
+    WHEN is_uploaded !=2 and is_uploaded !=0 and (obj_type = 'file' or (obj_type='shortcut' and shortcut_info_target_type='file')) THEN 'https://minio.middleware.dev.motiong.net/browser/raw-knowledge/MotionG/CloudDriveFiles/' || obj_token || '_' || title 
+    when is_uploaded =2 or is_uploaded =0 then ''    
+    else 'https://minio.middleware.dev.motiong.net/browser/raw-knowledge/MotionG/CloudDriveFiles/' || obj_token || '_' || title || '.' || obj_type
+END;

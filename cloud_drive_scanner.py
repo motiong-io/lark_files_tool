@@ -4,6 +4,8 @@ from lark_oapi.api.drive.v1 import *
 import csv
 
 from sqlalchemy import text, create_engine
+from sqlalchemy.pool import QueuePool
+
 
 import lark_cloud_document as lark_file
 import pandas as pd
@@ -230,40 +232,54 @@ def get_updated_files(size=50, token='', folder=''):
         save_set_to_csv(visited_folders, visited_folders_path)
         return error,updated_files_count,new_files_count
     except Exception as e:
-        print(f"Error occurred while scanning folder <{folder['Name']}>: {e}")
+        print(f"Error occurred while scanning folder: {e}")
         return -1,0,0
     
         # print(file)
+
 #检查文件是否在数据库，如果不在则插入，如果在则比对更新时间
 def checkDB(file):
-    print("checking file:",file['type'],":",file['name'],"_",file['token'])
+    file = dict(file)  # 把 file转换为字典格式
+    print("checking file:", file['type'], ":", file['name'], "_", file['token'])
+    file['version']=0
+    file['versioncount']=0
+
+
     global engine
     connection = engine.connect()
     query = text("SELECT * FROM cloud_drive_files WHERE token = :token")
     result = connection.execute(query, {'token': file['token']})
-    df = pd.DataFrame(result.fetchall(), columns=result.keys())
-    df_dict = df.to_dict(orient='records')
-    error=0
-    flag=0
-    is_updated=False
+    rows = result.fetchall()
+    columns = result.keys()
+    if len(columns) != len(rows[0]):
+        print("Error: Number of columns does not match number of parameters fetched from the database.")
+    df = pd.DataFrame(rows, columns=columns)
+    df_dict = df.to_dict(orient='records')[0] if not df.empty else {}
+    error = 0
+    flag = 0
+    is_updated = False
+
     if not df.empty:
         print("This is an old file, checking Minio...")
-        # 数据库查到这个token
         fileName = f"{file['token']}_{file['name']}"
         if not isInMinIO(fileName):
-            # 如果在意外条件下，文件记录出现在数据库但不在minio里，则上传到桶里
-            file['is_uploaded'] = '0'
-            is_updated=True
+            match int(df_dict['is_uploaded']):
+                case 0:
+                    print(f"File not uploaded, code: 0")
+                case 2:
+                    print(f"File met error when uploaded, code: 2")
+                case _:
+                    print(f"File metadate is found in db, but file is not found in MinIO, will try again... ")
+                    file['is_uploaded'] = '0'
+                    file['filepath']=[]
+                    is_updated = True
 
-        #max_version_row = df.loc[df['version'].idxmax()]
+
         if int(file['modified_time']) > int(df_dict['modified_time']):
-            # 查到token并且有更新（本次更新时间>已有的更新记录时间）
             print("This file has been updated, updating db...")
-            #创建新的row，记录上一版本
             old_version_row = df_dict.copy()
             old_version_row['token'] = f"{old_version_row['token']}_{old_version_row['version']}"
             old_version_row['versioncount'] = int(old_version_row['versioncount']) + 1
-            # 将old_version_row写入postgres
             old_version_df = pd.DataFrame([old_version_row])
             try:
                 old_version_df.to_sql('cloud_drive_files', con=engine, index=False, if_exists='append')
@@ -272,17 +288,15 @@ def checkDB(file):
                 with open('db_error_log.txt', 'a') as log_file:
                     log_file.write(f"Error occurred while :::inserting old version entry::: into cloud_drive_files table: {e}\n The data is: {old_version_row}")
                 connection.rollback()
-                error=1
-            #在已有表上更新当前版本
+                error = 1
+
             file['version'] = int(df_dict['version']) + 1
             file['versioncount'] = int(df_dict['versioncount']) + 1
-            file['filepath'] = f"https://minio.middleware.dev.motiong.net/browser/raw-knowledge/MotionG/SpacesFiles/{file['token']}_{file['name']}_{file['version']}"
+            file['filepath'] = ''
+            #file['filepath'] = f"https://minio.middleware.dev.motiong.net/browser/raw-knowledge/MotionG/CloudDriveFiles/{file['token']}_{file['name']}_{file['version']}"
             file['is_uploaded'] = '0'
-            is_updated=True
+            is_updated = True
 
-        else:
-            # 查到token并且如果没更新就不动
-            pass
         if is_updated:
             update_query = text("""
                 UPDATE cloud_drive_files
@@ -292,7 +306,7 @@ def checkDB(file):
                     modified_time = :new_modified_time,
                     is_uploaded = :new_is_uploaded
                 WHERE token = :token 
-                """)
+            """)
 
             try:
                 connection.execute(update_query, {
@@ -305,18 +319,18 @@ def checkDB(file):
                 })
                 connection.commit()
                 print("update db success")
-                flag=1
+                flag = 1
             except Exception as e:
                 print(f"Error occurred while updating data in cloud_drive_files table: {e}")
                 with open('db_error_log.txt', 'a') as log_file:
                     log_file.write(f"Error occurred while :::updating entry::: in cloud_drive_files table: {e}\n The data is: {file}")
                 connection.rollback()
                 print("update db failed")
-                error=1
+                error = 1
+        else:
+            print("There has no update for this file, skipped.")
     else:
         print("This is a new file, adding to db...")
-        file['version'] = 0
-        file['versioncount'] = 0
         file['filepath'] = f"https://minio.middleware.dev.motiong.net/browser/raw-knowledge/MotionG/CloudDriveFiles/{file['token']}_{file['name']}"
         file['is_uploaded'] = '0'
         df = pd.json_normalize(file)
@@ -325,16 +339,17 @@ def checkDB(file):
         try:
             df.to_sql('cloud_drive_files', con=engine, index=False, if_exists='append')
             print("insert db success")
-            flag=2
+            flag = 2
         except Exception as e:
             print(f"Error occurred while inserting data into cloud_drive_files table: {e}")
             with open('db_error_log.txt', 'a') as log_file:
                 log_file.write(f"Error occurred while :::inserting new entry::: into cloud_drive_files table: {e}\n The data is: {file}")
             connection.rollback()
             print("insert db failed")
-            error=1
+            error = 1
+
     connection.close()
-    return error,flag
+    return error, flag
 #读取已扫描的文件夹列表csv文件到集合
 def read_csv_to_set(file_path):
     # 检查文件是否存在
@@ -364,7 +379,13 @@ def init_visited_folders():
 #初始化数据库
 def init_db():
     DB_CONNECTION_STRING = config.DB_CONNECTION_STRING#config是自己写的文件，配置信息；调用数据库
-    engine = create_engine(DB_CONNECTION_STRING)
+    engine = create_engine(DB_CONNECTION_STRING,
+                           pool_size=10,         # 增加连接池大小
+                           max_overflow=20,      # 增加最大溢出连接数
+                           pool_timeout=30,      # 设置连接超时时间
+                           pool_recycle=1800,    # 设置连接回收时间，防止连接被数据库服务器关闭
+                           poolclass=QueuePool)  # 使用QueuePool连接池
+
     return engine
 #从数据库中读取所有文件夹列表
 def load_folders_from_db(engine):
@@ -408,8 +429,9 @@ def job():
     engine = init_db()
     #todo: scan folders list & update db
 
-    TheFolder={'Name':'test','Token':'FfvnfWpTYlYpptdeuUwcsxVgnQz'}
-    Scan_folders([TheFolder])
+    #test
+    # TheFolder={'Name':'test','Token':'fldcngkQUmusWCT4itm4I95EKPd'}
+    # Scan_folders([TheFolder])
 
     folders=load_folders_from_db(engine)
     scan_process_folders(folders)
@@ -417,6 +439,7 @@ def job():
 #设置定时任务
 schedule.every().day.at('19:00').do(job)
 if __name__ == '__main__':
+    #test
     job()
     while (True):
         schedule.run_pending()
