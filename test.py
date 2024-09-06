@@ -212,3 +212,117 @@ CSV文件已成功追加保存到 nodes.csv
     # for bucket_object in bucket_objects:
     #     print(bucket_object.object_name)
     # stats=minio_stats(bucket_name, object_name)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    begindef checkDB(file):
+    print("checking file:",file['type'],":",file['name'],"_",file['token'])
+    global engine
+    connection = engine.connect()
+    query = text("SELECT * FROM cloud_drive_files WHERE token = :token")
+    result = connection.execute(query, {'token': file['token']})
+    df = pd.DataFrame(result.fetchall(), columns=result.keys())
+    df_dict = df.to_dict(orient='records')
+    error=0
+    flag=0
+    is_updated=False
+    if not df.empty:
+        print("This is an old file, checking Minio...")
+        # 数据库查到这个token
+        fileName = f"{file['token']}_{file['name']}"
+        if not isInMinIO(fileName):
+            # 如果在意外条件下，文件记录出现在数据库但不在minio里，则上传到桶里
+            file['is_uploaded'] = '0'
+            is_updated=True
+
+        #max_version_row = df.loc[df['version'].idxmax()]
+        if int(file['modified_time']) > int(df_dict['modified_time']):
+            # 查到token并且有更新（本次更新时间>已有的更新记录时间）
+            print("This file has been updated, updating db...")
+            #创建新的row，记录上一版本
+            old_version_row = df_dict.copy()
+            old_version_row['token'] = f"{old_version_row['token']}_{old_version_row['version']}"
+            old_version_row['versioncount'] = int(old_version_row['versioncount']) + 1
+            # 将old_version_row写入postgres
+            old_version_df = pd.DataFrame([old_version_row])
+            try:
+                old_version_df.to_sql('cloud_drive_files', con=engine, index=False, if_exists='append')
+            except Exception as e:
+                print(f"Error occurred while inserting old version data into cloud_drive_files table: {e}")
+                with open('db_error_log.txt', 'a') as log_file:
+                    log_file.write(f"Error occurred while :::inserting old version entry::: into cloud_drive_files table: {e}\n The data is: {old_version_row}")
+                connection.rollback()
+                error=1
+            #在已有表上更新当前版本
+            file['version'] = int(df_dict['version']) + 1
+            file['versioncount'] = int(df_dict['versioncount']) + 1
+            file['filepath'] = f"https://minio.middleware.dev.motiong.net/browser/raw-knowledge/MotionG/SpacesFiles/{file['token']}_{file['name']}_{file['version']}"
+            file['is_uploaded'] = '0'
+            is_updated=True
+
+        else:
+            # 查到token并且如果没更新就不动
+            pass
+        if is_updated:
+            update_query = text("""
+                UPDATE cloud_drive_files
+                SET version = :new_version,
+                    versioncount = :new_versioncount,
+                    filepath = :new_filepath,
+                    modified_time = :new_modified_time,
+                    is_uploaded = :new_is_uploaded
+                WHERE token = :token 
+                """)
+
+            try:
+                connection.execute(update_query, {
+                    'new_versioncount': int(file['versioncount']),
+                    'token': file['token'],
+                    'new_version': int(file['version']),
+                    'new_filepath': file['filepath'],
+                    'new_modified_time': file['modified_time'],
+                    'new_is_uploaded': file['is_uploaded']
+                })
+                connection.commit()
+                print("update db success")
+                flag=1
+            except Exception as e:
+                print(f"Error occurred while updating data in cloud_drive_files table: {e}")
+                with open('db_error_log.txt', 'a') as log_file:
+                    log_file.write(f"Error occurred while :::updating entry::: in cloud_drive_files table: {e}\n The data is: {file}")
+                connection.rollback()
+                print("update db failed")
+                error=1
+    else:
+        print("This is a new file, adding to db...")
+        file['version'] = 0
+        file['versioncount'] = 0
+        file['filepath'] = f"https://minio.middleware.dev.motiong.net/browser/raw-knowledge/MotionG/CloudDriveFiles/{file['token']}_{file['name']}"
+        file['is_uploaded'] = '0'
+        df = pd.json_normalize(file)
+        df.rename(columns={'shortcut_info.target_token': 'shortcut_info_target_token'}, inplace=True)
+        df.rename(columns={'shortcut_info.target_type': 'shortcut_info_target_type'}, inplace=True)
+        try:
+            df.to_sql('cloud_drive_files', con=engine, index=False, if_exists='append')
+            print("insert db success")
+            flag=2
+        except Exception as e:
+            print(f"Error occurred while inserting data into cloud_drive_files table: {e}")
+            with open('db_error_log.txt', 'a') as log_file:
+                log_file.write(f"Error occurred while :::inserting new entry::: into cloud_drive_files table: {e}\n The data is: {file}")
+            connection.rollback()
+            print("insert db failed")
+            error=1
+    connection.close()
+    return error,flag
