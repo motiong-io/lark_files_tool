@@ -354,7 +354,6 @@ def checkDB(file):
 def read_csv_to_set(file_path):
     # 检查文件是否存在
     if os.path.exists(file_path):
-        # 从CSV文件读取数据到一个集合
         df = pd.read_csv(file_path)
         return set(df['FolderToken'])
     else:
