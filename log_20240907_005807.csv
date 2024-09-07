@@ -1,0 +1,901 @@
+Timestamp,Logger Name,Level,Message,Error Category
+2024-09-07 00:58:07,677,logger,INFO,"-----------------------------------------------
+
+now uploading updated files
+
+-----------------------------------------------",
+2024-09-07 00:58:21,435,logger,INFO,Downloaded item: default_user.xml (file), token: SkTcbQLUXokWzLx5zE0cm4wonAd,upload
+2024-09-07 01:01:33,353,logger,INFO,update db success,postgres
+2024-09-07 01:01:55,937,logger,ERROR,Failed to download item: 新松半导体晶圆搬运项目-软件开发 (docx)," token: I0rRdFE5XocQ8OxtFwIcrgklnHc。:::REASON:Failed to get file token.
+Details: {""name"": ""新松半导体晶圆搬运项目-软件开发"""," ""token"": ""I0rRdFE5XocQ8OxtFwIcrgklnHc"""," ""type"": ""docx"""," ""ticket"": ""7411575661090914332"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:08:43,574,logger,INFO,update db success,postgres
+2024-09-07 01:08:55,251,logger,ERROR,Failed to download item: 新松第一轮环境跑机报告 (docx)," token: AT3LduvbUoupYwx7ZVWcDccDnXd。:::REASON:Failed to get file token.
+Details: {""name"": ""新松第一轮环境跑机报告"""," ""token"": ""AT3LduvbUoupYwx7ZVWcDccDnXd"""," ""type"": ""docx"""," ""ticket"": ""7411577497352945665"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:08:55,389,logger,INFO,update db success,postgres
+2024-09-07 01:08:55,390,logger,INFO,Skipping row: 客户项目背景描述.:::REASON:Unsupported type:folder,lark_downloader
+2024-09-07 01:08:55,526,logger,INFO,update db success,postgres
+2024-09-07 01:08:55,526,logger,INFO,Skipping row: 学习记录和问题.:::REASON:Unsupported type:shortcut,lark_downloader
+2024-09-07 01:08:55,662,logger,INFO,update db success,postgres
+2024-09-07 01:08:55,663,logger,INFO,Skipping row: 客户对外测试报告.:::REASON:Unsupported type:folder,lark_downloader
+2024-09-07 01:08:55,802,logger,INFO,update db success,postgres
+2024-09-07 01:08:57,419,logger,ERROR,Failed to download item: 结构件BOM汇总及版本管理 (bitable)," token: WLXnbVjYsa9QHis7cTFcJU6Wnbf。:::REASON:Failed to get file token.
+Details: {""name"": ""结构件BOM汇总及版本管理"""," ""token"": ""WLXnbVjYsa9QHis7cTFcJU6Wnbf"""," ""type"": ""bitable"""," ""ticket"": ""7411577536734920708"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:08:57,556,logger,INFO,update db success,postgres
+2024-09-07 01:09:07,623,logger,INFO,Downloaded item: CiA402-2 version 3.0 勘误版.pdf (file), token: JWzlbBRmaoWg6GxAHQEcbdvcnUh,upload
+2024-09-07 01:09:16,227,logger,INFO,update db success,postgres
+2024-09-07 01:09:19,859,logger,INFO,Downloaded item: Administrator.xml (file), token: IrzWbrg4NoCptVxb2wRc6mHCni7,upload
+2024-09-07 01:09:21,188,logger,INFO,update db success,postgres
+2024-09-07 01:09:27,089,logger,INFO,Downloaded item: CN-S-24-T-LY项目启动信息 (sheet), token: PiyPsgZkAhlnPOtqipycr1v9nOS,upload
+2024-09-07 01:09:28,480,logger,INFO,update db success,postgres
+2024-09-07 01:09:37,864,logger,INFO,Downloaded item: wKgZomYMynKAD9Y-AD4RANDaQIw558.jpg (file), token: Yy9FbsaUxoGzHWxe957cD1cmnKA,upload
+2024-09-07 01:09:49,394,logger,INFO,update db success,postgres
+2024-09-07 01:10:00,074,logger,INFO,Downloaded item: wKgaomYMyrKAUl0IAE38m-2k3SI510.jpg (file), token: UtNhbOBZbocgmox0U3ucGtbFn3b,upload
+2024-09-07 01:10:09,773,logger,INFO,update db success,postgres
+2024-09-07 01:10:13,483,logger,INFO,Downloaded item: IGBT驱动波形负压关断时有上升尖峰请问有没有办法可以抑制.md (file), token: Y0QHbXLtBoqcM2xk1ykcfv4nn5e,upload
+2024-09-07 01:10:14,821,logger,INFO,update db success,postgres
+2024-09-07 01:10:18,438,logger,INFO,Downloaded item: wKgZomZZgB2AWy9PAAAd6pWFpsw766.png (file), token: XnUSbB1y9o6jXGx3p2rccM7Mn4f,upload
+2024-09-07 01:10:19,769,logger,INFO,update db success,postgres
+2024-09-07 01:10:23,675,logger,INFO,Downloaded item: wKgZomZZgAiAbLJaAABV3906gUI289.png (file), token: SR0vbUzeDowQGaxjtNBczfxsnDe,upload
+2024-09-07 01:10:25,047,logger,INFO,update db success,postgres
+2024-09-07 01:10:28,563,logger,INFO,Downloaded item: wKgaomZZgBWAah-4AAAhYXSDsh8287.png (file), token: EXnXbyBkwo6cTLxNO0acGRPjnDC,upload
+2024-09-07 01:10:29,897,logger,INFO,update db success,postgres
+2024-09-07 01:10:33,445,logger,INFO,Downloaded item: .name (file), token: JuJKbFE4boWP0JxycPycmK4AnPe,upload
+2024-09-07 01:10:34,811,logger,INFO,update db success,postgres
+2024-09-07 01:10:38,418,logger,INFO,Downloaded item: modules.xml (file), token: SQ37bCPI1oU4qZxg0wpcSWxfnBd,upload
+2024-09-07 01:10:39,784,logger,INFO,update db success,postgres
+2024-09-07 01:10:45,731,logger,INFO,Downloaded item: CANopen / Modbus 通讯型 (docx), token: NBd9dSvz4oCwntxEF8wc4R7Lnhh,upload
+2024-09-07 01:10:46,488,logger,INFO,update db success,postgres
+2024-09-07 01:10:46,489,logger,INFO,Skipping row: Boot和BSP版本号定义.:::REASON:Unsupported type:shortcut,lark_downloader
+2024-09-07 01:10:46,624,logger,INFO,update db success,postgres
+2024-09-07 01:10:52,609,logger,INFO,Downloaded item: 瘦身/重构讨论 on Jun 18, 2024 (docx), token: IgYHdqkI6ovTE8x08m9c58M1nny,upload
+2024-09-07 01:10:53,344,logger,INFO,update db success,postgres
+2024-09-07 01:10:54,821,logger,ERROR,Failed to download item: MotionG内部大模型平台（管理员版） (docx)," token: EaV9du5mTogVmsxfGF4cAjC1nsg。:::REASON:Failed to get file token.
+Details: {""name"": ""MotionG内部大模型平台（管理员版）"""," ""token"": ""EaV9du5mTogVmsxfGF4cAjC1nsg"""," ""type"": ""docx"""," ""ticket"": ""7411578041568100353"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:10:54,958,logger,INFO,update db success,postgres
+2024-09-07 01:10:56,521,logger,ERROR,Failed to download item: 客户服务数据统计 (bitable)," token: bascnRGGRu8vRSAMVDE20gTwuWb。:::REASON:Failed to get file token.
+Details: {""name"": ""客户服务数据统计"""," ""token"": ""bascnRGGRu8vRSAMVDE20gTwuWb"""," ""type"": ""bitable"""," ""ticket"": ""7411578048544849924"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:10:56,658,logger,INFO,update db success,postgres
+2024-09-07 01:11:02,176,logger,INFO,Downloaded item: Flex/FlexR 等效散热建议 (sheet), token: LCuisaUY3hALy0tIVoDcVImUnvg,upload
+2024-09-07 01:11:02,910,logger,INFO,update db success,postgres
+2024-09-07 01:11:08,568,logger,INFO,Downloaded item: 李千禧|Qianxi Li的妙记 (sheet), token: NDEwsj8gohrJ7At3X0jcmJlUnFd,upload
+2024-09-07 01:11:09,290,logger,INFO,update db success,postgres
+2024-09-07 01:11:15,180,logger,INFO,Downloaded item: Meeting Notes: 销售技能培训Class2：现有产品介绍及编码器基础知识 Apr 24, 2023 (docx), token: FrpPdAGTloluGSx3Bf4cgteLnkh,upload
+2024-09-07 01:11:15,919,logger,INFO,update db success,postgres
+2024-09-07 01:11:17,406,logger,ERROR,Failed to download item: 请假 (bitable)," token: RPgbbhl3Xadrm3sSwUecaQe3nlh。:::REASON:Failed to get file token.
+Details: {""name"": ""请假"""," ""token"": ""RPgbbhl3Xadrm3sSwUecaQe3nlh"""," ""type"": ""bitable"""," ""ticket"": ""7411578138490060828"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:11:17,545,logger,INFO,update db success,postgres
+2024-09-07 01:11:23,661,logger,INFO,Downloaded item: 赋能+效率个人规划: 刘述亮 (doc), token: doccnEe6GJyRnB2ImmErtswkjSd,upload
+2024-09-07 01:11:24,408,logger,INFO,update db success,postgres
+2024-09-07 01:11:25,876,logger,ERROR,Failed to download item: 试用期转正评估-XXX -审批版 (docx)," token: DJN4dXOOzodUzcx6tFOcyg7UnGe。:::REASON:Failed to get file token.
+Details: {""name"": ""试用期转正评估-XXX -审批版"""," ""token"": ""DJN4dXOOzodUzcx6tFOcyg7UnGe"""," ""type"": ""docx"""," ""ticket"": ""7411578174946934785"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:11:26,014,logger,INFO,update db success,postgres
+2024-09-07 01:11:26,015,logger,INFO,Skipping row: BOOT、BSP、硬件版本号定义.:::REASON:Unsupported type:shortcut,lark_downloader
+2024-09-07 01:11:26,150,logger,INFO,update db success,postgres
+2024-09-07 01:11:32,327,logger,INFO,Downloaded item: 工装审核流程图 (docx), token: Mwcrdq39ToMYB8xVrWvcHSDLnhg,upload
+2024-09-07 01:11:34,011,logger,INFO,update db success,postgres
+2024-09-07 01:11:35,593,logger,ERROR,Failed to download item: 问题跟踪记录表 (bitable)," token: bascnPcp7r2SjVyrQbqdZFEQyMf。:::REASON:Failed to get file token.
+Details: {""name"": ""问题跟踪记录表"""," ""token"": ""bascnPcp7r2SjVyrQbqdZFEQyMf"""," ""type"": ""bitable"""," ""ticket"": ""7411578216197914628"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:11:35,732,logger,INFO,update db success,postgres
+2024-09-07 01:11:41,411,logger,INFO,Downloaded item: 点滨（奔曜）转矩前馈（偏置）功能（0D60B2） (docx), token: XSbAdJQGUoBbFnxy6CccziOUnhd,upload
+2024-09-07 01:11:42,852,logger,INFO,update db success,postgres
+2024-09-07 01:11:44,446,logger,ERROR,Failed to download item:                        一光第一轮SI测试方案  (docx)," token: SlDYdvVJcojy0Sx6ImEcM4lonzg。:::REASON:Failed to get file token.
+Details: {""name"": ""                       一光第一轮SI测试方案 """," ""token"": ""SlDYdvVJcojy0Sx6ImEcM4lonzg"""," ""type"": ""docx"""," ""ticket"": ""7411578254227767300"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:11:44,582,logger,INFO,update db success,postgres
+2024-09-07 01:11:49,359,logger,INFO,Downloaded item: 路远-GC1-C4803N-1D-MT-多轴集成贴片机驱动器PRD-规格书-20240123.docx.docx (file), token: CyYqb1eeYoPNHdxJv6HcsdI6nu0,upload
+2024-09-07 01:11:50,084,logger,INFO,update db success,postgres
+2024-09-07 01:11:50,085,logger,INFO,Skipping row: 项目启动信息.:::REASON:Unsupported type:folder,lark_downloader
+2024-09-07 01:11:50,223,logger,INFO,update db success,postgres
+2024-09-07 01:11:56,188,logger,INFO,Downloaded item: 基于MBD的伺服驱动器应用软件开发和测试开发攻关项目管理方案 (docx), token: SrHVdKnTNowCppx82vMcBbIYnhb,upload
+2024-09-07 01:11:56,935,logger,INFO,update db success,postgres
+2024-09-07 01:12:02,491,logger,INFO,Downloaded item: 李剑松|Jiansong Li的妙记 (sheet), token: LJAPsvywZhKIgltPZjZcyjMgnJd,upload
+2024-09-07 01:12:03,216,logger,INFO,update db success,postgres
+2024-09-07 01:12:04,664,logger,ERROR,Failed to download item: 深圳伺峰科技有限公司（盛泰奇） (docx)," token: TPSBdomVvoQZORxrm1YcMJuFnPc。:::REASON:Failed to get file token.
+Details: {""name"": ""深圳伺峰科技有限公司（盛泰奇）"""," ""token"": ""TPSBdomVvoQZORxrm1YcMJuFnPc"""," ""type"": ""docx"""," ""ticket"": ""7411578341569937436"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:12:04,810,logger,INFO,update db success,postgres
+2024-09-07 01:12:06,368,logger,ERROR,Failed to download item: 工具清单 (docx)," token: SGdYdBINIoSWvmxowelc6ZKfnUh。:::REASON:Failed to get file token.
+Details: {""name"": ""工具清单"""," ""token"": ""SGdYdBINIoSWvmxowelc6ZKfnUh"""," ""type"": ""docx"""," ""ticket"": ""7411578348528320516"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:12:06,504,logger,INFO,update db success,postgres
+2024-09-07 01:12:08,052,logger,ERROR,Failed to download item: 新松项目测试报告（内部） (docx)," token: JqFzdyCDVonzrpxGc32cviPfnEg。:::REASON:Failed to get file token.
+Details: {""name"": ""新松项目测试报告（内部）"""," ""token"": ""JqFzdyCDVonzrpxGc32cviPfnEg"""," ""type"": ""docx"""," ""ticket"": ""7411578355826294787"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:12:08,189,logger,INFO,update db success,postgres
+2024-09-07 01:12:09,693,logger,ERROR,Failed to download item: 性能调试专题详解 (docx)," token: FCnWdpoWfoDXkCxJyrLc1eMmnWc。:::REASON:Failed to get file token.
+Details: {""name"": ""性能调试专题详解"""," ""token"": ""FCnWdpoWfoDXkCxJyrLc1eMmnWc"""," ""type"": ""docx"""," ""ticket"": ""7411578362969669635"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:12:09,829,logger,INFO,update db success,postgres
+2024-09-07 01:12:11,430,logger,ERROR,Failed to download item: CN-N-22-C-HY-XS02使用手册 (docx)," token: B7X1d22I8o7S5oxhghEcWfyZnvf。:::REASON:Failed to get file token.
+Details: {""name"": ""CN-N-22-C-HY-XS02使用手册"""," ""token"": ""B7X1d22I8o7S5oxhghEcWfyZnvf"""," ""type"": ""docx"""," ""ticket"": ""7411578370057601027"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:12:11,580,logger,INFO,update db success,postgres
+2024-09-07 01:12:11,580,logger,INFO,Skipping row: 姬先森-AI工具箱.:::REASON:Unsupported type:shortcut,lark_downloader
+2024-09-07 01:12:11,716,logger,INFO,update db success,postgres
+2024-09-07 01:12:17,489,logger,INFO,Downloaded item: Transactions / Business Model (docx), token: JMvqdXEyVoIZhgxBd2acoxndnFc,upload
+2024-09-07 01:12:18,250,logger,INFO,update db success,postgres
+2024-09-07 01:12:21,861,logger,INFO,Downloaded item: profiles_settings.xml (file), token: HUaBbHRriod4vgxq3mOclLvbnYb,upload
+2024-09-07 01:12:23,232,logger,INFO,update db success,postgres
+2024-09-07 01:12:28,918,logger,INFO,Downloaded item: 伺服控制系统培训 (docx), token: L7O4dYZFXoga3Jx2vDccslNPnnW,upload
+2024-09-07 01:12:29,649,logger,INFO,update db success,postgres
+2024-09-07 01:12:35,686,logger,INFO,Downloaded item: Product Marketing (Intern / Open to Full-time) (docx), token: GhTwdMufHoIGvyxrZqmc5ZlSnzh,upload
+2024-09-07 01:12:36,456,logger,INFO,update db success,postgres
+2024-09-07 01:12:42,592,logger,INFO,Downloaded item: [09/28] AF总线交流伺服Layout评审会议纪要 (docx), token: doxcnADBaNA1opxxOnMoZYnAV2f,upload
+2024-09-07 01:12:43,341,logger,INFO,update db success,postgres
+2024-09-07 01:12:49,192,logger,INFO,Downloaded item: 2023年9月20日 Intro call: Website Upgrades会议纪要 (docx), token: Vq4ZdCmOWoRgK7x5tRfcFK8Mn8b,upload
+2024-09-07 01:12:49,914,logger,INFO,update db success,postgres
+2024-09-07 01:12:55,951,logger,INFO,Downloaded item: Eval persona Agents&LLM (docx), token: K79tdeMMcoxDHmxxnXvcv3wfnbg,upload
+2024-09-07 01:12:57,402,logger,INFO,update db success,postgres
+2024-09-07 01:12:58,841,logger,ERROR,Failed to download item: 学习记录和问题 (docx)," token: ZJU4d4gcjoZe8MxXwE5cmuirn3g。:::REASON:Failed to get file token.
+Details: {""name"": ""学习记录和问题"""," ""token"": ""ZJU4d4gcjoZe8MxXwE5cmuirn3g"""," ""type"": ""docx"""," ""ticket"": ""7411578574274035714"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:12:58,977,logger,INFO,update db success,postgres
+2024-09-07 01:13:00,398,logger,ERROR,Failed to download item: 电阻分压方案计算 (docx)," token: O2dMdQFkaoNsUGx7tvbc5wRaneb。:::REASON:Failed to get file token.
+Details: {""name"": ""电阻分压方案计算"""," ""token"": ""O2dMdQFkaoNsUGx7tvbc5wRaneb"""," ""type"": ""docx"""," ""ticket"": ""7411578581035270145"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:13:00,535,logger,INFO,update db success,postgres
+2024-09-07 01:13:01,986,logger,ERROR,Failed to download item: 隔离方案 (docx)," token: Yi5RdqRhKoD9ozxQaZEcd5nznpd。:::REASON:Failed to get file token.
+Details: {""name"": ""隔离方案"""," ""token"": ""Yi5RdqRhKoD9ozxQaZEcd5nznpd"""," ""type"": ""docx"""," ""ticket"": ""7411578587804925980"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:13:02,122,logger,INFO,update db success,postgres
+2024-09-07 01:13:07,591,logger,INFO,Downloaded item: MBD开发风险问题登记册 (bitable), token: MWRHbKWsEauDwvsC2C8crz2Hnvd,upload
+2024-09-07 01:13:08,328,logger,INFO,update db success,postgres
+2024-09-07 01:13:13,945,logger,INFO,Downloaded item: 测试用例模板 (bitable), token: ZX3gbpRDyauu9Tsb4wncYUyZnHf,upload
+2024-09-07 01:13:14,671,logger,INFO,update db success,postgres
+2024-09-07 01:13:20,713,logger,INFO,Downloaded item: EtherCAT/CANOpen字典表 (sheet), token: FvVysLRa1hi7EytH3MlctIn1nNd,upload
+2024-09-07 01:13:21,446,logger,INFO,update db success,postgres
+2024-09-07 01:13:26,901,logger,INFO,Downloaded item: 张喜春|Xichun Zhang的妙记 (sheet), token: LXUjsxlMQhxe8Wt0edrcYXmdnsb,upload
+2024-09-07 01:13:27,656,logger,INFO,update db success,postgres
+2024-09-07 01:13:33,663,logger,INFO,Downloaded item: 施路遥|Luyao Shi的妙记 (sheet), token: shtcnmg86WQIl58hzJjf6AS2Xhb,upload
+2024-09-07 01:13:34,394,logger,INFO,update db success,postgres
+2024-09-07 01:13:34,395,logger,INFO,Skipping row: 东锅阿克塞项目固件发布细节.:::REASON:Unsupported type:shortcut,lark_downloader
+2024-09-07 01:13:34,531,logger,INFO,update db success,postgres
+2024-09-07 01:13:38,117,logger,INFO,Downloaded item: misc.xml (file), token: H0uDbRjtsoDoVJxDLQNce7mrngw,upload
+2024-09-07 01:13:39,444,logger,INFO,update db success,postgres
+2024-09-07 01:13:43,081,logger,INFO,Downloaded item: .gitignore (file), token: BA0dbtovcoH0nQxL2eBcE7TPnrb,upload
+2024-09-07 01:13:44,416,logger,INFO,update db success,postgres
+2024-09-07 01:13:44,417,logger,INFO,Skipping row: inspectionProfiles.:::REASON:Unsupported type:folder,lark_downloader
+2024-09-07 01:13:44,558,logger,INFO,update db success,postgres
+2024-09-07 01:13:48,101,logger,INFO,Downloaded item: workspace.xml (file), token: Ucl3bJsNxoBPKbxIrk3c9Yp4nUv,upload
+2024-09-07 01:13:49,515,logger,INFO,update db success,postgres
+2024-09-07 01:13:53,515,logger,INFO,Downloaded item: Python.code.iml (file), token: SK0YbXneJoUFswxgcD3cj9mTnSd,upload
+2024-09-07 01:13:54,846,logger,INFO,update db success,postgres
+2024-09-07 01:14:00,739,logger,INFO,Downloaded item: 电气学生如何毕业直接化身”工程师“。 (docx), token: BYXCdyzaVoGflDxwgq8cYSwxntf,upload
+2024-09-07 01:14:02,173,logger,INFO,update db success,postgres
+2024-09-07 01:14:02,174,logger,INFO,Skipping row: dictionaries.:::REASON:Unsupported type:folder,lark_downloader
+2024-09-07 01:14:02,315,logger,INFO,update db success,postgres
+2024-09-07 01:14:03,802,logger,ERROR,Failed to download item: fileReader (docx)," token: QOxvdLYIkoJGB8xZwe6cbSfMnWf。:::REASON:Failed to get file token.
+Details: {""name"": ""fileReader"""," ""token"": ""QOxvdLYIkoJGB8xZwe6cbSfMnWf"""," ""type"": ""docx"""," ""ticket"": ""7411578853065441283"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:14:03,939,logger,INFO,update db success,postgres
+2024-09-07 01:14:03,939,logger,INFO,Skipping row: company-liyibo.:::REASON:Unsupported type:folder,lark_downloader
+2024-09-07 01:14:04,075,logger,INFO,update db success,postgres
+2024-09-07 01:14:05,659,logger,ERROR,Failed to download item: GPT4O处理FAE文档多媒体信息的验证 (docx)," token: Bd0Yd1omoobI9dx0T9NceuN6nsd。:::REASON:Failed to get file token.
+Details: {""name"": ""GPT4O处理FAE文档多媒体信息的验证"""," ""token"": ""Bd0Yd1omoobI9dx0T9NceuN6nsd"""," ""type"": ""docx"""," ""ticket"": ""7411578860845842436"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:14:05,796,logger,INFO,update db success,postgres
+2024-09-07 01:14:11,423,logger,INFO,Downloaded item: 李艺博|Allen Li的妙记 (sheet), token: W5XWsihPJhX5YItUdKIclIern2G,upload
+2024-09-07 01:14:12,798,logger,INFO,update db success,postgres
+2024-09-07 01:14:18,503,logger,INFO,Downloaded item: 李品浪|Matthes Li的妙记 (sheet), token: T9V0sCgzwhzF4ktcwaQcBmnin2d,upload
+2024-09-07 01:14:19,928,logger,INFO,update db success,postgres
+2024-09-07 01:14:19,928,logger,INFO,Skipping row: Company-李品浪.:::REASON:Unsupported type:folder,lark_downloader
+2024-09-07 01:14:20,063,logger,INFO,update db success,postgres
+2024-09-07 01:14:20,064,logger,INFO,Skipping row: personal.:::REASON:Unsupported type:folder,lark_downloader
+2024-09-07 01:14:20,201,logger,INFO,update db success,postgres
+2024-09-07 01:14:25,549,logger,INFO,Downloaded item: 北京高控科技有限公司电主轴控制项目 (bitable), token: A6fzbXUsHaI8VzsoPH5co2ffnZc,upload
+2024-09-07 01:14:26,926,logger,INFO,update db success,postgres
+2024-09-07 01:14:32,319,logger,INFO,Downloaded item: 北京高控科技有限公司东北大学直线电机项目 (bitable), token: TjYdblX12ajBFKs9VUTcGe2pnGb,upload
+2024-09-07 01:14:33,671,logger,INFO,update db success,postgres
+2024-09-07 01:14:38,998,logger,INFO,Downloaded item: 北京高控科技有限公司安纳金客户力控调试项目 (bitable), token: Ohg3bjs35aVd7BsgSfDcwfTUnwf,upload
+2024-09-07 01:14:40,323,logger,INFO,update db success,postgres
+2024-09-07 01:14:46,250,logger,INFO,Downloaded item: 知识提取 (docx), token: NWTVdI7uBogpbcxZVgtctL1KnBf,upload
+2024-09-07 01:14:47,903,logger,INFO,update db success,postgres
+2024-09-07 01:14:53,778,logger,INFO,Downloaded item: 链接 (docx), token: DWBwdB7UBoF8Rlx8aQmc6w1unhg,upload
+2024-09-07 01:14:55,213,logger,INFO,update db success,postgres
+2024-09-07 01:15:00,749,logger,INFO,Downloaded item: 北京高控科技有限公司瑞特测控-小电感音圈电机项目 (bitable), token: Kq3QbT7QuaAJK5sTKsxcZ4EHnvc,upload
+2024-09-07 01:15:02,077,logger,INFO,update db success,postgres
+2024-09-07 01:15:07,430,logger,INFO,Downloaded item: 北京高控科技有限公司电主轴控制项目 (bitable), token: HiY2b3ibcaQigAsJBMaceoBkn0b,upload
+2024-09-07 01:15:08,800,logger,INFO,update db success,postgres
+2024-09-07 01:15:14,834,logger,INFO,Downloaded item: 北京高控科技有限公司安纳金客户力控调试项目 (docx), token: YVDKdpny1ocZxmxAs55cYnQUnwg,upload
+2024-09-07 01:15:16,286,logger,INFO,update db success,postgres
+2024-09-07 01:18:27,256,logger,INFO,Downloaded item: 2023年客户问题总结_processed.zip (file), token: WAIIbAzwWoPTyux6pRxcrNdwnEf,upload
+2024-09-07 01:23:25,173,logger,INFO,update db success,postgres
+2024-09-07 01:23:26,757,logger,ERROR,Failed to download item: 大模型替换测试 (docx)," token: DkG4de0OSo7YHexL7KGc41qSnod。:::REASON:Failed to get file token.
+Details: {""name"": ""大模型替换测试"""," ""token"": ""DkG4de0OSo7YHexL7KGc41qSnod"""," ""type"": ""docx"""," ""ticket"": ""7411581270641213443"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:23:26,895,logger,INFO,update db success,postgres
+2024-09-07 01:23:32,555,logger,INFO,Downloaded item:  (docx), token: G1j4dnpj9o4RzrxQwqGcwd9hn9c,upload
+2024-09-07 01:23:34,079,logger,INFO,update db success,postgres
+2024-09-07 01:23:34,079,logger,INFO,Skipping row: personal.:::REASON:Unsupported type:folder,lark_downloader
+2024-09-07 01:23:34,219,logger,INFO,update db success,postgres
+2024-09-07 01:23:34,220,logger,INFO,Skipping row: 2023年客户问题总结.:::REASON:Unsupported type:folder,lark_downloader
+2024-09-07 01:23:34,356,logger,INFO,update db success,postgres
+2024-09-07 01:23:40,269,logger,INFO,Downloaded item: Meeting with ex-Siemens salesperson - 17 Oct (docx), token: ZYQHdehwyobnFCx700LcVQlOnkg,upload
+2024-09-07 01:23:41,013,logger,INFO,update db success,postgres
+2024-09-07 01:23:42,524,logger,ERROR,Failed to download item: TAM / Go-To-Market (docx)," token: QTqgd16RQo3YKcxw7O8czSwOnjh。:::REASON:Failed to get file token.
+Details: {""name"": ""TAM / Go-To-Market"""," ""token"": ""QTqgd16RQo3YKcxw7O8czSwOnjh"""," ""type"": ""docx"""," ""ticket"": ""7411581338631667715"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:23:42,661,logger,INFO,update db success,postgres
+2024-09-07 01:23:48,716,logger,INFO,Downloaded item: 夏洋洋|Yangyang Xia, 柏思楠|Sinan Bai, 刘述亮|Shuliang Liu的视频会议 (doc), token: doccnXOy0RWVZsaHv4lHcNc0Mxd,upload
+2024-09-07 01:23:49,461,logger,INFO,update db success,postgres
+2024-09-07 01:23:55,555,logger,INFO,Downloaded item: 刘述亮|Shuliang Liu的视频会议 (doc), token: doccntamAoUjYVzgZRqUp7UmYXf,upload
+2024-09-07 01:23:56,281,logger,INFO,update db success,postgres
+2024-09-07 01:23:57,896,logger,ERROR,Failed to download item: 行动元产品型号大全 (bitable)," token: bascnptnXMY84D8apvwWvdCCSHh。:::REASON:Failed to get file token.
+Details: {""name"": ""行动元产品型号大全"""," ""token"": ""bascnptnXMY84D8apvwWvdCCSHh"""," ""type"": ""bitable"""," ""ticket"": ""7411581404212953090"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:23:58,032,logger,INFO,update db success,postgres
+2024-09-07 01:24:03,651,logger,INFO,Downloaded item: 销售客户分层 (sheet), token: shtcnfiNUT8zSI8v4VkIyRTpAzf,upload
+2024-09-07 01:24:04,424,logger,INFO,update db success,postgres
+2024-09-07 01:24:06,016,logger,ERROR,Failed to download item: PWM占空比调速功能开发-202407280003 (docx)," token: NPt5dS1xpo2PuxxIO9Dct0kanvh。:::REASON:Failed to get file token.
+Details: {""name"": ""PWM占空比调速功能开发-202407280003"""," ""token"": ""NPt5dS1xpo2PuxxIO9Dct0kanvh"""," ""type"": ""docx"""," ""ticket"": ""7411581439311659011"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:24:06,154,logger,INFO,update db success,postgres
+2024-09-07 01:24:06,155,logger,INFO,Skipping row: 驱动器出厂硬件参数配置表.:::REASON:Unsupported type:shortcut,lark_downloader
+2024-09-07 01:24:06,304,logger,INFO,update db success,postgres
+2024-09-07 01:24:12,381,logger,INFO,Downloaded item: 盛泰奇新硬件servotop-v3移植适配 (docx), token: DNvRdEWJuoinhtxO4hbcqcFTnIK,upload
+2024-09-07 01:24:13,824,logger,INFO,update db success,postgres
+2024-09-07 01:24:13,825,logger,INFO,Skipping row: 项目编码登记归档.:::REASON:Unsupported type:shortcut,lark_downloader
+2024-09-07 01:24:13,962,logger,INFO,update db success,postgres
+2024-09-07 01:24:17,592,logger,INFO,Downloaded item: trytry.py (file), token: TO98bfP8Ro2lOqx6ioic3qrZnOe,upload
+2024-09-07 01:24:18,985,logger,INFO,update db success,postgres
+2024-09-07 01:24:22,542,logger,INFO,Downloaded item: ARMDSPFPGA三者有什么区别.md (file), token: HVnKb1PG5okfPyxj9rLcrKq0nqc,upload
+2024-09-07 01:24:23,885,logger,INFO,update db success,postgres
+2024-09-07 01:24:27,479,logger,INFO,Downloaded item: Banana_Pi_BPIR3开源路由器启动及性能评测.md (file), token: KawobrSOZoEytmx92FQc6Z0vnJf,upload
+2024-09-07 01:24:28,891,logger,INFO,update db success,postgres
+2024-09-07 01:24:32,582,logger,INFO,Downloaded item: ESP8266笔记01常见的WIFI模组.md (file), token: Bh06bHRzAoUdkfxU57TcMMfGnQc,upload
+2024-09-07 01:24:33,934,logger,INFO,update db success,postgres
+2024-09-07 01:24:44,532,logger,INFO,Downloaded item: wKgZomYMyr6Ad-jkAEaXaJ-vU64991.jpg (file), token: Y6TPbjbETowmuxxOmbhc6vhAnUb,upload
+2024-09-07 01:24:51,202,logger,INFO,update db success,postgres
+2024-09-07 01:24:56,997,logger,INFO,Downloaded item: 批量生产技术确认流程 (bitable), token: bascnGgZYJWhvFdoXfkAdkOlLOb,upload
+2024-09-07 01:24:58,404,logger,INFO,update db success,postgres
+2024-09-07 01:24:59,963,logger,ERROR,Failed to download item: 零星物料事前审批，费用事前审批 (bitable)," token: Brq0bJEyJa5rBasEQoqc9hJGnKb。:::REASON:Failed to get file token.
+Details: {""name"": ""零星物料事前审批，费用事前审批"""," ""token"": ""Brq0bJEyJa5rBasEQoqc9hJGnKb"""," ""type"": ""bitable"""," ""ticket"": ""7411581670953992196"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:25:00,100,logger,INFO,update db success,postgres
+2024-09-07 01:25:05,922,logger,INFO,Downloaded item: [09/19] AF总线驱动器预布局评审会议纪要 (docx), token: doxcnipzYufcOZCGJI3yrSfF6Cb,upload
+2024-09-07 01:25:06,680,logger,INFO,update db success,postgres
+2024-09-07 01:25:13,017,logger,INFO,Downloaded item: 隔离光耦方案计算 (docx), token: LPJWdgrKWokMuNx2pwzc4lKKnsf,upload
+2024-09-07 01:25:13,779,logger,INFO,update db success,postgres
+2024-09-07 01:25:20,142,logger,INFO,Downloaded item: 两路STO隔离输入控制+一路反馈输出 (docx), token: VkQ0dtonIo3q2MxcHjJcUWqInQh,upload
+2024-09-07 01:25:20,858,logger,INFO,update db success,postgres
+2024-09-07 01:25:27,219,logger,INFO,Downloaded item: 隔离三级管方案 (docx), token: QR3Ed3hPhoRV9WxllVjc6QYYnKi,upload
+2024-09-07 01:25:27,971,logger,INFO,update db success,postgres
+2024-09-07 01:25:29,462,logger,ERROR,Failed to download item: NTC电阻方案计算 (docx)," token: EQw0dIa0zo02uSxFzApcKguAnGb。:::REASON:Failed to get file token.
+Details: {""name"": ""NTC电阻方案计算"""," ""token"": ""EQw0dIa0zo02uSxFzApcKguAnGb"""," ""type"": ""docx"""," ""ticket"": ""7411581798049660956"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:25:29,599,logger,INFO,update db success,postgres
+2024-09-07 01:25:31,100,logger,ERROR,Failed to download item: 隔离方案计算 (docx)," token: KxfWddRl8oP6nnxfYvacndUfnye。:::REASON:Failed to get file token.
+Details: {""name"": ""隔离方案计算"""," ""token"": ""KxfWddRl8oP6nnxfYvacndUfnye"""," ""type"": ""docx"""," ""ticket"": ""7411581805133905922"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:25:31,237,logger,INFO,update db success,postgres
+2024-09-07 01:25:32,748,logger,ERROR,Failed to download item: STO逻辑与计算 (docx)," token: Qw4hdYT5TozWt8x5d2YchE3wnFg。:::REASON:Failed to get file token.
+Details: {""name"": ""STO逻辑与计算"""," ""token"": ""Qw4hdYT5TozWt8x5d2YchE3wnFg"""," ""type"": ""docx"""," ""ticket"": ""7411581811962265601"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:25:32,885,logger,INFO,update db success,postgres
+2024-09-07 01:25:39,529,logger,INFO,Downloaded item: 非隔离方案IO输出逻辑 (docx), token: NoGqdfywKox4oGxBP9acsga7ngT,upload
+2024-09-07 01:25:40,285,logger,INFO,update db success,postgres
+2024-09-07 01:25:46,340,logger,INFO,Downloaded item: 非隔离方案IO输入逻辑 (docx), token: EPHudG93CopBMIx6ML8cy1e4n7f,upload
+2024-09-07 01:25:47,105,logger,INFO,update db success,postgres
+2024-09-07 01:25:52,562,logger,INFO,Downloaded item: 陈荣发|Rongfa Chen的妙记 (sheet), token: Dy1gsJkyHhykQbtq9fpchVrdnub,upload
+2024-09-07 01:25:53,306,logger,INFO,update db success,postgres
+2024-09-07 01:25:54,911,logger,ERROR,Failed to download item: 客户服务数据统计 (bitable)," token: bascnRGGRu8vRSAMVDE20gTwuWb。:::REASON:Failed to get file token.
+Details: {""name"": ""客户服务数据统计"""," ""token"": ""bascnRGGRu8vRSAMVDE20gTwuWb"""," ""type"": ""bitable"""," ""ticket"": ""7411581906891882498"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:25:55,048,logger,INFO,update db success,postgres
+2024-09-07 01:26:00,621,logger,INFO,Downloaded item: AC/DC FAE平台化任务清单 (sheet), token: UAtAsIQqdh1BYnt1Qa3cPHBcnzf,upload
+2024-09-07 01:26:01,362,logger,INFO,update db success,postgres
+2024-09-07 01:26:02,905,logger,ERROR,Failed to download item: 新松半导体晶圆搬运项目-软件开发 (docx)," token: I0rRdFE5XocQ8OxtFwIcrgklnHc。:::REASON:Failed to get file token.
+Details: {""name"": ""新松半导体晶圆搬运项目-软件开发"""," ""token"": ""I0rRdFE5XocQ8OxtFwIcrgklnHc"""," ""type"": ""docx"""," ""ticket"": ""7411581941452914691"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:26:03,042,logger,INFO,update db success,postgres
+2024-09-07 01:26:04,595,logger,ERROR,Failed to download item: 新松第一轮环境跑机报告 (docx)," token: AT3LduvbUoupYwx7ZVWcDccDnXd。:::REASON:Failed to get file token.
+Details: {""name"": ""新松第一轮环境跑机报告"""," ""token"": ""AT3LduvbUoupYwx7ZVWcDccDnXd"""," ""type"": ""docx"""," ""ticket"": ""7411581948587507740"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:26:04,732,logger,INFO,update db success,postgres
+2024-09-07 01:26:06,183,logger,ERROR,Failed to download item: 结构件BOM汇总及版本管理 (bitable)," token: WLXnbVjYsa9QHis7cTFcJU6Wnbf。:::REASON:Failed to get file token.
+Details: {""name"": ""结构件BOM汇总及版本管理"""," ""token"": ""WLXnbVjYsa9QHis7cTFcJU6Wnbf"""," ""type"": ""bitable"""," ""ticket"": ""7411581955935944705"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:26:06,319,logger,INFO,update db success,postgres
+2024-09-07 01:26:07,761,logger,ERROR,Failed to download item: MotionG内部大模型平台（管理员版） (docx)," token: EaV9du5mTogVmsxfGF4cAjC1nsg。:::REASON:Failed to get file token.
+Details: {""name"": ""MotionG内部大模型平台（管理员版）"""," ""token"": ""EaV9du5mTogVmsxfGF4cAjC1nsg"""," ""type"": ""docx"""," ""ticket"": ""7411581962621599745"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:26:07,899,logger,INFO,update db success,postgres
+2024-09-07 01:26:09,429,logger,ERROR,Failed to download item: 客户服务数据统计 (bitable)," token: bascnRGGRu8vRSAMVDE20gTwuWb。:::REASON:Failed to get file token.
+Details: {""name"": ""客户服务数据统计"""," ""token"": ""bascnRGGRu8vRSAMVDE20gTwuWb"""," ""type"": ""bitable"""," ""ticket"": ""7411581969504403460"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:26:09,569,logger,INFO,update db success,postgres
+2024-09-07 01:26:11,122,logger,ERROR,Failed to download item: 请假 (bitable)," token: RPgbbhl3Xadrm3sSwUecaQe3nlh。:::REASON:Failed to get file token.
+Details: {""name"": ""请假"""," ""token"": ""RPgbbhl3Xadrm3sSwUecaQe3nlh"""," ""type"": ""bitable"""," ""ticket"": ""7411581976752193539"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:26:11,259,logger,INFO,update db success,postgres
+2024-09-07 01:26:12,718,logger,ERROR,Failed to download item: 试用期转正评估-XXX -审批版 (docx)," token: DJN4dXOOzodUzcx6tFOcyg7UnGe。:::REASON:Failed to get file token.
+Details: {""name"": ""试用期转正评估-XXX -审批版"""," ""token"": ""DJN4dXOOzodUzcx6tFOcyg7UnGe"""," ""type"": ""docx"""," ""ticket"": ""7411581983978946562"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:26:12,856,logger,INFO,update db success,postgres
+2024-09-07 01:26:14,431,logger,ERROR,Failed to download item: 问题跟踪记录表 (bitable)," token: bascnPcp7r2SjVyrQbqdZFEQyMf。:::REASON:Failed to get file token.
+Details: {""name"": ""问题跟踪记录表"""," ""token"": ""bascnPcp7r2SjVyrQbqdZFEQyMf"""," ""type"": ""bitable"""," ""ticket"": ""7411581990866239491"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:26:14,571,logger,INFO,update db success,postgres
+2024-09-07 01:26:22,657,logger,INFO,Downloaded item:                        一光第一轮SI测试方案  (docx), token: SlDYdvVJcojy0Sx6ImEcM4lonzg,upload
+2024-09-07 01:26:24,840,logger,INFO,update db success,postgres
+2024-09-07 01:26:26,360,logger,ERROR,Failed to download item: 深圳伺峰科技有限公司（盛泰奇） (docx)," token: TPSBdomVvoQZORxrm1YcMJuFnPc。:::REASON:Failed to get file token.
+Details: {""name"": ""深圳伺峰科技有限公司（盛泰奇）"""," ""token"": ""TPSBdomVvoQZORxrm1YcMJuFnPc"""," ""type"": ""docx"""," ""ticket"": ""7411582042292355075"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:26:26,496,logger,INFO,update db success,postgres
+2024-09-07 01:26:28,051,logger,ERROR,Failed to download item: 工具清单 (docx)," token: SGdYdBINIoSWvmxowelc6ZKfnUh。:::REASON:Failed to get file token.
+Details: {""name"": ""工具清单"""," ""token"": ""SGdYdBINIoSWvmxowelc6ZKfnUh"""," ""type"": ""docx"""," ""ticket"": ""7411582049443790852"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:26:28,188,logger,INFO,update db success,postgres
+2024-09-07 01:26:34,472,logger,INFO,Downloaded item: 新松项目测试报告（内部） (docx), token: JqFzdyCDVonzrpxGc32cviPfnEg,upload
+2024-09-07 01:26:36,374,logger,INFO,update db success,postgres
+2024-09-07 01:26:37,860,logger,ERROR,Failed to download item: 性能调试专题详解 (docx)," token: FCnWdpoWfoDXkCxJyrLc1eMmnWc。:::REASON:Failed to get file token.
+Details: {""name"": ""性能调试专题详解"""," ""token"": ""FCnWdpoWfoDXkCxJyrLc1eMmnWc"""," ""type"": ""docx"""," ""ticket"": ""7411582091768397825"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:26:37,998,logger,INFO,update db success,postgres
+2024-09-07 01:26:39,482,logger,ERROR,Failed to download item: CN-N-22-C-HY-XS02使用手册 (docx)," token: B7X1d22I8o7S5oxhghEcWfyZnvf。:::REASON:Failed to get file token.
+Details: {""name"": ""CN-N-22-C-HY-XS02使用手册"""," ""token"": ""B7X1d22I8o7S5oxhghEcWfyZnvf"""," ""type"": ""docx"""," ""ticket"": ""7411582098781257756"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:26:39,620,logger,INFO,update db success,postgres
+2024-09-07 01:26:41,058,logger,ERROR,Failed to download item: 学习记录和问题 (docx)," token: ZJU4d4gcjoZe8MxXwE5cmuirn3g。:::REASON:Failed to get file token.
+Details: {""name"": ""学习记录和问题"""," ""token"": ""ZJU4d4gcjoZe8MxXwE5cmuirn3g"""," ""type"": ""docx"""," ""ticket"": ""7411582105693634562"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:26:41,195,logger,INFO,update db success,postgres
+2024-09-07 01:26:47,702,logger,INFO,Downloaded item: 电阻分压方案计算 (docx), token: O2dMdQFkaoNsUGx7tvbc5wRaneb,upload
+2024-09-07 01:26:48,433,logger,INFO,update db success,postgres
+2024-09-07 01:26:54,580,logger,INFO,Downloaded item: 隔离方案 (docx), token: Yi5RdqRhKoD9ozxQaZEcd5nznpd,upload
+2024-09-07 01:26:55,326,logger,INFO,update db success,postgres
+2024-09-07 01:26:56,787,logger,ERROR,Failed to download item: fileReader (docx)," token: QOxvdLYIkoJGB8xZwe6cbSfMnWf。:::REASON:Failed to get file token.
+Details: {""name"": ""fileReader"""," ""token"": ""QOxvdLYIkoJGB8xZwe6cbSfMnWf"""," ""type"": ""docx"""," ""ticket"": ""7411582173108600834"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:26:56,931,logger,INFO,update db success,postgres
+2024-09-07 01:26:58,658,logger,ERROR,Failed to download item: GPT4O处理FAE文档多媒体信息的验证 (docx)," token: Bd0Yd1omoobI9dx0T9NceuN6nsd。:::REASON:Failed to get file token.
+Details: {""name"": ""GPT4O处理FAE文档多媒体信息的验证"""," ""token"": ""Bd0Yd1omoobI9dx0T9NceuN6nsd"""," ""type"": ""docx"""," ""ticket"": ""7411582180633214979"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:26:58,856,logger,INFO,update db success,postgres
+2024-09-07 01:27:00,376,logger,ERROR,Failed to download item: 大模型替换测试 (docx)," token: DkG4de0OSo7YHexL7KGc41qSnod。:::REASON:Failed to get file token.
+Details: {""name"": ""大模型替换测试"""," ""token"": ""DkG4de0OSo7YHexL7KGc41qSnod"""," ""type"": ""docx"""," ""ticket"": ""7411582188380061699"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:00,514,logger,INFO,update db success,postgres
+2024-09-07 01:27:01,943,logger,ERROR,Failed to download item: TAM / Go-To-Market (docx)," token: QTqgd16RQo3YKcxw7O8czSwOnjh。:::REASON:Failed to get file token.
+Details: {""name"": ""TAM / Go-To-Market"""," ""token"": ""QTqgd16RQo3YKcxw7O8czSwOnjh"""," ""type"": ""docx"""," ""ticket"": ""7411582195510345730"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:02,080,logger,INFO,update db success,postgres
+2024-09-07 01:27:03,603,logger,ERROR,Failed to download item: 行动元产品型号大全 (bitable)," token: bascnptnXMY84D8apvwWvdCCSHh。:::REASON:Failed to get file token.
+Details: {""name"": ""行动元产品型号大全"""," ""token"": ""bascnptnXMY84D8apvwWvdCCSHh"""," ""type"": ""bitable"""," ""ticket"": ""7411582202225442820"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:03,740,logger,INFO,update db success,postgres
+2024-09-07 01:27:05,267,logger,ERROR,Failed to download item: PWM占空比调速功能开发-202407280003 (docx)," token: NPt5dS1xpo2PuxxIO9Dct0kanvh。:::REASON:Failed to get file token.
+Details: {""name"": ""PWM占空比调速功能开发-202407280003"""," ""token"": ""NPt5dS1xpo2PuxxIO9Dct0kanvh"""," ""type"": ""docx"""," ""ticket"": ""7411582209288667164"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:05,404,logger,INFO,update db success,postgres
+2024-09-07 01:27:11,246,logger,INFO,Downloaded item: 零星物料事前审批，费用事前审批 (bitable), token: Brq0bJEyJa5rBasEQoqc9hJGnKb,upload
+2024-09-07 01:27:12,700,logger,INFO,update db success,postgres
+2024-09-07 01:27:19,283,logger,INFO,Downloaded item: NTC电阻方案计算 (docx), token: EQw0dIa0zo02uSxFzApcKguAnGb,upload
+2024-09-07 01:27:20,014,logger,INFO,update db success,postgres
+2024-09-07 01:27:26,117,logger,INFO,Downloaded item: 隔离方案计算 (docx), token: KxfWddRl8oP6nnxfYvacndUfnye,upload
+2024-09-07 01:27:26,871,logger,INFO,update db success,postgres
+2024-09-07 01:27:28,390,logger,ERROR,Failed to download item: STO逻辑与计算 (docx)," token: Qw4hdYT5TozWt8x5d2YchE3wnFg。:::REASON:Failed to get file token.
+Details: {""name"": ""STO逻辑与计算"""," ""token"": ""Qw4hdYT5TozWt8x5d2YchE3wnFg"""," ""type"": ""docx"""," ""ticket"": ""7411582308693753859"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:28,528,logger,INFO,update db success,postgres
+2024-09-07 01:27:30,014,logger,ERROR,Failed to download item: 客户服务数据统计 (bitable)," token: bascnRGGRu8vRSAMVDE20gTwuWb。:::REASON:Failed to get file token.
+Details: {""name"": ""客户服务数据统计"""," ""token"": ""bascnRGGRu8vRSAMVDE20gTwuWb"""," ""type"": ""bitable"""," ""ticket"": ""7411582315844993052"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:30,151,logger,INFO,update db success,postgres
+2024-09-07 01:27:31,788,logger,ERROR,Failed to download item: 新松半导体晶圆搬运项目-软件开发 (docx)," token: I0rRdFE5XocQ8OxtFwIcrgklnHc。:::REASON:Failed to get file token.
+Details: {""name"": ""新松半导体晶圆搬运项目-软件开发"""," ""token"": ""I0rRdFE5XocQ8OxtFwIcrgklnHc"""," ""type"": ""docx"""," ""ticket"": ""7411582322731941892"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:31,925,logger,INFO,update db success,postgres
+2024-09-07 01:27:33,468,logger,ERROR,Failed to download item: 新松第一轮环境跑机报告 (docx)," token: AT3LduvbUoupYwx7ZVWcDccDnXd。:::REASON:Failed to get file token.
+Details: {""name"": ""新松第一轮环境跑机报告"""," ""token"": ""AT3LduvbUoupYwx7ZVWcDccDnXd"""," ""type"": ""docx"""," ""ticket"": ""7411582330420117508"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:33,607,logger,INFO,update db success,postgres
+2024-09-07 01:27:35,147,logger,ERROR,Failed to download item: 结构件BOM汇总及版本管理 (bitable)," token: WLXnbVjYsa9QHis7cTFcJU6Wnbf。:::REASON:Failed to get file token.
+Details: {""name"": ""结构件BOM汇总及版本管理"""," ""token"": ""WLXnbVjYsa9QHis7cTFcJU6Wnbf"""," ""type"": ""bitable"""," ""ticket"": ""7411582337873477635"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:35,283,logger,INFO,update db success,postgres
+2024-09-07 01:27:36,789,logger,ERROR,Failed to download item: MotionG内部大模型平台（管理员版） (docx)," token: EaV9du5mTogVmsxfGF4cAjC1nsg。:::REASON:Failed to get file token.
+Details: {""name"": ""MotionG内部大模型平台（管理员版）"""," ""token"": ""EaV9du5mTogVmsxfGF4cAjC1nsg"""," ""type"": ""docx"""," ""ticket"": ""7411582344789835779"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:36,927,logger,INFO,update db success,postgres
+2024-09-07 01:27:38,383,logger,ERROR,Failed to download item: 客户服务数据统计 (bitable)," token: bascnRGGRu8vRSAMVDE20gTwuWb。:::REASON:Failed to get file token.
+Details: {""name"": ""客户服务数据统计"""," ""token"": ""bascnRGGRu8vRSAMVDE20gTwuWb"""," ""type"": ""bitable"""," ""ticket"": ""7411582351857238018"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:38,520,logger,INFO,update db success,postgres
+2024-09-07 01:27:39,958,logger,ERROR,Failed to download item: 请假 (bitable)," token: RPgbbhl3Xadrm3sSwUecaQe3nlh。:::REASON:Failed to get file token.
+Details: {""name"": ""请假"""," ""token"": ""RPgbbhl3Xadrm3sSwUecaQe3nlh"""," ""type"": ""bitable"""," ""ticket"": ""7411582358727442435"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:40,098,logger,INFO,update db success,postgres
+2024-09-07 01:27:41,600,logger,ERROR,Failed to download item: 试用期转正评估-XXX -审批版 (docx)," token: DJN4dXOOzodUzcx6tFOcyg7UnGe。:::REASON:Failed to get file token.
+Details: {""name"": ""试用期转正评估-XXX -审批版"""," ""token"": ""DJN4dXOOzodUzcx6tFOcyg7UnGe"""," ""type"": ""docx"""," ""ticket"": ""7411582365472096259"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:41,738,logger,INFO,update db success,postgres
+2024-09-07 01:27:43,249,logger,ERROR,Failed to download item: 问题跟踪记录表 (bitable)," token: bascnPcp7r2SjVyrQbqdZFEQyMf。:::REASON:Failed to get file token.
+Details: {""name"": ""问题跟踪记录表"""," ""token"": ""bascnPcp7r2SjVyrQbqdZFEQyMf"""," ""type"": ""bitable"""," ""ticket"": ""7411582372530929667"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:43,386,logger,INFO,update db success,postgres
+2024-09-07 01:27:44,787,logger,ERROR,Failed to download item: 深圳伺峰科技有限公司（盛泰奇） (docx)," token: TPSBdomVvoQZORxrm1YcMJuFnPc。:::REASON:Failed to get file token.
+Details: {""name"": ""深圳伺峰科技有限公司（盛泰奇）"""," ""token"": ""TPSBdomVvoQZORxrm1YcMJuFnPc"""," ""type"": ""docx"""," ""ticket"": ""7411582379493507100"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:44,923,logger,INFO,update db success,postgres
+2024-09-07 01:27:46,416,logger,ERROR,Failed to download item: 工具清单 (docx)," token: SGdYdBINIoSWvmxowelc6ZKfnUh。:::REASON:Failed to get file token.
+Details: {""name"": ""工具清单"""," ""token"": ""SGdYdBINIoSWvmxowelc6ZKfnUh"""," ""type"": ""docx"""," ""ticket"": ""7411582386225364995"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:46,554,logger,INFO,update db success,postgres
+2024-09-07 01:27:47,949,logger,ERROR,Failed to download item: 性能调试专题详解 (docx)," token: FCnWdpoWfoDXkCxJyrLc1eMmnWc。:::REASON:Failed to get file token.
+Details: {""name"": ""性能调试专题详解"""," ""token"": ""FCnWdpoWfoDXkCxJyrLc1eMmnWc"""," ""type"": ""docx"""," ""ticket"": ""7411582393233981468"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:48,086,logger,INFO,update db success,postgres
+2024-09-07 01:27:49,554,logger,ERROR,Failed to download item: CN-N-22-C-HY-XS02使用手册 (docx)," token: B7X1d22I8o7S5oxhghEcWfyZnvf。:::REASON:Failed to get file token.
+Details: {""name"": ""CN-N-22-C-HY-XS02使用手册"""," ""token"": ""B7X1d22I8o7S5oxhghEcWfyZnvf"""," ""type"": ""docx"""," ""ticket"": ""7411582399760416769"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:49,702,logger,INFO,update db success,postgres
+2024-09-07 01:27:51,144,logger,ERROR,Failed to download item: 学习记录和问题 (docx)," token: ZJU4d4gcjoZe8MxXwE5cmuirn3g。:::REASON:Failed to get file token.
+Details: {""name"": ""学习记录和问题"""," ""token"": ""ZJU4d4gcjoZe8MxXwE5cmuirn3g"""," ""type"": ""docx"""," ""ticket"": ""7411582406736281601"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:51,281,logger,INFO,update db success,postgres
+2024-09-07 01:27:52,787,logger,ERROR,Failed to download item: fileReader (docx)," token: QOxvdLYIkoJGB8xZwe6cbSfMnWf。:::REASON:Failed to get file token.
+Details: {""name"": ""fileReader"""," ""token"": ""QOxvdLYIkoJGB8xZwe6cbSfMnWf"""," ""type"": ""docx"""," ""ticket"": ""7411582413509312515"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:52,924,logger,INFO,update db success,postgres
+2024-09-07 01:27:54,410,logger,ERROR,Failed to download item: GPT4O处理FAE文档多媒体信息的验证 (docx)," token: Bd0Yd1omoobI9dx0T9NceuN6nsd。:::REASON:Failed to get file token.
+Details: {""name"": ""GPT4O处理FAE文档多媒体信息的验证"""," ""token"": ""Bd0Yd1omoobI9dx0T9NceuN6nsd"""," ""type"": ""docx"""," ""ticket"": ""7411582420618706948"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:54,547,logger,INFO,update db success,postgres
+2024-09-07 01:27:56,055,logger,ERROR,Failed to download item: 大模型替换测试 (docx)," token: DkG4de0OSo7YHexL7KGc41qSnod。:::REASON:Failed to get file token.
+Details: {""name"": ""大模型替换测试"""," ""token"": ""DkG4de0OSo7YHexL7KGc41qSnod"""," ""type"": ""docx"""," ""ticket"": ""7411582427598946308"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:56,196,logger,INFO,update db success,postgres
+2024-09-07 01:27:57,598,logger,ERROR,Failed to download item: TAM / Go-To-Market (docx)," token: QTqgd16RQo3YKcxw7O8czSwOnjh。:::REASON:Failed to get file token.
+Details: {""name"": ""TAM / Go-To-Market"""," ""token"": ""QTqgd16RQo3YKcxw7O8czSwOnjh"""," ""type"": ""docx"""," ""ticket"": ""7411582434631778306"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:57,740,logger,INFO,update db success,postgres
+2024-09-07 01:27:59,214,logger,ERROR,Failed to download item: 行动元产品型号大全 (bitable)," token: bascnptnXMY84D8apvwWvdCCSHh。:::REASON:Failed to get file token.
+Details: {""name"": ""行动元产品型号大全"""," ""token"": ""bascnptnXMY84D8apvwWvdCCSHh"""," ""type"": ""bitable"""," ""ticket"": ""7411582441200140316"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:27:59,351,logger,INFO,update db success,postgres
+2024-09-07 01:28:00,877,logger,ERROR,Failed to download item: PWM占空比调速功能开发-202407280003 (docx)," token: NPt5dS1xpo2PuxxIO9Dct0kanvh。:::REASON:Failed to get file token.
+Details: {""name"": ""PWM占空比调速功能开发-202407280003"""," ""token"": ""NPt5dS1xpo2PuxxIO9Dct0kanvh"""," ""type"": ""docx"""," ""ticket"": ""7411582448208756739"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:28:01,016,logger,INFO,update db success,postgres
+2024-09-07 01:28:02,546,logger,ERROR,Failed to download item: STO逻辑与计算 (docx)," token: Qw4hdYT5TozWt8x5d2YchE3wnFg。:::REASON:Failed to get file token.
+Details: {""name"": ""STO逻辑与计算"""," ""token"": ""Qw4hdYT5TozWt8x5d2YchE3wnFg"""," ""type"": ""docx"""," ""ticket"": ""7411582455334830084"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:28:02,684,logger,INFO,update db success,postgres
+2024-09-07 01:28:04,229,logger,ERROR,Failed to download item: 客户服务数据统计 (bitable)," token: bascnRGGRu8vRSAMVDE20gTwuWb。:::REASON:Failed to get file token.
+Details: {""name"": ""客户服务数据统计"""," ""token"": ""bascnRGGRu8vRSAMVDE20gTwuWb"""," ""type"": ""bitable"""," ""ticket"": ""7411582462481989636"""," ""file_token"": null}",lark_downloader
+2024-09-07 01:28:04,366,logger,INFO,update db success,postgres
+2024-09-07 01:28:04,367,logger,INFO,Upload mission completed with 70 files failed,
+2024-09-07 01:28:04,367,logger,ERROR,Failed list:,MinIO
+2024-09-07 01:28:04,379,logger,ERROR,"[
+    {
+        ""name"": ""新松半导体晶圆搬运项目-软件开发""","
+        ""token"": ""I0rRdFE5XocQ8OxtFwIcrgklnHc""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411575661090914332""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""新松第一轮环境跑机报告""","
+        ""token"": ""AT3LduvbUoupYwx7ZVWcDccDnXd""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411577497352945665""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""结构件BOM汇总及版本管理""","
+        ""token"": ""WLXnbVjYsa9QHis7cTFcJU6Wnbf""","
+        ""type"": ""bitable""","
+        ""ticket"": ""7411577536734920708""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""MotionG内部大模型平台（管理员版）""","
+        ""token"": ""EaV9du5mTogVmsxfGF4cAjC1nsg""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411578041568100353""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""客户服务数据统计""","
+        ""token"": ""bascnRGGRu8vRSAMVDE20gTwuWb""","
+        ""type"": ""bitable""","
+        ""ticket"": ""7411578048544849924""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""请假""","
+        ""token"": ""RPgbbhl3Xadrm3sSwUecaQe3nlh""","
+        ""type"": ""bitable""","
+        ""ticket"": ""7411578138490060828""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""试用期转正评估-XXX -审批版""","
+        ""token"": ""DJN4dXOOzodUzcx6tFOcyg7UnGe""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411578174946934785""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""问题跟踪记录表""","
+        ""token"": ""bascnPcp7r2SjVyrQbqdZFEQyMf""","
+        ""type"": ""bitable""","
+        ""ticket"": ""7411578216197914628""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""                       一光第一轮SI测试方案 ""","
+        ""token"": ""SlDYdvVJcojy0Sx6ImEcM4lonzg""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411578254227767300""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""深圳伺峰科技有限公司（盛泰奇）""","
+        ""token"": ""TPSBdomVvoQZORxrm1YcMJuFnPc""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411578341569937436""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""工具清单""","
+        ""token"": ""SGdYdBINIoSWvmxowelc6ZKfnUh""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411578348528320516""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""新松项目测试报告（内部）""","
+        ""token"": ""JqFzdyCDVonzrpxGc32cviPfnEg""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411578355826294787""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""性能调试专题详解""","
+        ""token"": ""FCnWdpoWfoDXkCxJyrLc1eMmnWc""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411578362969669635""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""CN-N-22-C-HY-XS02使用手册""","
+        ""token"": ""B7X1d22I8o7S5oxhghEcWfyZnvf""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411578370057601027""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""学习记录和问题""","
+        ""token"": ""ZJU4d4gcjoZe8MxXwE5cmuirn3g""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411578574274035714""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""电阻分压方案计算""","
+        ""token"": ""O2dMdQFkaoNsUGx7tvbc5wRaneb""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411578581035270145""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""隔离方案""","
+        ""token"": ""Yi5RdqRhKoD9ozxQaZEcd5nznpd""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411578587804925980""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""fileReader""","
+        ""token"": ""QOxvdLYIkoJGB8xZwe6cbSfMnWf""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411578853065441283""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""GPT4O处理FAE文档多媒体信息的验证""","
+        ""token"": ""Bd0Yd1omoobI9dx0T9NceuN6nsd""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411578860845842436""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""大模型替换测试""","
+        ""token"": ""DkG4de0OSo7YHexL7KGc41qSnod""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411581270641213443""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""TAM / Go-To-Market""","
+        ""token"": ""QTqgd16RQo3YKcxw7O8czSwOnjh""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411581338631667715""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""行动元产品型号大全""","
+        ""token"": ""bascnptnXMY84D8apvwWvdCCSHh""","
+        ""type"": ""bitable""","
+        ""ticket"": ""7411581404212953090""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""PWM占空比调速功能开发-202407280003""","
+        ""token"": ""NPt5dS1xpo2PuxxIO9Dct0kanvh""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411581439311659011""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""零星物料事前审批，费用事前审批""","
+        ""token"": ""Brq0bJEyJa5rBasEQoqc9hJGnKb""","
+        ""type"": ""bitable""","
+        ""ticket"": ""7411581670953992196""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""NTC电阻方案计算""","
+        ""token"": ""EQw0dIa0zo02uSxFzApcKguAnGb""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411581798049660956""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""隔离方案计算""","
+        ""token"": ""KxfWddRl8oP6nnxfYvacndUfnye""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411581805133905922""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""STO逻辑与计算""","
+        ""token"": ""Qw4hdYT5TozWt8x5d2YchE3wnFg""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411581811962265601""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""客户服务数据统计""","
+        ""token"": ""bascnRGGRu8vRSAMVDE20gTwuWb""","
+        ""type"": ""bitable""","
+        ""ticket"": ""7411581906891882498""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""新松半导体晶圆搬运项目-软件开发""","
+        ""token"": ""I0rRdFE5XocQ8OxtFwIcrgklnHc""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411581941452914691""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""新松第一轮环境跑机报告""","
+        ""token"": ""AT3LduvbUoupYwx7ZVWcDccDnXd""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411581948587507740""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""结构件BOM汇总及版本管理""","
+        ""token"": ""WLXnbVjYsa9QHis7cTFcJU6Wnbf""","
+        ""type"": ""bitable""","
+        ""ticket"": ""7411581955935944705""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""MotionG内部大模型平台（管理员版）""","
+        ""token"": ""EaV9du5mTogVmsxfGF4cAjC1nsg""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411581962621599745""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""客户服务数据统计""","
+        ""token"": ""bascnRGGRu8vRSAMVDE20gTwuWb""","
+        ""type"": ""bitable""","
+        ""ticket"": ""7411581969504403460""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""请假""","
+        ""token"": ""RPgbbhl3Xadrm3sSwUecaQe3nlh""","
+        ""type"": ""bitable""","
+        ""ticket"": ""7411581976752193539""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""试用期转正评估-XXX -审批版""","
+        ""token"": ""DJN4dXOOzodUzcx6tFOcyg7UnGe""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411581983978946562""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""问题跟踪记录表""","
+        ""token"": ""bascnPcp7r2SjVyrQbqdZFEQyMf""","
+        ""type"": ""bitable""","
+        ""ticket"": ""7411581990866239491""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""深圳伺峰科技有限公司（盛泰奇）""","
+        ""token"": ""TPSBdomVvoQZORxrm1YcMJuFnPc""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582042292355075""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""工具清单""","
+        ""token"": ""SGdYdBINIoSWvmxowelc6ZKfnUh""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582049443790852""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""性能调试专题详解""","
+        ""token"": ""FCnWdpoWfoDXkCxJyrLc1eMmnWc""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582091768397825""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""CN-N-22-C-HY-XS02使用手册""","
+        ""token"": ""B7X1d22I8o7S5oxhghEcWfyZnvf""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582098781257756""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""学习记录和问题""","
+        ""token"": ""ZJU4d4gcjoZe8MxXwE5cmuirn3g""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582105693634562""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""fileReader""","
+        ""token"": ""QOxvdLYIkoJGB8xZwe6cbSfMnWf""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582173108600834""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""GPT4O处理FAE文档多媒体信息的验证""","
+        ""token"": ""Bd0Yd1omoobI9dx0T9NceuN6nsd""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582180633214979""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""大模型替换测试""","
+        ""token"": ""DkG4de0OSo7YHexL7KGc41qSnod""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582188380061699""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""TAM / Go-To-Market""","
+        ""token"": ""QTqgd16RQo3YKcxw7O8czSwOnjh""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582195510345730""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""行动元产品型号大全""","
+        ""token"": ""bascnptnXMY84D8apvwWvdCCSHh""","
+        ""type"": ""bitable""","
+        ""ticket"": ""7411582202225442820""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""PWM占空比调速功能开发-202407280003""","
+        ""token"": ""NPt5dS1xpo2PuxxIO9Dct0kanvh""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582209288667164""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""STO逻辑与计算""","
+        ""token"": ""Qw4hdYT5TozWt8x5d2YchE3wnFg""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582308693753859""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""客户服务数据统计""","
+        ""token"": ""bascnRGGRu8vRSAMVDE20gTwuWb""","
+        ""type"": ""bitable""","
+        ""ticket"": ""7411582315844993052""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""新松半导体晶圆搬运项目-软件开发""","
+        ""token"": ""I0rRdFE5XocQ8OxtFwIcrgklnHc""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582322731941892""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""新松第一轮环境跑机报告""","
+        ""token"": ""AT3LduvbUoupYwx7ZVWcDccDnXd""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582330420117508""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""结构件BOM汇总及版本管理""","
+        ""token"": ""WLXnbVjYsa9QHis7cTFcJU6Wnbf""","
+        ""type"": ""bitable""","
+        ""ticket"": ""7411582337873477635""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""MotionG内部大模型平台（管理员版）""","
+        ""token"": ""EaV9du5mTogVmsxfGF4cAjC1nsg""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582344789835779""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""客户服务数据统计""","
+        ""token"": ""bascnRGGRu8vRSAMVDE20gTwuWb""","
+        ""type"": ""bitable""","
+        ""ticket"": ""7411582351857238018""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""请假""","
+        ""token"": ""RPgbbhl3Xadrm3sSwUecaQe3nlh""","
+        ""type"": ""bitable""","
+        ""ticket"": ""7411582358727442435""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""试用期转正评估-XXX -审批版""","
+        ""token"": ""DJN4dXOOzodUzcx6tFOcyg7UnGe""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582365472096259""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""问题跟踪记录表""","
+        ""token"": ""bascnPcp7r2SjVyrQbqdZFEQyMf""","
+        ""type"": ""bitable""","
+        ""ticket"": ""7411582372530929667""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""深圳伺峰科技有限公司（盛泰奇）""","
+        ""token"": ""TPSBdomVvoQZORxrm1YcMJuFnPc""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582379493507100""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""工具清单""","
+        ""token"": ""SGdYdBINIoSWvmxowelc6ZKfnUh""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582386225364995""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""性能调试专题详解""","
+        ""token"": ""FCnWdpoWfoDXkCxJyrLc1eMmnWc""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582393233981468""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""CN-N-22-C-HY-XS02使用手册""","
+        ""token"": ""B7X1d22I8o7S5oxhghEcWfyZnvf""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582399760416769""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""学习记录和问题""","
+        ""token"": ""ZJU4d4gcjoZe8MxXwE5cmuirn3g""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582406736281601""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""fileReader""","
+        ""token"": ""QOxvdLYIkoJGB8xZwe6cbSfMnWf""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582413509312515""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""GPT4O处理FAE文档多媒体信息的验证""","
+        ""token"": ""Bd0Yd1omoobI9dx0T9NceuN6nsd""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582420618706948""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""大模型替换测试""","
+        ""token"": ""DkG4de0OSo7YHexL7KGc41qSnod""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582427598946308""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""TAM / Go-To-Market""","
+        ""token"": ""QTqgd16RQo3YKcxw7O8czSwOnjh""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582434631778306""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""行动元产品型号大全""","
+        ""token"": ""bascnptnXMY84D8apvwWvdCCSHh""","
+        ""type"": ""bitable""","
+        ""ticket"": ""7411582441200140316""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""PWM占空比调速功能开发-202407280003""","
+        ""token"": ""NPt5dS1xpo2PuxxIO9Dct0kanvh""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582448208756739""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""STO逻辑与计算""","
+        ""token"": ""Qw4hdYT5TozWt8x5d2YchE3wnFg""","
+        ""type"": ""docx""","
+        ""ticket"": ""7411582455334830084""","
+        ""file_token"": null
+    }","
+    {
+        ""name"": ""客户服务数据统计""","
+        ""token"": ""bascnRGGRu8vRSAMVDE20gTwuWb""","
+        ""type"": ""bitable""","
+        ""ticket"": ""7411582462481989636""","
+        ""file_token"": null
+    }
+]",MinIO
+2024-09-07 01:28:04,400,logger,INFO,Upload mission completed without any failed.,
