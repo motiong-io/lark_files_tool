@@ -135,7 +135,11 @@ def file_downloader(file_token, initial_token=None, version=1, is_pdf=True, ):
         if version == 1:
             file_name = f"{token}_{response.file_name}"
         else:
-            file_name = f"{token}_{response.file_name}_{version}"
+            if is_pdf:
+                file_name, file_extension = os.path.splitext(response.file_name)
+                file_name = f"{token}_{file_name}_{version}{file_extension}"
+            else:
+                file_name = f"{token}_{response.file_name}_{version}"
 
         sanitized_file_name = sanitize_filename(file_name)
         with open(f"{download_path}/{sanitized_file_name}", "wb") as f:
