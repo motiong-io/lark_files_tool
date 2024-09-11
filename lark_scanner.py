@@ -161,7 +161,7 @@ def upload_new_files(cat_flag):
         remaining_files = []
         for file in current_files:
             file, fail_list = upload(file, fail_list, cat_flag)
-            if file['is_uploaded'] == '0' or (file['is_uploaded'] == '2' and 'Unsupported type' not in file['error_msg']):
+            if file['is_uploaded'] == '0' or (file['is_uploaded'] == '2' and 'Unsupported type' not in file['error_msg'] and 'Failed to get file token' not in file['error_msg']):
                 remaining_files.append(file)
             update_uploadstatus_db(file, cat_flag)
 
@@ -236,7 +236,8 @@ def lark_syntax(cat_flag):
         'data_name': 'files' if cat_flag == 1 else 'items',
         'folder_token': 'Token' if cat_flag == 1 else 'space_id',
         'list_table':'extracted_folders' if cat_flag == 1 else 'space_list',
-        'folder_node':'folder' if cat_flag == 1 else 'node'
+        'folder_node':'folder' if cat_flag == 1 else 'node',
+        'next_page_token':'next_page_token' if cat_flag == 1 else 'page_token'
     }
 def process_file_name(file,syntax):
     name,token,type = syntax['name'],syntax['token'],syntax['type']
@@ -325,7 +326,7 @@ def get_all_files(size=50, token='', folder='', parent_node_token='', cat_flag=1
     syntax = lark_syntax(cat_flag)
     url = "https://open.feishu.cn/open-apis/drive/v1/files?direction=DESC&order_by=EditedTime" if cat_flag == 1 else f"https://open.feishu.cn/open-apis/wiki/v2/spaces/{folder}/nodes"
     payload = {'page_size': size, 'page_token': token, 'folder_token': folder} if cat_flag == 1 else {'page_size': size, 'page_token': token, 'parent_node_token': parent_node_token}
-    name,type,file_token, data_name , folder_node = syntax['name'],syntax['type'],syntax['token'],syntax['data_name'],syntax['folder_node']
+    name,type,file_token, data_name , folder_node,next_page_token = syntax['name'],syntax['type'],syntax['token'],syntax['data_name'],syntax['folder_node'],syntax['next_page_token']
     try:
         response_json = lark_file.request_with_retry(url, params=payload)
         if not response_json:
@@ -338,7 +339,7 @@ def get_all_files(size=50, token='', folder='', parent_node_token='', cat_flag=1
                 log_with_category(logger, 'info', f"found file: {a_file[type]} : {a_file[name]} _ {a_file[file_token]}", '')
             # 分页遍历一个文件夹的所有子文件
             while response_json['data']['has_more'] is True:
-                payload['page_token'] = response_json['data']['next_page_token']
+                payload['page_token'] = response_json['data'][next_page_token]
                 response_json = lark_file.request_with_retry(url, params=payload)
                 a_file = response_json['data'][data_name]
                 files += a_file
@@ -619,12 +620,12 @@ def scan_process_folders(folders):
     log_with_category(logger, 'info', "-----------------------------------------------\n\nnow scanning folders\n\n-----------------------------------------------", '')
     global visited_folders
     visited_folders = read_csv_to_set(visited_folders_path)
-    remaining_folders = [folder for folder in folders if folder['Token'] not in visited_folders]
+    remaining_folders = [folder for folder in folders if folder['token'] not in visited_folders]
     while remaining_folders:
         remaining_folders_copy = remaining_folders.copy()
         try:
             Scan_folders(remaining_folders,1)
-            remaining_folders = [folder for folder in folders if folder['Token'] not in visited_folders]
+            remaining_folders = [folder for folder in folders if folder['token'] not in visited_folders]
             if remaining_folders==remaining_folders_copy:
                 count+=1
                 if count>3:
