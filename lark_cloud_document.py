@@ -55,10 +55,10 @@ def request_with_retry(url, method='GET', headers=None, data=None, params=None, 
         time.sleep(delay)
     return None
 #所有文件的通用下载接口
-def lark_cloud_downloader(item_data):
+def lark_cloud_downloader(item_data,version):
     print(f"Processing item: {item_data['name']} ({item_data['type']}), token: {item_data['token']}")
     if item_data['type'] == 'file':
-        return pdf_downloader(item_data['token'])
+        return file_downloader(file_token=item_data['token'], version= version, is_pdf=True)
     else:
         temp1 = output_mission(item_data['token'], item_data['type'])
         if temp1 and 'data' in temp1:
@@ -66,13 +66,13 @@ def lark_cloud_downloader(item_data):
             time.sleep(0.8)
             item_data['file_token'] = get_file_token_with_retry(item_data['ticket'], item_data['token'])
             if item_data['file_token']:
-                return cloud_file_downloader(item_data['file_token'],item_data['token'])
+                return file_downloader(file_token=item_data['file_token'],initial_token=item_data['token'],version=version, is_pdf=False)
             else:
                 return 2,"Failed to get file token"  # 表示出错
         else:
-            return 2,temp1  # 表示出错
-#pdf和附件类文件下载
-def pdf_downloader(file_token):
+            return 2, f'Fetch cloud doc ticket failed: {temp1}'  # 表示出错
+# 文件下载函数
+def file_downloader(file_token, initial_token=None, version=1, is_pdf=True, ):
     # 创建 client
     client = lark.Client.builder() \
         .enable_set_token(True) \
@@ -80,113 +80,78 @@ def pdf_downloader(file_token):
         .build()
 
     # 构造请求对象
-    request = DownloadFileRequest.builder() \
-        .file_token(file_token) \
-        .build()
+    if is_pdf:
+        request = DownloadFileRequest.builder() \
+            .file_token(file_token) \
+            .build()
+    else:
+        request = DownloadExportTaskRequest.builder() \
+            .file_token(file_token) \
+            .build()
 
     # 发起请求
     user_token = get_user_token1()
     option = lark.RequestOption.builder().user_access_token(user_token).build()
-    authorization_flag=0
+    authorization_flag = 0
+
     # 自动重试try to download the file
-    for attempt in range(1,  10):
+    for attempt in range(1, 10):
         try:
-            response = client.drive.v1.file.download(request, option)
+            if is_pdf:
+                response = client.drive.v1.file.download(request, option)
+            else:
+                response = client.drive.v1.export_task.download(request, option)
+
             if not response.success():
                 print(f'Download Attempt {attempt} failed: {response.code} - {response.msg}')
-                if (response.code == 99991668 or response.code == 99991677) and authorization_flag==0:
-                    user_token= get_user_token1()
-                    authorization_flag=1
+                if (response.code == 99991668 or response.code == 99991677) and authorization_flag == 0:
+                    user_token = get_user_token1()
+                    authorization_flag = 1
                     option = lark.RequestOption.builder().user_access_token(user_token).build()
                     time.sleep(5)
-                elif (response.code == 99991668 or response.code == 99991677) and authorization_flag==1:
-                    user_token= get_user_token2()
-                    authorization_flag=2
+                elif (response.code == 99991668 or response.code == 99991677) and authorization_flag == 1:
+                    user_token = get_user_token2()
+                    authorization_flag = 2
                     option = lark.RequestOption.builder().user_access_token(user_token).build()
                     time.sleep(5)
                 elif response.code == 99991400:
                     time.sleep(10)
                 else:
-                    authorization_flag=0
-                    return 2,response.msg
+                    authorization_flag = 0
+                    return 2, response.msg
         except RequestException as e:
-            print(f'Attempt {attempt} raised exception: {e}')
-            lark.logger.error(
-            f"client.drive.v1.file.download failed, code: {response.code}, msg: {response.msg}, log_id: {response.get_log_id()}")
-            return 2,e
+            error_msg=f'Attempt {attempt} raised exception: {e}.client.drive.v1.file.download failed, code: {response.code}, msg: {response.msg}, log_id: {response.get_log_id()}'
+            print(error_msg)
+            lark.logger.error(error_msg)
+            return 2, error_msg
 
     # if download successful, 处理业务结果
     try:
         os.makedirs(download_path, exist_ok=True)
-        file_name=f"{file_token}_{response.file_name}"
+        if is_pdf:
+            token=file_token
+        else:
+            token=initial_token
+        if version == 1:
+            file_name = f"{token}_{response.file_name}"
+        else:
+            if is_pdf:
+                file_name, file_extension = os.path.splitext(response.file_name)
+                file_name = f"{token}_{file_name}_{version}{file_extension}"
+            else:
+                file_name = f"{token}_{response.file_name}_{version}"
+
         sanitized_file_name = sanitize_filename(file_name)
         with open(f"{download_path}/{sanitized_file_name}", "wb") as f:
             f.write(response.file.read())
     except FileNotFoundError as e:
-        return 2,e
+        return 2, e
     except Exception as e:
-        return 2,e
+        return 2, e
 
     return 0, sanitized_file_name
-#云文档类文件下载
-def cloud_file_downloader(file_token,initial_token):
-    # 创建 client
-    client = lark.Client.builder() \
-        .enable_set_token(True) \
-        .log_level(lark.LogLevel.INFO) \
-        .build()
 
-    # 构造请求对象
-    request = DownloadExportTaskRequest.builder() \
-        .file_token(file_token) \
-        .build()
 
-    # 发起请求
-    user_token = get_user_token1()
-    option = lark.RequestOption.builder().user_access_token(user_token).build()
-    
-
-    authorization_flag=0
-# 自动重试try to download the file
-    for attempt in range(1,  10):
-        try:
-            response = client.drive.v1.export_task.download(request, option)
-            if not response.success():
-                print(f'Download Attempt {attempt} failed: {response.code} - {response.msg}')
-                if (response.code== 99991668 or response.code == 99991677) and authorization_flag==0:
-                    user_token= get_user_token1()
-                    authorization_flag=1
-                    option = lark.RequestOption.builder().user_access_token(user_token).build()
-                    time.sleep(5)
-                elif (response.code == 99991668 or response.code== 99991677) and authorization_flag==1:
-                    user_token= get_user_token2()
-                    authorization_flag=2
-                    option = lark.RequestOption.builder().user_access_token(user_token).build()
-                    time.sleep(5)
-                elif response.code == 99991400:
-                    time.sleep(10)                
-                else:
-                    authorization_flag=0
-                    return 2,response.msg
-        except RequestException as e:
-            print(f'Attempt {attempt} raised exception: {e}')
-            lark.logger.error(
-            f"client.drive.v1.file.download failed, code: {response.code}, msg: {response.msg}, log_id: {response.get_log_id()}")
-            return 2,e
-        
-    # if download successful, 处理业务结果
-    try:
-        os.makedirs(download_path, exist_ok=True)
-        file_name=f"{initial_token}_{response.file_name}"
-        sanitized_file_name = sanitize_filename(file_name)
-        with open(f"{download_path}/{sanitized_file_name}", "wb") as f:
-            f.write(response.file.read())
-    except FileNotFoundError as e:
-        return 2,e
-    except Exception as e:
-        return 2,e
-
-    return 0, sanitized_file_name
 #下载前，文件名非法字符替换
 def sanitize_filename(filename):
     # 定义要替换的字符
